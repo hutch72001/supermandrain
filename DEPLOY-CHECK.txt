@@ -1,0 +1,2 @@
+V7.1 CSS FIX
+Expected stylesheet: /site-v71.css?v=20260718-1
