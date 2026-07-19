@@ -1,0 +1,29 @@
+V8.1/V9 현장 사례 및 메인 수정 보고서
+- 기존 사례: 27건
+- 신규 사례: 17건
+- 최종 사례: 44건
+- 신규 현장 이미지(WebP): 204장
+- 메인 숫자: 44건
+- 상단 전화번호 대비 강화
+- 지역 허브 빈 버튼 색상 수정
+- CSS 캐시 버전 갱신
+- CNAME 및 .nojekyll 포함
+- index/cases/sitemap/rss 수정
+
+- 목포: /cases/mokpo-drain-blockage-2/ (12장)
+- 순천: /cases/suncheon-drain-blockage-2/ (12장)
+- 광주: /cases/gwangju-drain-blockage/ (12장)
+- 순천: /cases/suncheon-sink-blockage/ (12장)
+- 영광·함평: /cases/yeonggwang-hampyeong-sink-blockage/ (12장)
+- 장성·담양: /cases/jangseong-damyang-sink-blockage/ (12장)
+- 광주: /cases/gwangju-drain-blockage-2/ (12장)
+- 나주: /cases/naju-drain-blockage-3/ (12장)
+- 목포: /cases/mokpo-drain-blockage-3/ (12장)
+- 순천: /cases/suncheon-drain-blockage-3/ (12장)
+- 영광: /cases/yeonggwang-toilet-blockage/ (12장)
+- 장성: /cases/jangseong-drain-blockage/ (12장)
+- 광주북구: /cases/gwangju-bukgu-drain-blockage-2/ (12장)
+- 광주서구: /cases/gwangju-seogu-drain-blockage/ (12장)
+- 광주동구: /cases/gwangju-donggu-drain-blockage-2/ (12장)
+- 순천: /cases/suncheon-toilet-blockage/ (12장)
+- 영광: /cases/yeonggwang-toilet-blockage-2/ (12장)
