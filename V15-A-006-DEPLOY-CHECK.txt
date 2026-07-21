@@ -1,0 +1,9 @@
+V15-A-006 DEPLOY CHECK
+
+STATUS: PASS
+HTML COUNT: 160
+NEW DRAIN PAGES: 5
+SITEMAP ADDED: 5
+MISSING: 0
+
+기존 저장소 최상위 폴더에 전체 파일을 덮어쓴 뒤 GitHub Desktop에서 변경 내용을 확인하고 커밋하세요.

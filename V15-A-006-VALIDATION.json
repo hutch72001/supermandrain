@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "version": "V15-A-006",
+  "new_drain_pages": [
+    "regions/jeonbuk/jeonju/drain/index.html",
+    "regions/jeonbuk/iksan/drain/index.html",
+    "regions/jeonbuk/gunsan/drain/index.html",
+    "regions/jeonbuk/gimje/drain/index.html",
+    "regions/jeonbuk/namwon/drain/index.html"
+  ],
+  "modified_region_pages": [
+    "regions/jeonbuk/jeonju/index.html",
+    "regions/jeonbuk/iksan/index.html",
+    "regions/jeonbuk/gunsan/index.html",
+    "regions/jeonbuk/gimje/index.html",
+    "regions/jeonbuk/namwon/index.html"
+  ],
+  "modified_hub": "regions/jeonbuk/index.html",
+  "html_count": 160,
+  "missing_files": [],
+  "sitemap_entries_added": 5
+}
