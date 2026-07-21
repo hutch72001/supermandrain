@@ -1,0 +1,15 @@
+V15-A-001 변경 보고서
+
+- 기준 버전: V14.9-ASSET-PREPARATION
+- 수정 HTML: 137개
+- 전체 HTML: 137개
+- 공통 JavaScript 추가: site-v15a.js
+- 공통 CSS 확장: site-v71.css
+- 모든 페이지에 정적 관련 서비스 내부링크 6개 추가
+- 모바일 메뉴 토글 및 현재 메뉴 표시 추가
+- 접근성 본문 바로가기와 main 앵커 추가
+- 이미지 lazy loading/async decoding 보강
+- 외부 링크 rel 보안 속성 보강
+- sitemap lastmod 갱신
+
+덮어쓰기 방식: ZIP 내부 파일과 폴더를 기존 저장소 최상위에 그대로 복사
