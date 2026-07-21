@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "version": "V15-A-007",
+  "html_count": 165,
+  "new_pages": [
+    "regions/jeonbuk/wanju/drain/index.html",
+    "regions/jeonbuk/sunchang/drain/index.html",
+    "regions/jeonbuk/buan/drain/index.html",
+    "regions/jeonbuk/imsil/drain/index.html",
+    "regions/jeonbuk/jinan/drain/index.html"
+  ],
+  "missing_internal_links": [],
+  "missing_internal_link_count": 0,
+  "sitemap_entries_added": 5
+}
