@@ -1,0 +1,16 @@
+{
+  "version": "V15-A-002",
+  "base_version": "V15-A-001",
+  "html_count": 142,
+  "new_region_drain_pages": 5,
+  "rebuilt_region_pages": 5,
+  "regions": [
+    "목포",
+    "무안",
+    "장흥",
+    "보성",
+    "여수"
+  ],
+  "sitemap_urls": 141,
+  "status": "PASS"
+}

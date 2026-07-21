@@ -1,0 +1,7 @@
+V15-A-002 DEPLOY CHECK
+PASS
+
+1. ZIP 내부 내용을 저장소 최상위에 덮어쓰기
+2. GitHub Desktop에서 변경 파일 확인
+3. Commit & Push
+4. /regions/jeonnam/mokpo/drain/ 등 5개 신규 URL 확인
