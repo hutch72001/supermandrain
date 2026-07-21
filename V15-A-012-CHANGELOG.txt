@@ -1,0 +1,16 @@
+V15-A-012 CHANGELOG
+=====================
+Base: V15-A-011.zip
+Date: 2026-07-22
+
+Actual changes
+- Optimized title and meta description on 20 core pages.
+- Normalized canonical, robots, Open Graph, and Twitter metadata.
+- Filled missing image alt text and enabled lazy loading on edited pages.
+- Refreshed CSS/JS version query on edited pages.
+- Added lastmod only to the edited URLs in sitemap.xml.
+
+Scope
+- New pages: 0
+- Edited HTML pages: 20
+- Edited support files: sitemap.xml

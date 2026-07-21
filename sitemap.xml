@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://supermandrain.co.kr/</loc></url>
-  <url><loc>https://supermandrain.co.kr/cases/</loc></url>
+  <url><loc>https://supermandrain.co.kr/</loc><lastmod>2026-07-22</lastmod></url>
+  <url><loc>https://supermandrain.co.kr/cases/</loc><lastmod>2026-07-22</lastmod></url>
   <url><loc>https://supermandrain.co.kr/cases/boseong-drain-blockage/</loc></url>
-  <url><loc>https://supermandrain.co.kr/cases/drain/</loc></url>
+  <url><loc>https://supermandrain.co.kr/cases/drain/</loc><lastmod>2026-07-22</lastmod></url>
   <url><loc>https://supermandrain.co.kr/cases/gochang-drain-blockage/</loc></url>
   <url><loc>https://supermandrain.co.kr/cases/gurye-drain-blockage/</loc></url>
   <url><loc>https://supermandrain.co.kr/cases/gwangju-bukgu-drain-blockage-2/</loc></url>
@@ -29,7 +29,7 @@
   <url><loc>https://supermandrain.co.kr/cases/jangseong-damyang-sink-blockage/</loc></url>
   <url><loc>https://supermandrain.co.kr/cases/jangseong-drain-blockage/</loc></url>
   <url><loc>https://supermandrain.co.kr/cases/jeongeup-drain-blockage/</loc></url>
-  <url><loc>https://supermandrain.co.kr/cases/leak/</loc></url>
+  <url><loc>https://supermandrain.co.kr/cases/leak/</loc><lastmod>2026-07-22</lastmod></url>
   <url><loc>https://supermandrain.co.kr/cases/mokpo-drain-blockage-2/</loc></url>
   <url><loc>https://supermandrain.co.kr/cases/mokpo-drain-blockage-3/</loc></url>
   <url><loc>https://supermandrain.co.kr/cases/mokpo-drain-blockage/</loc></url>
@@ -52,15 +52,15 @@
   <url><loc>https://supermandrain.co.kr/cases/yeonggwang-toilet-blockage-2/</loc></url>
   <url><loc>https://supermandrain.co.kr/cases/yeonggwang-toilet-blockage/</loc></url>
   <url><loc>https://supermandrain.co.kr/cases/yeosu-drain-blockage/</loc></url>
-  <url><loc>https://supermandrain.co.kr/contact/</loc></url>
-  <url><loc>https://supermandrain.co.kr/equipment/</loc></url>
+  <url><loc>https://supermandrain.co.kr/contact/</loc><lastmod>2026-07-22</lastmod></url>
+  <url><loc>https://supermandrain.co.kr/equipment/</loc><lastmod>2026-07-22</lastmod></url>
   <url><loc>https://supermandrain.co.kr/equipment/drain/</loc></url>
   <url><loc>https://supermandrain.co.kr/equipment/leak/</loc></url>
-  <url><loc>https://supermandrain.co.kr/faq/</loc></url>
+  <url><loc>https://supermandrain.co.kr/faq/</loc><lastmod>2026-07-22</lastmod></url>
   <url><loc>https://supermandrain.co.kr/faq/drain/</loc></url>
   <url><loc>https://supermandrain.co.kr/faq/leak/</loc></url>
-  <url><loc>https://supermandrain.co.kr/regions/</loc></url>
-  <url><loc>https://supermandrain.co.kr/regions/gwangju/</loc></url>
+  <url><loc>https://supermandrain.co.kr/regions/</loc><lastmod>2026-07-22</lastmod></url>
+  <url><loc>https://supermandrain.co.kr/regions/gwangju/</loc><lastmod>2026-07-22</lastmod></url>
   <url><loc>https://supermandrain.co.kr/regions/gwangju/gwangju-bukgu/</loc></url>
   <url><loc>https://supermandrain.co.kr/regions/gwangju/gwangju-bukgu/drain/</loc></url>
   <url><loc>https://supermandrain.co.kr/regions/gwangju/gwangju-bukgu/leak/</loc></url>
@@ -76,7 +76,7 @@
   <url><loc>https://supermandrain.co.kr/regions/gwangju/gwangju-seogu/</loc></url>
   <url><loc>https://supermandrain.co.kr/regions/gwangju/gwangju-seogu/drain/</loc></url>
   <url><loc>https://supermandrain.co.kr/regions/gwangju/gwangju-seogu/leak/</loc></url>
-  <url><loc>https://supermandrain.co.kr/regions/jeonbuk/</loc></url>
+  <url><loc>https://supermandrain.co.kr/regions/jeonbuk/</loc><lastmod>2026-07-22</lastmod></url>
   <url><loc>https://supermandrain.co.kr/regions/jeonbuk/buan/</loc></url>
   <url><loc>https://supermandrain.co.kr/regions/jeonbuk/gimje/</loc></url>
   <url><loc>https://supermandrain.co.kr/regions/jeonbuk/gochang/</loc></url>
@@ -95,7 +95,7 @@
   <url><loc>https://supermandrain.co.kr/regions/jeonbuk/namwon/</loc></url>
   <url><loc>https://supermandrain.co.kr/regions/jeonbuk/sunchang/</loc></url>
   <url><loc>https://supermandrain.co.kr/regions/jeonbuk/wanju/</loc></url>
-  <url><loc>https://supermandrain.co.kr/regions/jeonnam/</loc></url>
+  <url><loc>https://supermandrain.co.kr/regions/jeonnam/</loc><lastmod>2026-07-22</lastmod></url>
   <url><loc>https://supermandrain.co.kr/regions/jeonnam/boseong/</loc></url>
   <url><loc>https://supermandrain.co.kr/regions/jeonnam/boseong/drain/</loc></url>
   <url><loc>https://supermandrain.co.kr/regions/jeonnam/damyang/</loc></url>
@@ -135,14 +135,14 @@
   <url><loc>https://supermandrain.co.kr/regions/jeonnam/yeonggwang/drain/</loc></url>
   <url><loc>https://supermandrain.co.kr/regions/jeonnam/yeosu/</loc></url>
   <url><loc>https://supermandrain.co.kr/regions/jeonnam/yeosu/drain/</loc></url>
-  <url><loc>https://supermandrain.co.kr/services/</loc></url>
-  <url><loc>https://supermandrain.co.kr/services/camera/</loc></url>
-  <url><loc>https://supermandrain.co.kr/services/high-pressure/</loc></url>
-  <url><loc>https://supermandrain.co.kr/services/leak/</loc></url>
-  <url><loc>https://supermandrain.co.kr/services/main-pipe/</loc></url>
-  <url><loc>https://supermandrain.co.kr/services/sink/</loc></url>
-  <url><loc>https://supermandrain.co.kr/services/toilet/</loc></url>
-  <url><loc>https://supermandrain.co.kr/symptoms/</loc></url>
+  <url><loc>https://supermandrain.co.kr/services/</loc><lastmod>2026-07-22</lastmod></url>
+  <url><loc>https://supermandrain.co.kr/services/camera/</loc><lastmod>2026-07-22</lastmod></url>
+  <url><loc>https://supermandrain.co.kr/services/high-pressure/</loc><lastmod>2026-07-22</lastmod></url>
+  <url><loc>https://supermandrain.co.kr/services/leak/</loc><lastmod>2026-07-22</lastmod></url>
+  <url><loc>https://supermandrain.co.kr/services/main-pipe/</loc><lastmod>2026-07-22</lastmod></url>
+  <url><loc>https://supermandrain.co.kr/services/sink/</loc><lastmod>2026-07-22</lastmod></url>
+  <url><loc>https://supermandrain.co.kr/services/toilet/</loc><lastmod>2026-07-22</lastmod></url>
+  <url><loc>https://supermandrain.co.kr/symptoms/</loc><lastmod>2026-07-22</lastmod></url>
   <url><loc>https://supermandrain.co.kr/symptoms/drain/</loc></url>
   <url><loc>https://supermandrain.co.kr/symptoms/leak/</loc></url>
   <url><loc>https://supermandrain.co.kr/regions/jeonnam/hampyeong/drain/</loc><lastmod>2026-07-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
