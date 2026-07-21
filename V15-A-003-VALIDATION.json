@@ -1,0 +1,20 @@
+{
+  "version": "V15-A-003",
+  "base": "V15-A-002",
+  "regions_rebuilt": [
+    "suncheon",
+    "gwangyang",
+    "gurye",
+    "yeonggwang",
+    "jangseong",
+    "damyang"
+  ],
+  "regional_pages_rebuilt": 6,
+  "drain_landing_pages_created_or_rebuilt": 6,
+  "hub_pages_updated": [
+    "regions/index.html",
+    "regions/jeonnam/index.html",
+    "cases/index.html"
+  ],
+  "sitemap_urls": 145
+}

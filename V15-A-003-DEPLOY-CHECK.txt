@@ -1,0 +1,8 @@
+V15-A-003 DEPLOY CHECK
+PASS: 6 regional pages rebuilt
+PASS: 6 drain landing pages present
+PASS: canonical and meta description present
+PASS: Service and FAQPage JSON-LD present
+PASS: hub internal links updated
+PASS: sitemap regenerated
+PASS: overwrite-ready root structure
