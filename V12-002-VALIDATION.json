@@ -1,0 +1,10 @@
+{
+  "version": "V12-002",
+  "html_count": 131,
+  "removed_sections": 22,
+  "forbidden_text_files": [],
+  "leak_pages_with_drain_case_links": [],
+  "new_leak_cases": 4,
+  "drain_faq_count": 20,
+  "leak_faq_count": 20
+}
