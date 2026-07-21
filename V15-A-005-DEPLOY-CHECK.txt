@@ -1,0 +1,13 @@
+V15-A-005 DEPLOY CHECK
+
+1. ZIP 압축을 해제합니다.
+2. 기존 프로젝트 최상위 폴더에 모든 파일을 덮어씁니다.
+3. GitHub Desktop에서 변경 파일을 확인합니다.
+4. 커밋 후 Push합니다.
+
+신규 URL
+/regions/jeonnam/gangjin/drain/
+/regions/jeonnam/gokseong/drain/
+/regions/jeonnam/jindo/drain/
+/regions/jeonnam/sinan/drain/
+/regions/jeonnam/wando/drain/

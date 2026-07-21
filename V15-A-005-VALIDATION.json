@@ -1,0 +1,21 @@
+{
+  "version": "V15-A-005",
+  "status": "PASS",
+  "new_pages": [
+    "regions/jeonnam/gangjin/drain/index.html",
+    "regions/jeonnam/gokseong/drain/index.html",
+    "regions/jeonnam/jindo/drain/index.html",
+    "regions/jeonnam/sinan/drain/index.html",
+    "regions/jeonnam/wando/drain/index.html"
+  ],
+  "new_page_count": 5,
+  "html_count": 155,
+  "sitemap_entries_added": 5,
+  "checks": {
+    "all_new_pages_exist": true,
+    "canonical_present": true,
+    "service_schema_present": true,
+    "faq_schema_present": true,
+    "shared_js_present": true
+  }
+}
