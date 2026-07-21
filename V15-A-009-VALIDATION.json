@@ -1,0 +1,61 @@
+{
+  "version": "V15-A-009",
+  "status": "PASS",
+  "html_count": 167,
+  "modified_files": [
+    "cases/index.html",
+    "equipment/index.html",
+    "faq/index.html",
+    "index.html",
+    "regions/index.html",
+    "services/index.html",
+    "services/leak/index.html",
+    "symptoms/index.html"
+  ],
+  "checks": {
+    "services/index.html": {
+      "canonical": true,
+      "og_url": true,
+      "breadcrumb_schema": true
+    },
+    "services/leak/index.html": {
+      "canonical": true,
+      "og_url": true,
+      "breadcrumb_schema": true
+    },
+    "cases/index.html": {
+      "canonical": true,
+      "og_url": true,
+      "breadcrumb_schema": true
+    },
+    "regions/index.html": {
+      "canonical": true,
+      "og_url": true,
+      "breadcrumb_schema": true
+    },
+    "faq/index.html": {
+      "canonical": true,
+      "og_url": true,
+      "breadcrumb_schema": true
+    },
+    "symptoms/index.html": {
+      "canonical": true,
+      "og_url": true,
+      "breadcrumb_schema": true
+    },
+    "equipment/index.html": {
+      "canonical": true,
+      "og_url": true,
+      "breadcrumb_schema": true
+    }
+  },
+  "case_link_targets": {
+    "cases/gwangju-drain-blockage/index.html": true,
+    "cases/suncheon-drain-blockage-2/index.html": true,
+    "cases/mokpo-drain-blockage-2/index.html": true,
+    "cases/gwangju-gwangsangu-leak-detection/index.html": true,
+    "cases/suncheon-leak-detection/index.html": true,
+    "cases/gwangju-seogu-leak-detection/index.html": true
+  },
+  "broken_internal_links_modified_pages": []
+}
