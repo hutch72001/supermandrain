@@ -1,0 +1,91 @@
+{
+  "version": "V15-A-011",
+  "status": "PASS",
+  "base": "V15-A-010.zip",
+  "modified_files": [
+    "regions/gwangju/index.html",
+    "regions/jeonnam/index.html",
+    "regions/jeonbuk/index.html",
+    "symptoms/drain/index.html",
+    "symptoms/leak/index.html",
+    "regions/gwangju/gwangju-bukgu/index.html",
+    "regions/gwangju/gwangju-seogu/index.html",
+    "regions/gwangju/gwangju-namgu/index.html",
+    "regions/gwangju/gwangju-donggu/index.html",
+    "regions/gwangju/gwangju-gwangsangu/index.html",
+    "site-v71.css",
+    "V15-A-011-CHANGELOG.txt"
+  ],
+  "checks": [
+    {
+      "file": "regions/gwangju/index.html",
+      "breadcrumb_jsonld": true,
+      "visible_breadcrumb": true,
+      "asset_version": true,
+      "placeholder_removed": true
+    },
+    {
+      "file": "regions/jeonnam/index.html",
+      "breadcrumb_jsonld": true,
+      "visible_breadcrumb": true,
+      "asset_version": true,
+      "placeholder_removed": true
+    },
+    {
+      "file": "regions/jeonbuk/index.html",
+      "breadcrumb_jsonld": true,
+      "visible_breadcrumb": true,
+      "asset_version": true,
+      "placeholder_removed": true
+    },
+    {
+      "file": "symptoms/drain/index.html",
+      "breadcrumb_jsonld": true,
+      "visible_breadcrumb": true,
+      "asset_version": true,
+      "placeholder_removed": true
+    },
+    {
+      "file": "symptoms/leak/index.html",
+      "breadcrumb_jsonld": true,
+      "visible_breadcrumb": true,
+      "asset_version": true,
+      "placeholder_removed": true
+    },
+    {
+      "file": "regions/gwangju/gwangju-bukgu/index.html",
+      "breadcrumb_jsonld": true,
+      "visible_breadcrumb": true,
+      "asset_version": true,
+      "placeholder_removed": true
+    },
+    {
+      "file": "regions/gwangju/gwangju-seogu/index.html",
+      "breadcrumb_jsonld": true,
+      "visible_breadcrumb": true,
+      "asset_version": true,
+      "placeholder_removed": true
+    },
+    {
+      "file": "regions/gwangju/gwangju-namgu/index.html",
+      "breadcrumb_jsonld": true,
+      "visible_breadcrumb": true,
+      "asset_version": true,
+      "placeholder_removed": true
+    },
+    {
+      "file": "regions/gwangju/gwangju-donggu/index.html",
+      "breadcrumb_jsonld": true,
+      "visible_breadcrumb": true,
+      "asset_version": true,
+      "placeholder_removed": true
+    },
+    {
+      "file": "regions/gwangju/gwangju-gwangsangu/index.html",
+      "breadcrumb_jsonld": true,
+      "visible_breadcrumb": true,
+      "asset_version": true,
+      "placeholder_removed": true
+    }
+  ]
+}

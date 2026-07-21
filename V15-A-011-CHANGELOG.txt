@@ -1,0 +1,12 @@
+V15-A-011 CHANGELOG
+
+기준 파일: V15-A-010.zip
+
+실제 변경 사항
+- 핵심 지역/증상 페이지 10개에 BreadcrumbList JSON-LD 추가
+- 같은 10개 페이지의 보이는 breadcrumb를 링크형 nav로 개선
+- 광주 5개 구 기본 페이지의 임시 안내문을 지역별 실제 서비스 소개문으로 교체
+- breadcrumb 및 지역 소개문 공통 CSS 추가
+- 수정 페이지 CSS/JS 캐시 버전을 v15-a-011로 갱신
+
+수정 HTML 10개 + CSS 1개
