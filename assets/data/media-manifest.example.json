@@ -1,0 +1,48 @@
+{
+  "version": "14.9",
+  "updatedAt": "2026-07-21",
+  "items": [
+    {
+      "id": "gwangju-bukgu-sink-001-before",
+      "type": "image",
+      "service": "sink",
+      "region": "gwangju-bukgu",
+      "caseSlug": "gwangju-bukgu-drain-blockage",
+      "phase": "before",
+      "src": "/assets/media/images/gwangju/gwangju-bukgu-sink-001-before.webp",
+      "alt": "광주 북구 아파트 싱크대막힘 작업 전 배관 내부 슬러지 상태",
+      "caption": "배관내시경으로 확인한 작업 전 유지방 슬러지",
+      "width": 1200,
+      "height": 900,
+      "priority": 10
+    },
+    {
+      "id": "gwangju-bukgu-sink-001-after",
+      "type": "image",
+      "service": "sink",
+      "region": "gwangju-bukgu",
+      "caseSlug": "gwangju-bukgu-drain-blockage",
+      "phase": "after",
+      "src": "/assets/media/images/gwangju/gwangju-bukgu-sink-001-after.webp",
+      "alt": "광주 북구 아파트 싱크대막힘 고압세척 후 깨끗해진 배관 내부",
+      "caption": "고압세척 후 내시경으로 확인한 배관 상태",
+      "width": 1200,
+      "height": 900,
+      "priority": 9
+    },
+    {
+      "id": "gwangju-bukgu-sink-001-video",
+      "type": "video",
+      "service": "sink",
+      "region": "gwangju-bukgu",
+      "caseSlug": "gwangju-bukgu-drain-blockage",
+      "src": "/assets/media/videos/gwangju/gwangju-bukgu-sink-001-cleaning.mp4",
+      "poster": "/assets/media/posters/gwangju-bukgu-sink-001-cleaning.webp",
+      "title": "광주 북구 싱크대막힘 고압세척 작업 영상",
+      "description": "배관 내부 유지방 슬러지를 제거하고 통수 상태를 확인하는 과정입니다.",
+      "duration": "PT20S",
+      "uploadDate": "2026-07-21",
+      "priority": 8
+    }
+  ]
+}
