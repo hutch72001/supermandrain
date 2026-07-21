@@ -1,0 +1,21 @@
+{
+  "version": "V15-A-008",
+  "status": "PASS",
+  "changed_files": [
+    "regions/jeonbuk/muju/drain/index.html",
+    "regions/jeonbuk/jangsu/drain/index.html",
+    "regions/jeonbuk/muju/index.html",
+    "regions/jeonbuk/jangsu/index.html",
+    "regions/jeonbuk/index.html",
+    "sitemap.xml"
+  ],
+  "checks": {
+    "new_pages_exist": true,
+    "hub_links": true,
+    "sitemap_urls": true,
+    "canonical_ok": true,
+    "schema_present": true
+  },
+  "html_count": 167,
+  "total_files": 241
+}
