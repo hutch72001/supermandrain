@@ -288,3 +288,43 @@ url('/assets/hero-technician.jpg') right center/cover no-repeat;color:#fff}
 @media(max-width:980px){.region-groups{grid-template-columns:1fr 1fr}.region-box:last-child{grid-column:1/-1}.pro-guide-grid{grid-template-columns:1fr}.pro-service-grid{grid-template-columns:1fr}}
 @media(max-width:700px){.wrap{width:min(100% - 28px,1180px)}.page-hero{padding:52px 0}.pro-section-heading{display:block}.pro-section-heading p{margin-top:14px}.region-groups{grid-template-columns:1fr}.region-box:last-child{grid-column:auto}.pro-region-section,.pro-landing-index{padding:52px 0}.pro-service-links{grid-template-columns:1fr}.pro-guide{padding:52px 0}.pro-guide-steps{grid-template-columns:1fr}.dark .region-groups{width:min(100% - 28px,1180px);padding:52px 0}}
 @media(max-width:420px){.region-box{padding:21px}.region-list a{width:calc(50% - 5px);justify-content:center;white-space:normal;text-align:center}.pro-service-card-head{padding:22px}.pro-service-links{padding:16px}}
+
+
+/* ==================================================
+   V12-001 service split, symptom hub, equipment hub
+   ================================================== */
+.service-split{padding:42px 0;background:#fff;border-bottom:1px solid var(--v7-line)}
+.service-split-grid{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.split-card{border:1px solid var(--v7-line);border-radius:18px;padding:31px;box-shadow:0 12px 38px rgba(32,49,68,.07);position:relative;overflow:hidden}
+.split-card:before{content:"";position:absolute;left:0;top:0;bottom:0;width:6px;background:var(--v7-teal)}
+.leak-card:before{background:var(--v7-blue)}
+.split-card h2{font-size:34px;letter-spacing:-1.2px;margin:0 0 10px}
+.split-card>p:not(.eyebrow){color:var(--v7-muted);line-height:1.75;margin:0 0 19px}
+.split-links{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:22px}
+.split-links a{border:1px solid var(--v7-line);background:#f7f9fb;border-radius:999px;padding:8px 12px;font-size:13px;font-weight:900}
+.split-main{display:flex;min-height:48px;align-items:center;justify-content:center;border-radius:9px;background:var(--v7-navy);color:#fff!important;font-weight:1000}
+.leak-card .split-main{background:var(--v7-blue)}
+.v12-hub-section{padding:78px 0;background:#fff}
+.v12-hub-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:15px}
+.v12-hub-grid a{border:1px solid var(--v7-line);border-radius:13px;padding:21px;background:#fff;transition:.2s}
+.v12-hub-grid a:hover{transform:translateY(-2px);box-shadow:0 12px 30px rgba(32,49,68,.08);border-color:#b9d4d7}
+.v12-hub-grid b{display:block;font-size:18px;margin-bottom:6px}
+.v12-hub-grid span{display:block;color:var(--v7-muted);font-size:14px}
+.equipment-banner{margin-top:24px;background:var(--v7-navy);color:#fff;border-radius:16px;padding:27px 30px;display:flex;align-items:center;justify-content:space-between;gap:28px}
+.equipment-banner h3{font-size:25px;margin:0 0 7px}
+.equipment-banner p:not(.eyebrow){margin:0;color:#cbd6e4}
+.guide-section{padding:66px 0;background:var(--v7-bg)}
+.guide-grid,.equipment-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+.guide-grid article,.equipment-grid article,.equipment-intro{background:#fff;border:1px solid var(--v7-line);border-radius:15px;padding:28px}
+.guide-grid article>span{display:inline-grid;place-items:center;width:42px;height:42px;border-radius:10px;background:#e7f3f4;color:var(--v7-teal);font-weight:1000}
+.guide-grid h2,.equipment-grid h2{font-size:23px;margin:16px 0 10px;letter-spacing:-.6px}
+.guide-grid p,.equipment-grid p,.equipment-intro p{color:var(--v7-muted);line-height:1.78;margin:0 0 15px}
+.guide-grid a,.equipment-grid a{font-weight:1000;color:var(--v7-teal)!important}
+.equipment-intro{margin-bottom:22px;text-align:center;padding:34px}
+.equipment-intro h2{font-size:30px;margin:0 0 10px}
+.equipment-grid article>b{display:inline-block;color:var(--v7-teal);font-size:12px;background:#e7f3f4;padding:6px 9px;border-radius:999px}
+.guide-cta{margin-top:25px;background:var(--v7-navy);color:#fff;border-radius:16px;padding:34px;text-align:center}
+.guide-cta h2{font-size:29px;margin:0 0 10px}
+.guide-cta p{color:#cbd6e4;line-height:1.75;margin:0 auto 21px;max-width:800px}
+@media(max-width:900px){.service-split-grid,.guide-grid,.equipment-grid{grid-template-columns:1fr}.v12-hub-grid{grid-template-columns:repeat(2,1fr)}.equipment-banner{align-items:flex-start;flex-direction:column}}
+@media(max-width:620px){.service-split{padding:26px 0}.split-card{padding:24px}.split-card h2{font-size:29px}.v12-hub-section{padding:54px 0}.v12-hub-grid{grid-template-columns:1fr}.equipment-banner{padding:24px}.guide-section{padding:44px 0}.guide-grid article,.equipment-grid article,.equipment-intro{padding:23px}.guide-cta{padding:26px 20px}.guide-cta h2{font-size:25px}}

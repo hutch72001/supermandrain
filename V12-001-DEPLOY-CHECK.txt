@@ -1,0 +1,6 @@
+V12-001 배포 확인
+1. index.html에서 하수구막힘/누수탐지 분리 카드 확인
+2. /symptoms/ 접속 확인
+3. /equipment/ 접속 확인
+4. 모바일 하단 전화·문자 버튼 확인
+5. GitHub Desktop Commit → Push
