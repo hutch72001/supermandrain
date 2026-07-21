@@ -1,0 +1,15 @@
+V10 실사용 배포본 검증 완료
+
+- 기준: V9 44개 사례
+- 신규 랜딩페이지: 22개
+- 전체 HTML 페이지: 122개
+- 기존 사례 디렉터리: 44개
+- 이미지 자산: 509개 이상 유지
+- sitemap.xml URL: 122개
+- 내부 링크 및 이미지 경로 오류: 0
+- JSON-LD 파싱 오류: 0
+- sitemap.xml / rss.xml XML 오류: 0
+- canonical 기준 도메인: https://supermandrain.co.kr
+
+배포 방법:
+이 ZIP의 내용 전체를 기존 GitHub 저장소 루트에 덮어쓴 뒤 Commit to main → Push origin.
