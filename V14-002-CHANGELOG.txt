@@ -1,0 +1,5 @@
+V14-002
+- Removed placeholder 'case pending' wording
+- Removed 'temporary phone' wording
+- Replaced with trust-oriented messaging
+- Ready for next phase: service-specific case mapping and expanded landing content
