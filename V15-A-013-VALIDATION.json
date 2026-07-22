@@ -1,0 +1,11 @@
+{
+  "version": "V15-A-013",
+  "created": "2026-07-22",
+  "html_files": 167,
+  "result": "PASS",
+  "issues": {},
+  "notes": [
+    "이미지 파일은 별도 미디어 업로드 구조를 유지하므로 HTML 이미지 경로 존재 여부는 배포 전 미디어 매니페스트 기준으로 확인합니다.",
+    "mokpo-drain-cleaning-2-2는 noindex 및 대표 canonical로 통합 처리했습니다."
+  ]
+}

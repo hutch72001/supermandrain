@@ -1,0 +1,10 @@
+V15-A-013 배포 체크
+
+[ ] ZIP 압축 해제 후 기존 사이트 루트에 전체 덮어쓰기
+[ ] index.html, site-v71.css, site-v15a.js 반영 확인
+[ ] /services/ 와 /services/leak/ 분야 분리 확인
+[ ] /cases/drain/ 와 /cases/leak/ 분야 분리 확인
+[ ] /cases/mokpo-drain-cleaning-2-2/ 접속 시 대표 사례 이동 확인
+[ ] 모바일에서 전화/문자 버튼 확인
+[ ] Search Console sitemap.xml 재제출 또는 주요 URL 검사
+[ ] 배포 캐시 삭제 후 ?v=20260722-v15-a-013 로드 확인
