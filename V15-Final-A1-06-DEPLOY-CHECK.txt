@@ -1,0 +1,4 @@
+V15-Final-A1-06 DEPLOY CHECK
+Version: 20260722-v15-final-a1-06
+Check: homepage source contains V15-Final-A1-06 and hero image preload.
+Structural Lock: maintained

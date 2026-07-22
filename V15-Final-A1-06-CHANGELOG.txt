@@ -1,0 +1,7 @@
+V15-Final-A1-06
+- Static decoding=async applied to 567 image tags where needed (513 additions).
+- Above-the-fold landing/case images prioritized: 54.
+- Homepage CSS background LCP image preload added.
+- prefers-reduced-motion safeguard added.
+- CSS/JS cache versions updated across 167 HTML files.
+- No menu, URL, folder, layout, content, image source or video changes.

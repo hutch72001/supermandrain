@@ -381,3 +381,10 @@ url('/assets/hero-technician.jpg') right center/cover no-repeat;color:#fff}
 /* V15-Final-A1-04 accessibility focus */
 :where(a,button,input,select,textarea,summary):focus-visible{outline:3px solid #ffbf47;outline-offset:3px}
 .skip-link:focus-visible{outline-color:#fff}
+
+
+/* V15-Final-A1-06 performance and reduced-motion safeguard */
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto!important}
+  *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}
+}

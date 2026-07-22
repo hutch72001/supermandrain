@@ -1,0 +1,15 @@
+{
+  "version": "V15-Final-A1-06",
+  "structural_lock": true,
+  "html_files": 167,
+  "image_tags": 567,
+  "decoding_added": 513,
+  "above_fold_images_prioritized": 54,
+  "home_lcp_preload": true,
+  "css_bytes": 46358,
+  "js_bytes": 2072,
+  "render_blocking_external_js": 0,
+  "deferred_js_pages": 167,
+  "reduced_motion_rule": true,
+  "validation_issues": []
+}
