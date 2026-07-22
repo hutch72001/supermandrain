@@ -1,0 +1,5 @@
+V15-Final-A1-09
+- Normalized Article and Service entity IDs and relationships.
+- Added missing Article publishers and existing-image references where available.
+- Linked schema entities to the canonical business and website IDs.
+- No structural or visible-content changes.

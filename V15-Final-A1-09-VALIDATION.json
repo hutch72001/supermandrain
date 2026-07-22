@@ -1,0 +1,47 @@
+{
+  "version": "V15-Final-A1-09",
+  "scope": "Schema type, relationship and page-role cross-validation",
+  "html_files": 167,
+  "schema_parse_errors": [],
+  "schema_type_counts": {
+    "Article": 47,
+    "WebPage": 49,
+    "Organization": 95,
+    "WebSite": 123,
+    "BreadcrumbList": 99,
+    "ListItem": 340,
+    "CollectionPage": 3,
+    "ContactPage": 1,
+    "FAQPage": 71,
+    "Question": 308,
+    "Answer": 308,
+    "LocalBusiness": 95,
+    "AdministrativeArea": 108,
+    "Service": 94
+  },
+  "changed_pages": 121,
+  "changes": {
+    "article_id_added": 47,
+    "article_mainentity_normalized": 47,
+    "article_author_linked": 47,
+    "article_publisher_linked": 20,
+    "article_website_linked": 47,
+    "article_publisher_added": 27,
+    "article_image_added": 27,
+    "service_id_added": 49,
+    "service_provider_linked": 74,
+    "service_website_linked": 74
+  },
+  "unchanged_structure": [
+    "menu",
+    "URL",
+    "folder structure",
+    "layout",
+    "body content",
+    "image files",
+    "video"
+  ],
+  "notes": [
+    "Publication dates were not invented on four legacy articles where source dates were unavailable."
+  ]
+}
