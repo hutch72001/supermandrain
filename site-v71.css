@@ -370,3 +370,8 @@ url('/assets/hero-technician.jpg') right center/cover no-repeat;color:#fff}
 .breadcrumb span[aria-hidden="true"]{color:#98a2b3}
 .breadcrumb span[aria-current="page"]{font-weight:700;color:#344054}
 .region-intro{margin:0 0 1.5rem;padding:1rem 1.1rem;border-left:4px solid currentColor;background:rgba(0,0,0,.035);line-height:1.75}
+
+
+/* V15-Final-A1-04 accessibility focus */
+:where(a,button,input,select,textarea,summary):focus-visible{outline:3px solid #ffbf47;outline-offset:3px}
+.skip-link:focus-visible{outline-color:#fff}

@@ -1,0 +1,5 @@
+V15-Final-A1-04 DEPLOY CHECK
+Expected stylesheet query: 20260722-v15-final-a1-04
+Check pages: /, /faq/drain/, /faq/leak/, representative /cases/ page.
+Keyboard test: press Tab; skip link and focused controls must be clearly visible.
+Mobile test: bottom bar remains visible and layout unchanged.
