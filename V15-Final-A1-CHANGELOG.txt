@@ -1,0 +1,6 @@
+V15-Final-A1
+- Structural Lock 유지
+- 167개 HTML 전수 기술 감사
+- 누락된 Open Graph / Twitter / robots 메타 보완
+- 404 페이지 noindex,follow 적용
+- 메뉴, URL, 폴더, 본문, 레이아웃 변경 없음

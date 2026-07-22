@@ -1,0 +1,5263 @@
+[
+  {
+    "file": "index.html",
+    "title": "광주·전남·전북 하수구막힘·누수탐지 | 슈퍼맨하수구누수",
+    "title_len": 30,
+    "desc": "광주·전남·전북 하수구막힘과 누수탐지 전문. 싱크대·변기·배수구 역류부터 배관내시경, 고압세척, 압력·가스·청음탐지까지 실제 사례 중심으로 안내합니다.",
+    "desc_len": 84,
+    "canonical": "https://supermandrain.co.kr/",
+    "h1": [
+      "막힌 곳만 뚫는 작업이 아닌 원인을 확인하는 배관 서비스"
+    ],
+    "h1_count": 1,
+    "h2_count": 8,
+    "schemas": [
+      [
+        "Organization",
+        "LocalBusiness"
+      ],
+      "WebSite"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주·전남·전북 하수구막힘·누수탐지 | 슈퍼맨하수구누수",
+    "og_desc": "광주·전남·전북 하수구막힘과 누수탐지 전문. 싱크대·변기·배수구 역류부터 배관내시경, 고압세척, 압력·가스·청음탐지까지 실제 사례 중심으로 안내합니다.",
+    "og_url": "https://supermandrain.co.kr/",
+    "twitter": "summary_large_image",
+    "imgs": 6,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 80,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "404.html",
+    "title": "페이지를 찾을 수 없습니다 | 슈퍼맨하수구누수",
+    "title_len": 25,
+    "desc": "요청하신 페이지가 이동되었거나 주소가 잘못되었습니다. 하수구막힘·누수탐지 서비스, 지역별 안내와 실제 시공사례로 이동하세요.",
+    "desc_len": 69,
+    "canonical": "https://supermandrain.co.kr/404.html",
+    "h1": [
+      "페이지를 찾을 수 없습니다"
+    ],
+    "h1_count": 1,
+    "h2_count": 1,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "페이지를 찾을 수 없습니다 | 슈퍼맨하수구누수",
+    "og_desc": "요청하신 페이지가 이동되었거나 주소가 잘못되었습니다. 하수구막힘·누수탐지 서비스, 지역별 안내와 실제 시공사례로 이동하세요.",
+    "og_url": "https://supermandrain.co.kr/404.html",
+    "twitter": "summary_large_image",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 25,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/index.html",
+    "title": "하수구막힘·누수탐지 실제 시공사례 | 지역별 현장 기록",
+    "title_len": 30,
+    "desc": "광주·전남·전북에서 진행한 하수구막힘, 싱크대·변기 역류, 고압세척과 수도·난방배관 누수탐지 과정을 실제 현장별로 확인하세요.",
+    "desc_len": 70,
+    "canonical": "https://supermandrain.co.kr/cases/",
+    "h1": [
+      "하수구막힘·누수탐지 실제 시공사례"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "하수구막힘·누수탐지 실제 시공사례 | 지역별 현장 기록",
+    "og_desc": "광주·전남·전북에서 진행한 하수구막힘, 싱크대·변기 역류, 고압세척과 수도·난방배관 누수탐지 과정을 실제 현장별로 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/cases/",
+    "twitter": "summary_large_image",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "faq/index.html",
+    "title": "하수구막힘·누수탐지 자주 묻는 질문 | 비용·작업 범위",
+    "title_len": 30,
+    "desc": "하수구 뚫음과 고압세척 비용, 작업시간, 배관내시경 필요 여부, 누수탐지 절차와 보험 자료 등 자주 묻는 질문을 정리했습니다.",
+    "desc_len": 70,
+    "canonical": "https://supermandrain.co.kr/faq/",
+    "h1": [
+      "하수구와 누수, 질문부터 완전히 분리했습니다"
+    ],
+    "h1_count": 1,
+    "h2_count": 3,
+    "schemas": [
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "하수구막힘·누수탐지 자주 묻는 질문 | 비용·작업 범위",
+    "og_desc": "하수구 뚫음과 고압세척 비용, 작업시간, 배관내시경 필요 여부, 누수탐지 절차와 보험 자료 등 자주 묻는 질문을 정리했습니다.",
+    "og_url": "https://supermandrain.co.kr/faq/",
+    "twitter": "summary_large_image",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 25,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/index.html",
+    "title": "광주·전남·전북 지역별 하수구막힘·누수탐지",
+    "title_len": 23,
+    "desc": "광주 5개 구와 전남·전북 지역별 하수구막힘, 싱크대·변기 역류, 배관 고압세척과 누수탐지 안내 및 실제 시공사례를 확인하세요.",
+    "desc_len": 71,
+    "canonical": "https://supermandrain.co.kr/regions/",
+    "h1": [
+      "지역별 하수구·누수 서비스"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "CollectionPage",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주·전남·전북 지역별 하수구막힘·누수탐지",
+    "og_desc": "광주 5개 구와 전남·전북 지역별 하수구막힘, 싱크대·변기 역류, 배관 고압세척과 누수탐지 안내 및 실제 시공사례를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/",
+    "twitter": "summary_large_image",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 104,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "contact/index.html",
+    "title": "하수구막힘·누수탐지 상담 | 광주·전남·전북 출장",
+    "title_len": 27,
+    "desc": "싱크대·변기·배수구 역류, 맨홀 막힘과 수도·난방배관 누수 증상을 전화나 문자로 상담하세요. 현장 사진과 증상을 보내면 안내가 빨라집니다.",
+    "desc_len": 77,
+    "canonical": "https://supermandrain.co.kr/contact/",
+    "h1": [
+      "상담 문의"
+    ],
+    "h1_count": 1,
+    "h2_count": 1,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "하수구막힘·누수탐지 상담 | 광주·전남·전북 출장",
+    "og_desc": "싱크대·변기·배수구 역류, 맨홀 막힘과 수도·난방배관 누수 증상을 전화나 문자로 상담하세요. 현장 사진과 증상을 보내면 안내가 빨라집니다.",
+    "og_url": "https://supermandrain.co.kr/contact/",
+    "twitter": "summary_large_image",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 23,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "equipment/index.html",
+    "title": "하수구·누수탐지 전문 장비 | 내시경·고압세척·청음",
+    "title_len": 28,
+    "desc": "배관내시경, 관로탐지기, 플렉스샤프트, 고압세척기와 압력·가스·청음·열화상 장비의 용도와 적용 기준을 안내합니다.",
+    "desc_len": 63,
+    "canonical": "https://supermandrain.co.kr/equipment/",
+    "h1": [
+      "장비도 하수구와 누수로 완전히 분리했습니다"
+    ],
+    "h1_count": 1,
+    "h2_count": 3,
+    "schemas": [
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "하수구·누수탐지 전문 장비 | 내시경·고압세척·청음",
+    "og_desc": "배관내시경, 관로탐지기, 플렉스샤프트, 고압세척기와 압력·가스·청음·열화상 장비의 용도와 적용 기준을 안내합니다.",
+    "og_url": "https://supermandrain.co.kr/equipment/",
+    "twitter": "summary_large_image",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 25,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "services/index.html",
+    "title": "하수구막힘 해결 서비스 | 싱크대·변기·배관 고압세척",
+    "title_len": 29,
+    "desc": "싱크대막힘, 변기막힘, 화장실 배수구 역류와 메인배관 정체를 배관내시경과 관로탐지로 진단하고 필요한 구간만 고압세척합니다.",
+    "desc_len": 68,
+    "canonical": "https://supermandrain.co.kr/services/",
+    "h1": [
+      "하수구막힘 해결 서비스"
+    ],
+    "h1_count": 1,
+    "h2_count": 2,
+    "schemas": [
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "하수구막힘 해결 서비스 | 싱크대·변기·배관 고압세척",
+    "og_desc": "싱크대막힘, 변기막힘, 화장실 배수구 역류와 메인배관 정체를 배관내시경과 관로탐지로 진단하고 필요한 구간만 고압세척합니다.",
+    "og_url": "https://supermandrain.co.kr/services/",
+    "twitter": "summary_large_image",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 34,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "symptoms/index.html",
+    "title": "하수구막힘 증상별 원인 | 싱크대·변기·맨홀 역류",
+    "title_len": 27,
+    "desc": "물이 천천히 내려가거나 꿀렁거림, 악취, 싱크대·변기·바닥 배수구 동시 역류가 나타날 때 의심할 원인과 점검 순서를 안내합니다.",
+    "desc_len": 71,
+    "canonical": "https://supermandrain.co.kr/symptoms/",
+    "h1": [
+      "증상별 해결도 하수구와 누수로 분리했습니다"
+    ],
+    "h1_count": 1,
+    "h2_count": 3,
+    "schemas": [
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "하수구막힘 증상별 원인 | 싱크대·변기·맨홀 역류",
+    "og_desc": "물이 천천히 내려가거나 꿀렁거림, 악취, 싱크대·변기·바닥 배수구 동시 역류가 나타날 때 의심할 원인과 점검 순서를 안내합니다.",
+    "og_url": "https://supermandrain.co.kr/symptoms/",
+    "twitter": "summary_large_image",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 25,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "symptoms/drain/index.html",
+    "title": "하수구막힘 증상별 해결 | 슈퍼맨하수구누수",
+    "title_len": 23,
+    "desc": "하수구막힘의 주요 증상과 점검 방향을 전문적으로 안내합니다.",
+    "desc_len": 33,
+    "canonical": "https://supermandrain.co.kr/symptoms/drain/",
+    "h1": [
+      "하수구막힘 증상별 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 9,
+    "schemas": [
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 27,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "symptoms/leak/index.html",
+    "title": "누수탐지 증상별 해결 | 슈퍼맨하수구누수",
+    "title_len": 22,
+    "desc": "누수탐지의 주요 증상과 점검 방향을 전문적으로 안내합니다.",
+    "desc_len": 32,
+    "canonical": "https://supermandrain.co.kr/symptoms/leak/",
+    "h1": [
+      "누수탐지 증상별 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 9,
+    "schemas": [
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 27,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "services/sink/index.html",
+    "title": "싱크대막힘 원인 진단·배관청소 | 광주·전남·전북",
+    "title_len": 27,
+    "desc": "싱크대 물빠짐 저하, 꿀렁거림, 악취와 반복 막힘의 원인을 배관내시경으로 확인하고 플렉스샤프트와 고압세척을 선택 적용합니다.",
+    "desc_len": 69,
+    "canonical": "https://supermandrain.co.kr/services/sink/",
+    "h1": [
+      "싱크대막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 7,
+    "schemas": [
+      "Service",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "싱크대막힘 원인 진단·배관청소 | 광주·전남·전북",
+    "og_desc": "싱크대 물빠짐 저하, 꿀렁거림, 악취와 반복 막힘의 원인을 배관내시경으로 확인하고 플렉스샤프트와 고압세척을 선택 적용합니다.",
+    "og_url": "https://supermandrain.co.kr/services/sink/",
+    "twitter": "summary_large_image",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 35,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "services/main-pipe/index.html",
+    "title": "메인배관·오수관 막힘 해결 | 관로탐지·고압세척",
+    "title_len": 26,
+    "desc": "싱크대·변기·바닥 배수구가 동시에 역류하면 메인배관과 오수관 정체를 의심해야 합니다. 관로탐지 후 필요한 구간을 세척합니다.",
+    "desc_len": 69,
+    "canonical": "https://supermandrain.co.kr/services/main-pipe/",
+    "h1": [
+      "메인배관·오수관"
+    ],
+    "h1_count": 1,
+    "h2_count": 7,
+    "schemas": [
+      "Service",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "메인배관·오수관 막힘 해결 | 관로탐지·고압세척",
+    "og_desc": "싱크대·변기·바닥 배수구가 동시에 역류하면 메인배관과 오수관 정체를 의심해야 합니다. 관로탐지 후 필요한 구간을 세척합니다.",
+    "og_url": "https://supermandrain.co.kr/services/main-pipe/",
+    "twitter": "summary_large_image",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 35,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "services/toilet/index.html",
+    "title": "변기막힘·화장실 역류 해결 | 배관 원인 진단",
+    "title_len": 25,
+    "desc": "변기 물이 차오르거나 화장실 바닥 배수구가 함께 역류할 때 세대 배관과 공용 메인배관을 구분해 점검하고 원인 구간을 처리합니다.",
+    "desc_len": 71,
+    "canonical": "https://supermandrain.co.kr/services/toilet/",
+    "h1": [
+      "변기막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 7,
+    "schemas": [
+      "Service",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "변기막힘·화장실 역류 해결 | 배관 원인 진단",
+    "og_desc": "변기 물이 차오르거나 화장실 바닥 배수구가 함께 역류할 때 세대 배관과 공용 메인배관을 구분해 점검하고 원인 구간을 처리합니다.",
+    "og_url": "https://supermandrain.co.kr/services/toilet/",
+    "twitter": "summary_large_image",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 35,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "services/high-pressure/index.html",
+    "title": "하수구 고압세척 | 오수관·횡주관·메인배관 청소",
+    "title_len": 26,
+    "desc": "고압세척으로 배관 내벽에 붙은 유지방, 슬러지와 침전물을 제거합니다. 상가·공장·아파트 오수관과 횡주관의 반복 막힘에 적용합니다.",
+    "desc_len": 72,
+    "canonical": "https://supermandrain.co.kr/services/high-pressure/",
+    "h1": [
+      "고압세척"
+    ],
+    "h1_count": 1,
+    "h2_count": 7,
+    "schemas": [
+      "Service",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "하수구 고압세척 | 오수관·횡주관·메인배관 청소",
+    "og_desc": "고압세척으로 배관 내벽에 붙은 유지방, 슬러지와 침전물을 제거합니다. 상가·공장·아파트 오수관과 횡주관의 반복 막힘에 적용합니다.",
+    "og_url": "https://supermandrain.co.kr/services/high-pressure/",
+    "twitter": "summary_large_image",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 35,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "services/camera/index.html",
+    "title": "배관내시경 검사 | 하수구막힘 원인과 작업 전후 확인",
+    "title_len": 29,
+    "desc": "배관내시경으로 유지방 슬러지, 이물질, 파손과 처짐 구간을 확인하고 작업 전후 화면을 비교해 불필요한 시공을 줄입니다.",
+    "desc_len": 66,
+    "canonical": "https://supermandrain.co.kr/services/camera/",
+    "h1": [
+      "배관내시경"
+    ],
+    "h1_count": 1,
+    "h2_count": 7,
+    "schemas": [
+      "Service",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "배관내시경 검사 | 하수구막힘 원인과 작업 전후 확인",
+    "og_desc": "배관내시경으로 유지방 슬러지, 이물질, 파손과 처짐 구간을 확인하고 작업 전후 화면을 비교해 불필요한 시공을 줄입니다.",
+    "og_url": "https://supermandrain.co.kr/services/camera/",
+    "twitter": "summary_large_image",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 35,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "services/leak/index.html",
+    "title": "누수탐지 전문 | 수도·온수·난방배관 정밀 탐사",
+    "title_len": 26,
+    "desc": "아랫집 천장 물샘, 보일러 압력 저하와 수도 사용량 증가 시 압력시험, 가스탐지, 청음과 열화상을 교차 확인해 누수 지점을 좁힙니다.",
+    "desc_len": 74,
+    "canonical": "https://supermandrain.co.kr/services/leak/",
+    "h1": [
+      "누수탐지"
+    ],
+    "h1_count": 1,
+    "h2_count": 8,
+    "schemas": [
+      "Service",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "누수탐지 전문 | 수도·온수·난방배관 정밀 탐사",
+    "og_desc": "아랫집 천장 물샘, 보일러 압력 저하와 수도 사용량 증가 시 압력시험, 가스탐지, 청음과 열화상을 교차 확인해 누수 지점을 좁힙니다.",
+    "og_url": "https://supermandrain.co.kr/services/leak/",
+    "twitter": "summary_large_image",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 38,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "equipment/drain/index.html",
+    "title": "하수구 전문 장비 소개 | 슈퍼맨하수구누수",
+    "title_len": 23,
+    "desc": "막힘의 위치와 배관 상태를 확인한 뒤 필요한 장비만 선택합니다. 장비를 많이 사용하는 것보다 원인에 맞는 순서와 압력 조절이 중요합니다.",
+    "desc_len": 76,
+    "canonical": "https://supermandrain.co.kr/equipment/drain/",
+    "h1": [
+      "하수구 전문 장비"
+    ],
+    "h1_count": 1,
+    "h2_count": 10,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 27,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "equipment/leak/index.html",
+    "title": "누수 전문 장비 소개 | 슈퍼맨하수구누수",
+    "title_len": 22,
+    "desc": "한 장비의 결과만으로 확정하지 않고 압력시험을 기준으로 가스·청음·열화상·수분 결과를 교차 확인합니다.",
+    "desc_len": 57,
+    "canonical": "https://supermandrain.co.kr/equipment/leak/",
+    "h1": [
+      "누수 전문 장비"
+    ],
+    "h1_count": 1,
+    "h2_count": 10,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 27,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/gwangju/index.html",
+    "title": "광주 하수구막힘·누수탐지 | 5개 구 지역 안내",
+    "title_len": 26,
+    "desc": "광주 북구·서구·남구·동구·광산구의 하수구막힘, 싱크대·변기 역류, 배관내시경, 고압세척과 누수탐지 서비스를 안내합니다.",
+    "desc_len": 67,
+    "canonical": "https://supermandrain.co.kr/regions/gwangju/",
+    "h1": [
+      "광주광역시 지역 안내"
+    ],
+    "h1_count": 1,
+    "h2_count": 1,
+    "schemas": [
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주 하수구막힘·누수탐지 | 5개 구 지역 안내",
+    "og_desc": "광주 북구·서구·남구·동구·광산구의 하수구막힘, 싱크대·변기 역류, 배관내시경, 고압세척과 누수탐지 서비스를 안내합니다.",
+    "og_url": "https://supermandrain.co.kr/regions/gwangju/",
+    "twitter": "summary_large_image",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 30,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/index.html",
+    "title": "전북 하수구막힘·누수탐지 | 시군별 출장 안내",
+    "title_len": 25,
+    "desc": "전주·익산·군산·정읍·고창·순창 등 전북 지역의 싱크대막힘, 변기역류, 오수관 고압세척과 누수탐지 서비스를 안내합니다.",
+    "desc_len": 66,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/",
+    "h1": [
+      "전라북도 지역 안내"
+    ],
+    "h1_count": 1,
+    "h2_count": 2,
+    "schemas": [
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "전북 하수구막힘·누수탐지 | 시군별 출장 안내",
+    "og_desc": "전주·익산·군산·정읍·고창·순창 등 전북 지역의 싱크대막힘, 변기역류, 오수관 고압세척과 누수탐지 서비스를 안내합니다.",
+    "og_url": "https://supermandrain.co.kr/regions/jeonbuk/",
+    "twitter": "summary_large_image",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 51,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/index.html",
+    "title": "전남 하수구막힘·누수탐지 | 시군별 출장 안내",
+    "title_len": 25,
+    "desc": "나주·목포·순천·여수·광양·담양·화순 등 전남 지역의 하수구막힘, 배관청소, 고압세척과 누수탐지 서비스를 시군별로 안내합니다.",
+    "desc_len": 70,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/",
+    "h1": [
+      "전라남도 지역 안내"
+    ],
+    "h1_count": 1,
+    "h2_count": 3,
+    "schemas": [
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "전남 하수구막힘·누수탐지 | 시군별 출장 안내",
+    "og_desc": "나주·목포·순천·여수·광양·담양·화순 등 전남 지역의 하수구막힘, 배관청소, 고압세척과 누수탐지 서비스를 시군별로 안내합니다.",
+    "og_url": "https://supermandrain.co.kr/regions/jeonnam/",
+    "twitter": "summary_large_image",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 64,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/gangjin/index.html",
+    "title": "강진하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "강진 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/gangjin/",
+    "h1": [
+      "강진하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 29,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/mokpo/index.html",
+    "title": "목포하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "title_len": 29,
+    "desc": "목포 지역 하수구막힘과 누수탐지 서비스 안내. 증상별 전문 페이지와 실제 시공사례, 출장 상담 정보를 한곳에서 확인하세요.",
+    "desc_len": 68,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/mokpo/",
+    "h1": [
+      "목포 하수구막힘·누수탐지 지역 서비스"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "목포하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "og_desc": "목포 지역 하수구막힘과 누수탐지 서비스 안내. 증상별 전문 페이지와 실제 시공사례, 출장 상담 정보를 한곳에서 확인하세요.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 34,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/naju/index.html",
+    "title": "나주하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "나주 하수구막힘 실제 시공사례와 배관내시경·고압세척 작업 정보를 확인하세요. 전화 010-4833-3447",
+    "desc_len": 59,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/naju/",
+    "h1": [
+      "나주하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/haenam/index.html",
+    "title": "해남하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "해남 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/haenam/",
+    "h1": [
+      "해남하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 30,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/yeosu/index.html",
+    "title": "여수하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "title_len": 29,
+    "desc": "여수 지역 하수구막힘과 누수탐지 서비스 안내. 주택·상가 배관 문제의 분야별 페이지와 실제 작업 사례를 연결합니다.",
+    "desc_len": 64,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/yeosu/",
+    "h1": [
+      "여수 하수구막힘·누수탐지 지역 서비스"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "여수하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "og_desc": "여수 지역 하수구막힘과 누수탐지 서비스 안내. 주택·상가 배관 문제의 분야별 페이지와 실제 작업 사례를 연결합니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/gokseong/index.html",
+    "title": "곡성하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "곡성 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/gokseong/",
+    "h1": [
+      "곡성하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 29,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/goheung/index.html",
+    "title": "고흥하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "고흥 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/goheung/",
+    "h1": [
+      "고흥하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 30,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/jangseong/index.html",
+    "title": "장성하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "title_len": 29,
+    "desc": "장성 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 시공사례와 출장 지역을 확인하세요.",
+    "desc_len": 72,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/jangseong/",
+    "h1": [
+      "장성 하수구막힘·누수탐지 지역 서비스"
+    ],
+    "h1_count": 1,
+    "h2_count": 7,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "장성하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "og_desc": "장성 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 시공사례와 출장 지역을 확인하세요.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 36,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/hampyeong/index.html",
+    "title": "함평하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "함평 하수구막힘 실제 시공사례와 배관내시경·고압세척 작업 정보를 확인하세요. 전화 010-4833-3447",
+    "desc_len": 59,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/hampyeong/",
+    "h1": [
+      "함평하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/damyang/index.html",
+    "title": "담양하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "title_len": 29,
+    "desc": "담양 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 시공사례와 출장 지역을 확인하세요.",
+    "desc_len": 72,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/damyang/",
+    "h1": [
+      "담양 하수구막힘·누수탐지 지역 서비스"
+    ],
+    "h1_count": 1,
+    "h2_count": 7,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "담양하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "og_desc": "담양 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 시공사례와 출장 지역을 확인하세요.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 36,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/boseong/index.html",
+    "title": "보성하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "title_len": 29,
+    "desc": "보성 지역 하수구막힘과 누수탐지 통합 안내. 벌교읍 등 출장 권역과 분야별 점검 기준, 실제 사례를 확인하세요.",
+    "desc_len": 62,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/boseong/",
+    "h1": [
+      "보성 하수구막힘·누수탐지 지역 서비스"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "보성하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "og_desc": "보성 지역 하수구막힘과 누수탐지 통합 안내. 벌교읍 등 출장 권역과 분야별 점검 기준, 실제 사례를 확인하세요.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/gwangyang/index.html",
+    "title": "광양하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "title_len": 29,
+    "desc": "광양 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 시공사례와 출장 지역을 확인하세요.",
+    "desc_len": 72,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/gwangyang/",
+    "h1": [
+      "광양 하수구막힘·누수탐지 지역 서비스"
+    ],
+    "h1_count": 1,
+    "h2_count": 7,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광양하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "og_desc": "광양 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 시공사례와 출장 지역을 확인하세요.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 35,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/hwasun/index.html",
+    "title": "화순하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "화순 하수구막힘 실제 시공사례와 배관내시경·고압세척 작업 정보를 확인하세요. 전화 010-4833-3447",
+    "desc_len": 59,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/hwasun/",
+    "h1": [
+      "화순하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/muan/index.html",
+    "title": "무안하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "title_len": 29,
+    "desc": "무안 지역 하수구막힘과 누수탐지 통합 안내. 지역별 출장 범위와 증상별 서비스, 시공사례를 빠르게 찾을 수 있습니다.",
+    "desc_len": 65,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/muan/",
+    "h1": [
+      "무안 하수구막힘·누수탐지 지역 서비스"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "무안하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "og_desc": "무안 지역 하수구막힘과 누수탐지 통합 안내. 지역별 출장 범위와 증상별 서비스, 시공사례를 빠르게 찾을 수 있습니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/wando/index.html",
+    "title": "완도하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "완도 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/wando/",
+    "h1": [
+      "완도하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 29,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/sinan/index.html",
+    "title": "신안하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "신안 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/sinan/",
+    "h1": [
+      "신안하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 29,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/jangheung/index.html",
+    "title": "장흥하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "title_len": 29,
+    "desc": "장흥 지역 하수구막힘과 누수탐지 통합 안내. 배수 문제와 물샘 증상을 분야별 페이지로 나누어 안내합니다.",
+    "desc_len": 58,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/jangheung/",
+    "h1": [
+      "장흥 하수구막힘·누수탐지 지역 서비스"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "장흥하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "og_desc": "장흥 지역 하수구막힘과 누수탐지 통합 안내. 배수 문제와 물샘 증상을 분야별 페이지로 나누어 안내합니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 33,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/gurye/index.html",
+    "title": "구례하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "title_len": 29,
+    "desc": "구례 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 시공사례와 출장 지역을 확인하세요.",
+    "desc_len": 72,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/gurye/",
+    "h1": [
+      "구례 하수구막힘·누수탐지 지역 서비스"
+    ],
+    "h1_count": 1,
+    "h2_count": 7,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "구례하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "og_desc": "구례 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 시공사례와 출장 지역을 확인하세요.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 35,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/yeongam/index.html",
+    "title": "영암하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "영암 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/yeongam/",
+    "h1": [
+      "영암하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 30,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/suncheon/index.html",
+    "title": "순천하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "title_len": 29,
+    "desc": "순천 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 시공사례와 출장 지역을 확인하세요.",
+    "desc_len": 72,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/suncheon/",
+    "h1": [
+      "순천 하수구막힘·누수탐지 지역 서비스"
+    ],
+    "h1_count": 1,
+    "h2_count": 7,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "순천하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "og_desc": "순천 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 시공사례와 출장 지역을 확인하세요.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 37,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/jindo/index.html",
+    "title": "진도하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "진도 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/jindo/",
+    "h1": [
+      "진도하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 29,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/yeonggwang/index.html",
+    "title": "영광하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "title_len": 29,
+    "desc": "영광 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 시공사례와 출장 지역을 확인하세요.",
+    "desc_len": 72,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/yeonggwang/",
+    "h1": [
+      "영광 하수구막힘·누수탐지 지역 서비스"
+    ],
+    "h1_count": 1,
+    "h2_count": 7,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "영광하수구막힘·누수탐지 지역 안내 | 슈퍼맨하수구누수",
+    "og_desc": "영광 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 시공사례와 출장 지역을 확인하세요.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 37,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/yeonggwang/drain/index.html",
+    "title": "영광하수구막힘 반복 역류 진단·고압세척 | 슈퍼맨하수구누수",
+    "title_len": 32,
+    "desc": "영광하수구막힘 반복 원인, 싱크대·변기·배수구 역류 진단, 배관내시경·플렉스샤프트·고압세척 작업 기준과 실제 사례 안내.",
+    "desc_len": 67,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/yeonggwang/drain/",
+    "h1": [
+      "영광하수구막힘, 반복 역류는 원인 진단부터"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "영광하수구막힘 반복 역류 진단·고압세척 | 슈퍼맨하수구누수",
+    "og_desc": "영광하수구막힘 반복 원인, 싱크대·변기·배수구 역류 진단, 배관내시경·플렉스샤프트·고압세척 작업 기준과 실제 사례 안내.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 29,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/jindo/drain/index.html",
+    "title": "진도하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "진도 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "desc_len": 67,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/jindo/drain/",
+    "h1": [
+      "진도하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "진도하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "진도 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/suncheon/drain/index.html",
+    "title": "순천하수구막힘 반복 역류 진단·고압세척 | 슈퍼맨하수구누수",
+    "title_len": 32,
+    "desc": "순천하수구막힘 반복 원인, 싱크대·변기·배수구 역류 진단, 배관내시경·플렉스샤프트·고압세척 작업 기준과 실제 사례 안내.",
+    "desc_len": 67,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/suncheon/drain/",
+    "h1": [
+      "순천하수구막힘, 반복 역류는 원인 진단부터"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "순천하수구막힘 반복 역류 진단·고압세척 | 슈퍼맨하수구누수",
+    "og_desc": "순천하수구막힘 반복 원인, 싱크대·변기·배수구 역류 진단, 배관내시경·플렉스샤프트·고압세척 작업 기준과 실제 사례 안내.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 29,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/yeongam/drain/index.html",
+    "title": "영암하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "영암 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하고 해결하는 작업 안내입니다.",
+    "desc_len": 68,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/yeongam/drain/",
+    "h1": [
+      "영암하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "영암하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "영암 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하고 해결하는 작업 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/gurye/drain/index.html",
+    "title": "구례하수구막힘 반복 역류 진단·고압세척 | 슈퍼맨하수구누수",
+    "title_len": 32,
+    "desc": "구례하수구막힘 반복 원인, 싱크대·변기·배수구 역류 진단, 배관내시경·플렉스샤프트·고압세척 작업 기준과 실제 사례 안내.",
+    "desc_len": 67,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/gurye/drain/",
+    "h1": [
+      "구례하수구막힘, 반복 역류는 원인 진단부터"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "구례하수구막힘 반복 역류 진단·고압세척 | 슈퍼맨하수구누수",
+    "og_desc": "구례하수구막힘 반복 원인, 싱크대·변기·배수구 역류 진단, 배관내시경·플렉스샤프트·고압세척 작업 기준과 실제 사례 안내.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 27,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/jangheung/drain/index.html",
+    "title": "장흥하수구막힘 싱크대·변기·배수구 역류 해결 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "장흥 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 지역 시공사례와 상담 정보를 확인하세요.",
+    "desc_len": 75,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/jangheung/drain/",
+    "h1": [
+      "장흥하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "장흥하수구막힘 싱크대·변기·배수구 역류 해결 | 슈퍼맨하수구누수",
+    "og_desc": "장흥 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 지역 시공사례와 상담 정보를 확인하세요.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 33,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/sinan/drain/index.html",
+    "title": "신안하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "신안 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "desc_len": 67,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/sinan/drain/",
+    "h1": [
+      "신안하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "신안하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "신안 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/wando/drain/index.html",
+    "title": "완도하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "완도 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "desc_len": 67,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/wando/drain/",
+    "h1": [
+      "완도하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "완도하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "완도 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/muan/drain/index.html",
+    "title": "무안하수구막힘 싱크대·변기·배수구 역류 해결 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "무안 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 지역 시공사례와 상담 정보를 확인하세요.",
+    "desc_len": 75,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/muan/drain/",
+    "h1": [
+      "무안하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "무안하수구막힘 싱크대·변기·배수구 역류 해결 | 슈퍼맨하수구누수",
+    "og_desc": "무안 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 지역 시공사례와 상담 정보를 확인하세요.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/hwasun/drain/index.html",
+    "title": "화순하수구막힘 | 하수구막힘·싱크대·변기·맨홀 역류 해결 | 슈퍼맨하수구누수",
+    "title_len": 42,
+    "desc": "화순 싱크대막힘, 변기막힘, 바닥 배수구와 맨홀 역류를 배관내시경·관로탐지·플렉스샤프트·고압세척으로 진단하고 처리합니다. 화순읍·능주면·도곡면·동면·춘양면·이양면 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 123,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/hwasun/drain/",
+    "h1": [
+      "화순하수구막힘 하수구막힘·싱크대·변기·맨홀 역류 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "화순하수구막힘 | 하수구막힘·싱크대·변기·맨홀 역류 해결 | 슈퍼맨하수구누수",
+    "og_desc": "화순 싱크대막힘, 변기막힘, 바닥 배수구와 맨홀 역류를 배관내시경·관로탐지·플렉스샤프트·고압세척으로 진단하고 처리합니다. 화순읍·능주면·도곡면·동면·춘양면·이양면 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/jeonnam/hwasun/drain/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 41,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/hwasun/leak/index.html",
+    "title": "화순누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "title_len": 42,
+    "desc": "화순 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 화순읍·능주면·도곡면·동면·춘양면·이양면 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 126,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/hwasun/leak/",
+    "h1": [
+      "화순누수탐지 누수탐지·수도배관·난방배관 미세누수 진단"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "화순누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "og_desc": "화순 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 화순읍·능주면·도곡면·동면·춘양면·이양면 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/jeonnam/hwasun/leak/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 43,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/gwangyang/drain/index.html",
+    "title": "광양하수구막힘 반복 역류 진단·고압세척 | 슈퍼맨하수구누수",
+    "title_len": 32,
+    "desc": "광양하수구막힘 반복 원인, 싱크대·변기·배수구 역류 진단, 배관내시경·플렉스샤프트·고압세척 작업 기준과 실제 사례 안내.",
+    "desc_len": 67,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/gwangyang/drain/",
+    "h1": [
+      "광양하수구막힘, 반복 역류는 원인 진단부터"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광양하수구막힘 반복 역류 진단·고압세척 | 슈퍼맨하수구누수",
+    "og_desc": "광양하수구막힘 반복 원인, 싱크대·변기·배수구 역류 진단, 배관내시경·플렉스샤프트·고압세척 작업 기준과 실제 사례 안내.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 27,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/boseong/drain/index.html",
+    "title": "보성하수구막힘 싱크대·변기·배수구 역류 해결 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "보성 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 지역 시공사례와 상담 정보를 확인하세요.",
+    "desc_len": 75,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/boseong/drain/",
+    "h1": [
+      "보성하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "보성하수구막힘 싱크대·변기·배수구 역류 해결 | 슈퍼맨하수구누수",
+    "og_desc": "보성 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 지역 시공사례와 상담 정보를 확인하세요.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/damyang/drain/index.html",
+    "title": "담양하수구막힘 반복 역류 진단·고압세척 | 슈퍼맨하수구누수",
+    "title_len": 32,
+    "desc": "담양하수구막힘 반복 원인, 싱크대·변기·배수구 역류 진단, 배관내시경·플렉스샤프트·고압세척 작업 기준과 실제 사례 안내.",
+    "desc_len": 67,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/damyang/drain/",
+    "h1": [
+      "담양하수구막힘, 반복 역류는 원인 진단부터"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "담양하수구막힘 반복 역류 진단·고압세척 | 슈퍼맨하수구누수",
+    "og_desc": "담양하수구막힘 반복 원인, 싱크대·변기·배수구 역류 진단, 배관내시경·플렉스샤프트·고압세척 작업 기준과 실제 사례 안내.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 28,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/damyang/leak/index.html",
+    "title": "담양누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "title_len": 42,
+    "desc": "담양 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 담양읍·수북면·봉산면·고서면·창평면·대전면 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 127,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/damyang/leak/",
+    "h1": [
+      "담양누수탐지 누수탐지·수도배관·난방배관 미세누수 진단"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "담양누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "og_desc": "담양 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 담양읍·수북면·봉산면·고서면·창평면·대전면 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/jeonnam/damyang/leak/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 43,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/hampyeong/drain/index.html",
+    "title": "함평하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "함평 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하고 해결하는 작업 안내입니다.",
+    "desc_len": 68,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/hampyeong/drain/",
+    "h1": [
+      "함평하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "함평하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "함평 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하고 해결하는 작업 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/jangseong/drain/index.html",
+    "title": "장성하수구막힘 반복 역류 진단·고압세척 | 슈퍼맨하수구누수",
+    "title_len": 32,
+    "desc": "장성하수구막힘 반복 원인, 싱크대·변기·배수구 역류 진단, 배관내시경·플렉스샤프트·고압세척 작업 기준과 실제 사례 안내.",
+    "desc_len": 67,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/jangseong/drain/",
+    "h1": [
+      "장성하수구막힘, 반복 역류는 원인 진단부터"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "장성하수구막힘 반복 역류 진단·고압세척 | 슈퍼맨하수구누수",
+    "og_desc": "장성하수구막힘 반복 원인, 싱크대·변기·배수구 역류 진단, 배관내시경·플렉스샤프트·고압세척 작업 기준과 실제 사례 안내.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 28,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/jangseong/leak/index.html",
+    "title": "장성누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "title_len": 42,
+    "desc": "장성 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 장성읍·황룡면·삼계면·진원면·남면·동화면 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 126,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/jangseong/leak/",
+    "h1": [
+      "장성누수탐지 누수탐지·수도배관·난방배관 미세누수 진단"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "장성누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "og_desc": "장성 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 장성읍·황룡면·삼계면·진원면·남면·동화면 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/jeonnam/jangseong/leak/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 43,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/goheung/drain/index.html",
+    "title": "고흥하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "고흥 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하고 해결하는 작업 안내입니다.",
+    "desc_len": 68,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/goheung/drain/",
+    "h1": [
+      "고흥하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "고흥하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "고흥 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하고 해결하는 작업 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/gokseong/drain/index.html",
+    "title": "곡성하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "곡성 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "desc_len": 67,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/gokseong/drain/",
+    "h1": [
+      "곡성하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "곡성하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "곡성 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/yeosu/drain/index.html",
+    "title": "여수하수구막힘 싱크대·변기·배수구 역류 해결 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "여수 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 지역 시공사례와 상담 정보를 확인하세요.",
+    "desc_len": 75,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/yeosu/drain/",
+    "h1": [
+      "여수하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "여수하수구막힘 싱크대·변기·배수구 역류 해결 | 슈퍼맨하수구누수",
+    "og_desc": "여수 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 지역 시공사례와 상담 정보를 확인하세요.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/haenam/drain/index.html",
+    "title": "해남하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "해남 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하고 해결하는 작업 안내입니다.",
+    "desc_len": 68,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/haenam/drain/",
+    "h1": [
+      "해남하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "해남하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "해남 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하고 해결하는 작업 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/naju/drain/index.html",
+    "title": "나주하수구막힘 | 하수구막힘·싱크대·변기·맨홀 역류 해결 | 슈퍼맨하수구누수",
+    "title_len": 42,
+    "desc": "나주 싱크대막힘, 변기막힘, 바닥 배수구와 맨홀 역류를 배관내시경·관로탐지·플렉스샤프트·고압세척으로 진단하고 처리합니다. 빛가람동·혁신도시·남평읍·금천면·노안면·영산동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 126,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/naju/drain/",
+    "h1": [
+      "나주하수구막힘 하수구막힘·싱크대·변기·맨홀 역류 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "나주하수구막힘 | 하수구막힘·싱크대·변기·맨홀 역류 해결 | 슈퍼맨하수구누수",
+    "og_desc": "나주 싱크대막힘, 변기막힘, 바닥 배수구와 맨홀 역류를 배관내시경·관로탐지·플렉스샤프트·고압세척으로 진단하고 처리합니다. 빛가람동·혁신도시·남평읍·금천면·노안면·영산동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/jeonnam/naju/drain/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 42,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/naju/leak/index.html",
+    "title": "나주누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "title_len": 42,
+    "desc": "나주 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 빛가람동·혁신도시·남평읍·금천면·노안면·영산동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 129,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/naju/leak/",
+    "h1": [
+      "나주누수탐지 누수탐지·수도배관·난방배관 미세누수 진단"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "나주누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "og_desc": "나주 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 빛가람동·혁신도시·남평읍·금천면·노안면·영산동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/jeonnam/naju/leak/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 43,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/mokpo/drain/index.html",
+    "title": "목포하수구막힘 싱크대·변기·배수구 역류 해결 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "목포 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 지역 시공사례와 상담 정보를 확인하세요.",
+    "desc_len": 75,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/mokpo/drain/",
+    "h1": [
+      "목포하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "목포하수구막힘 싱크대·변기·배수구 역류 해결 | 슈퍼맨하수구누수",
+    "og_desc": "목포 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류, 배관내시경과 고압세척 작업 안내. 실제 지역 시공사례와 상담 정보를 확인하세요.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 34,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonnam/gangjin/drain/index.html",
+    "title": "강진하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "강진 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "desc_len": 67,
+    "canonical": "https://supermandrain.co.kr/regions/jeonnam/gangjin/drain/",
+    "h1": [
+      "강진하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "강진하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "강진 하수구막힘, 싱크대막힘, 변기막힘, 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/namwon/index.html",
+    "title": "남원하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "남원 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/namwon/",
+    "h1": [
+      "남원하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 30,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/jangsu/index.html",
+    "title": "장수하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "장수 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/jangsu/",
+    "h1": [
+      "장수하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 30,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/sunchang/index.html",
+    "title": "순창하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "순창 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/sunchang/",
+    "h1": [
+      "순창하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 30,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/gimje/index.html",
+    "title": "김제하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "김제 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/gimje/",
+    "h1": [
+      "김제하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 30,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/iksan/index.html",
+    "title": "익산하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "익산 하수구막힘 실제 시공사례와 배관내시경·고압세척 작업 정보를 확인하세요. 전화 010-4833-3447",
+    "desc_len": 59,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/iksan/",
+    "h1": [
+      "익산하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/gochang/index.html",
+    "title": "고창하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "고창 하수구막힘 실제 시공사례와 배관내시경·고압세척 작업 정보를 확인하세요. 전화 010-4833-3447",
+    "desc_len": 59,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/gochang/",
+    "h1": [
+      "고창하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/jinan/index.html",
+    "title": "진안하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "진안 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/jinan/",
+    "h1": [
+      "진안하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 30,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/jeonju/index.html",
+    "title": "전주하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "전주 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/jeonju/",
+    "h1": [
+      "전주하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 30,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/buan/index.html",
+    "title": "부안하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "부안 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/buan/",
+    "h1": [
+      "부안하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 30,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/muju/index.html",
+    "title": "무주하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "무주 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/muju/",
+    "h1": [
+      "무주하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 30,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/wanju/index.html",
+    "title": "완주하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "완주 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/wanju/",
+    "h1": [
+      "완주하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 30,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/gunsan/index.html",
+    "title": "군산하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "군산 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/gunsan/",
+    "h1": [
+      "군산하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 30,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/jeongeup/index.html",
+    "title": "정읍하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "정읍 하수구막힘 실제 시공사례와 배관내시경·고압세척 작업 정보를 확인하세요. 전화 010-4833-3447",
+    "desc_len": 59,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/jeongeup/",
+    "h1": [
+      "정읍하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/imsil/index.html",
+    "title": "임실하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 21,
+    "desc": "임실 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 43,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/imsil/",
+    "h1": [
+      "임실하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 30,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/imsil/drain/index.html",
+    "title": "임실하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "임실 하수구막힘, 싱크대막힘, 변기막힘과 상가·주택 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "desc_len": 73,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/imsil/drain/",
+    "h1": [
+      "임실하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "임실하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "임실 하수구막힘, 싱크대막힘, 변기막힘과 상가·주택 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/jeongeup/drain/index.html",
+    "title": "정읍하수구막힘 | 하수구막힘·싱크대·변기·맨홀 역류 해결 | 슈퍼맨하수구누수",
+    "title_len": 42,
+    "desc": "정읍 싱크대막힘, 변기막힘, 바닥 배수구와 맨홀 역류를 배관내시경·관로탐지·플렉스샤프트·고압세척으로 진단하고 처리합니다. 수성동·상동·시기동·연지동·태인면·신태인읍 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 124,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/jeongeup/drain/",
+    "h1": [
+      "정읍하수구막힘 하수구막힘·싱크대·변기·맨홀 역류 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "정읍하수구막힘 | 하수구막힘·싱크대·변기·맨홀 역류 해결 | 슈퍼맨하수구누수",
+    "og_desc": "정읍 싱크대막힘, 변기막힘, 바닥 배수구와 맨홀 역류를 배관내시경·관로탐지·플렉스샤프트·고압세척으로 진단하고 처리합니다. 수성동·상동·시기동·연지동·태인면·신태인읍 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/jeonbuk/jeongeup/drain/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 40,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/jeongeup/leak/index.html",
+    "title": "정읍누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "title_len": 42,
+    "desc": "정읍 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 수성동·상동·시기동·연지동·태인면·신태인읍 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 127,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/jeongeup/leak/",
+    "h1": [
+      "정읍누수탐지 누수탐지·수도배관·난방배관 미세누수 진단"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "정읍누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "og_desc": "정읍 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 수성동·상동·시기동·연지동·태인면·신태인읍 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/jeonbuk/jeongeup/leak/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 43,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/gunsan/drain/index.html",
+    "title": "군산하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "군산 하수구막힘, 싱크대·변기·바닥배수구 역류와 상가·숙박시설 배관청소를 진단하는 지역 서비스 안내입니다.",
+    "desc_len": 59,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/gunsan/drain/",
+    "h1": [
+      "군산하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "군산하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "군산 하수구막힘, 싱크대·변기·바닥배수구 역류와 상가·숙박시설 배관청소를 진단하는 지역 서비스 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/wanju/drain/index.html",
+    "title": "완주하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "완주 하수구막힘, 싱크대막힘, 변기막힘과 상가·주택 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "desc_len": 73,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/wanju/drain/",
+    "h1": [
+      "완주하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "완주하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "완주 하수구막힘, 싱크대막힘, 변기막힘과 상가·주택 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/muju/drain/index.html",
+    "title": "무주하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "무주 하수구막힘, 싱크대막힘, 변기막힘과 펜션·음식점·단독주택 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "desc_len": 79,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/muju/drain/",
+    "h1": [
+      "무주하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "무주하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "무주 하수구막힘, 싱크대막힘, 변기막힘과 펜션·음식점·단독주택 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/buan/drain/index.html",
+    "title": "부안하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "부안 하수구막힘, 싱크대막힘, 변기막힘과 상가·주택 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "desc_len": 73,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/buan/drain/",
+    "h1": [
+      "부안하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "부안하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "부안 하수구막힘, 싱크대막힘, 변기막힘과 상가·주택 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/jeonju/drain/index.html",
+    "title": "전주하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "전주 하수구막힘, 싱크대막힘, 변기막힘과 상가·아파트 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "desc_len": 74,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/jeonju/drain/",
+    "h1": [
+      "전주하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "전주하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "전주 하수구막힘, 싱크대막힘, 변기막힘과 상가·아파트 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/jinan/drain/index.html",
+    "title": "진안하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "진안 하수구막힘, 싱크대막힘, 변기막힘과 상가·주택 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "desc_len": 73,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/jinan/drain/",
+    "h1": [
+      "진안하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "진안하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "진안 하수구막힘, 싱크대막힘, 변기막힘과 상가·주택 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/gochang/drain/index.html",
+    "title": "고창하수구막힘 | 하수구막힘·싱크대·변기·맨홀 역류 해결 | 슈퍼맨하수구누수",
+    "title_len": 42,
+    "desc": "고창 싱크대막힘, 변기막힘, 바닥 배수구와 맨홀 역류를 배관내시경·관로탐지·플렉스샤프트·고압세척으로 진단하고 처리합니다. 고창읍·흥덕면·무장면·심원면·대산면·해리면 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 124,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/gochang/drain/",
+    "h1": [
+      "고창하수구막힘 하수구막힘·싱크대·변기·맨홀 역류 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "고창하수구막힘 | 하수구막힘·싱크대·변기·맨홀 역류 해결 | 슈퍼맨하수구누수",
+    "og_desc": "고창 싱크대막힘, 변기막힘, 바닥 배수구와 맨홀 역류를 배관내시경·관로탐지·플렉스샤프트·고압세척으로 진단하고 처리합니다. 고창읍·흥덕면·무장면·심원면·대산면·해리면 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/jeonbuk/gochang/drain/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 40,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/gochang/leak/index.html",
+    "title": "고창누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "title_len": 42,
+    "desc": "고창 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 고창읍·흥덕면·무장면·심원면·대산면·해리면 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 127,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/gochang/leak/",
+    "h1": [
+      "고창누수탐지 누수탐지·수도배관·난방배관 미세누수 진단"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "고창누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "og_desc": "고창 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 고창읍·흥덕면·무장면·심원면·대산면·해리면 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/jeonbuk/gochang/leak/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 43,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/iksan/drain/index.html",
+    "title": "익산하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "익산 하수구막힘, 싱크대막힘, 변기막힘, 공장·상가 배수관 역류를 내시경 진단과 고압세척으로 점검하는 지역 서비스 안내입니다.",
+    "desc_len": 70,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/iksan/drain/",
+    "h1": [
+      "익산하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "익산하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "익산 하수구막힘, 싱크대막힘, 변기막힘, 공장·상가 배수관 역류를 내시경 진단과 고압세척으로 점검하는 지역 서비스 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/gimje/drain/index.html",
+    "title": "김제하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "김제 하수구막힘, 농가·주택·상가 싱크대막힘과 외부 배수관 역류를 관로탐지·내시경·고압세척으로 진단하는 안내입니다.",
+    "desc_len": 64,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/gimje/drain/",
+    "h1": [
+      "김제하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "김제하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "김제 하수구막힘, 농가·주택·상가 싱크대막힘과 외부 배수관 역류를 관로탐지·내시경·고압세척으로 진단하는 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/sunchang/drain/index.html",
+    "title": "순창하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "순창 하수구막힘, 싱크대막힘, 변기막힘과 상가·주택 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "desc_len": 73,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/sunchang/drain/",
+    "h1": [
+      "순창하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "순창하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "순창 하수구막힘, 싱크대막힘, 변기막힘과 상가·주택 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/jangsu/drain/index.html",
+    "title": "장수하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "장수 하수구막힘, 싱크대막힘, 변기막힘과 농가주택·식당·사업장 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "desc_len": 79,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/jangsu/drain/",
+    "h1": [
+      "장수하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "장수하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "장수 하수구막힘, 싱크대막힘, 변기막힘과 농가주택·식당·사업장 배수구 역류를 배관내시경·관로탐지·고압세척으로 진단하는 지역 서비스 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/jeonbuk/namwon/drain/index.html",
+    "title": "남원하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "남원 하수구막힘, 주택·식당·숙박시설 싱크대막힘과 화장실 역류를 배관내시경과 고압세척으로 점검하는 지역 서비스 안내입니다.",
+    "desc_len": 68,
+    "canonical": "https://supermandrain.co.kr/regions/jeonbuk/namwon/drain/",
+    "h1": [
+      "남원하수구막힘 원인 진단과 배관청소"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Service",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "남원하수구막힘 싱크대·변기·배수구 역류 진단 | 슈퍼맨하수구누수",
+    "og_desc": "남원 하수구막힘, 주택·식당·숙박시설 싱크대막힘과 화장실 역류를 배관내시경과 고압세척으로 점검하는 지역 서비스 안내입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/gwangju/gwangju-gwangsangu/index.html",
+    "title": "광주광산구하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 24,
+    "desc": "광주 광산구 하수구막힘 실제 시공사례와 배관내시경·고압세척 작업 정보를 확인하세요. 전화 010-4833-3447",
+    "desc_len": 63,
+    "canonical": "https://supermandrain.co.kr/regions/gwangju/gwangju-gwangsangu/",
+    "h1": [
+      "광주광산구하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 35,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/gwangju/gwangju-namgu/index.html",
+    "title": "광주남구하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 23,
+    "desc": "광주남구 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 45,
+    "canonical": "https://supermandrain.co.kr/regions/gwangju/gwangju-namgu/",
+    "h1": [
+      "광주남구하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 34,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/gwangju/gwangju-seogu/index.html",
+    "title": "광주서구하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 23,
+    "desc": "광주서구 하수구막힘, 싱크대막힘, 변기막힘, 배관내시경, 고압세척, 누수탐지 안내",
+    "desc_len": 45,
+    "canonical": "https://supermandrain.co.kr/regions/gwangju/gwangju-seogu/",
+    "h1": [
+      "광주서구하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 34,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/gwangju/gwangju-bukgu/index.html",
+    "title": "광주북구하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 23,
+    "desc": "광주 북구 하수구막힘 실제 시공사례와 배관내시경·고압세척 작업 정보를 확인하세요. 전화 010-4833-3447",
+    "desc_len": 62,
+    "canonical": "https://supermandrain.co.kr/regions/gwangju/gwangju-bukgu/",
+    "h1": [
+      "광주북구하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 35,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/gwangju/gwangju-donggu/index.html",
+    "title": "광주동구하수구막힘·누수탐지 | 슈퍼맨하수구",
+    "title_len": 23,
+    "desc": "광주 동구 하수구막힘 실제 시공사례와 배관내시경·고압세척 작업 정보를 확인하세요. 전화 010-4833-3447",
+    "desc_len": 62,
+    "canonical": "https://supermandrain.co.kr/regions/gwangju/gwangju-donggu/",
+    "h1": [
+      "광주동구하수구막힘"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 35,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/gwangju/gwangju-donggu/drain/index.html",
+    "title": "광주동구하수구막힘 | 하수구막힘·싱크대·변기·맨홀 역류 해결 | 슈퍼맨하수구누수",
+    "title_len": 44,
+    "desc": "광주동구 싱크대막힘, 변기막힘, 바닥 배수구와 맨홀 역류를 배관내시경·관로탐지·플렉스샤프트·고압세척으로 진단하고 처리합니다. 충장로·학동·계림동·산수동·지산동·동명동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 125,
+    "canonical": "https://supermandrain.co.kr/regions/gwangju/gwangju-donggu/drain/",
+    "h1": [
+      "광주동구하수구막힘 골목상권 배관관리"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주동구하수구막힘 | 하수구막힘·싱크대·변기·맨홀 역류 해결 | 슈퍼맨하수구누수",
+    "og_desc": "광주동구 싱크대막힘, 변기막힘, 바닥 배수구와 맨홀 역류를 배관내시경·관로탐지·플렉스샤프트·고압세척으로 진단하고 처리합니다. 충장로·학동·계림동·산수동·지산동·동명동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/gwangju/gwangju-donggu/drain/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 42,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/gwangju/gwangju-donggu/leak/index.html",
+    "title": "광주동구누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "title_len": 44,
+    "desc": "광주동구 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 충장로·학동·계림동·산수동·지산동·동명동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 128,
+    "canonical": "https://supermandrain.co.kr/regions/gwangju/gwangju-donggu/leak/",
+    "h1": [
+      "광주동구누수탐지 누수탐지·수도배관·난방배관 미세누수 진단"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주동구누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "og_desc": "광주동구 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 충장로·학동·계림동·산수동·지산동·동명동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/gwangju/gwangju-donggu/leak/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 43,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/gwangju/gwangju-bukgu/drain/index.html",
+    "title": "광주북구하수구막힘 | 하수구막힘·싱크대·변기·맨홀 역류 해결 | 슈퍼맨하수구누수",
+    "title_len": 44,
+    "desc": "광주북구 싱크대막힘, 변기막힘, 바닥 배수구와 맨홀 역류를 배관내시경·관로탐지·플렉스샤프트·고압세척으로 진단하고 처리합니다. 용봉동·두암동·문흥동·일곡동·운암동·첨단2지구 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 128,
+    "canonical": "https://supermandrain.co.kr/regions/gwangju/gwangju-bukgu/drain/",
+    "h1": [
+      "광주북구하수구막힘 싱크대·변기·메인배관 원인 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주북구하수구막힘 | 하수구막힘·싱크대·변기·맨홀 역류 해결 | 슈퍼맨하수구누수",
+    "og_desc": "광주북구 싱크대막힘, 변기막힘, 바닥 배수구와 맨홀 역류를 배관내시경·관로탐지·플렉스샤프트·고압세척으로 진단하고 처리합니다. 용봉동·두암동·문흥동·일곡동·운암동·첨단2지구 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/gwangju/gwangju-bukgu/drain/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 42,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/gwangju/gwangju-bukgu/leak/index.html",
+    "title": "광주북구누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "title_len": 44,
+    "desc": "광주북구 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 용봉동·두암동·문흥동·일곡동·운암동·첨단2지구 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 131,
+    "canonical": "https://supermandrain.co.kr/regions/gwangju/gwangju-bukgu/leak/",
+    "h1": [
+      "광주북구누수탐지 누수탐지·수도배관·난방배관 미세누수 진단"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주북구누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "og_desc": "광주북구 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 용봉동·두암동·문흥동·일곡동·운암동·첨단2지구 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/gwangju/gwangju-bukgu/leak/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 43,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/gwangju/gwangju-seogu/drain/index.html",
+    "title": "광주서구하수구막힘 | 하수구막힘·싱크대·변기·맨홀 역류 해결 | 슈퍼맨하수구누수",
+    "title_len": 44,
+    "desc": "광주서구 싱크대막힘, 변기막힘, 바닥 배수구와 맨홀 역류를 배관내시경·관로탐지·플렉스샤프트·고압세척으로 진단하고 처리합니다. 치평동·상무지구·금호동·풍암동·동천동·화정동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 127,
+    "canonical": "https://supermandrain.co.kr/regions/gwangju/gwangju-seogu/drain/",
+    "h1": [
+      "광주서구하수구막힘 상가·아파트 배관 진단 전문"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주서구하수구막힘 | 하수구막힘·싱크대·변기·맨홀 역류 해결 | 슈퍼맨하수구누수",
+    "og_desc": "광주서구 싱크대막힘, 변기막힘, 바닥 배수구와 맨홀 역류를 배관내시경·관로탐지·플렉스샤프트·고압세척으로 진단하고 처리합니다. 치평동·상무지구·금호동·풍암동·동천동·화정동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/gwangju/gwangju-seogu/drain/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 41,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/gwangju/gwangju-seogu/leak/index.html",
+    "title": "광주서구누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "title_len": 44,
+    "desc": "광주서구 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 치평동·상무지구·금호동·풍암동·동천동·화정동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 130,
+    "canonical": "https://supermandrain.co.kr/regions/gwangju/gwangju-seogu/leak/",
+    "h1": [
+      "광주서구누수탐지 누수탐지·수도배관·난방배관 미세누수 진단"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주서구누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "og_desc": "광주서구 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 치평동·상무지구·금호동·풍암동·동천동·화정동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/gwangju/gwangju-seogu/leak/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 43,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/gwangju/gwangju-namgu/drain/index.html",
+    "title": "광주남구하수구막힘 | 하수구막힘·싱크대·변기·맨홀 역류 해결 | 슈퍼맨하수구누수",
+    "title_len": 44,
+    "desc": "광주남구 싱크대막힘, 변기막힘, 바닥 배수구와 맨홀 역류를 배관내시경·관로탐지·플렉스샤프트·고압세척으로 진단하고 처리합니다. 봉선동·진월동·주월동·백운동·효천지구·양림동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 127,
+    "canonical": "https://supermandrain.co.kr/regions/gwangju/gwangju-namgu/drain/",
+    "h1": [
+      "광주남구하수구막힘 주택·빌라 배수 문제 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주남구하수구막힘 | 하수구막힘·싱크대·변기·맨홀 역류 해결 | 슈퍼맨하수구누수",
+    "og_desc": "광주남구 싱크대막힘, 변기막힘, 바닥 배수구와 맨홀 역류를 배관내시경·관로탐지·플렉스샤프트·고압세척으로 진단하고 처리합니다. 봉선동·진월동·주월동·백운동·효천지구·양림동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/gwangju/gwangju-namgu/drain/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 41,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/gwangju/gwangju-namgu/leak/index.html",
+    "title": "광주남구누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "title_len": 44,
+    "desc": "광주남구 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 봉선동·진월동·주월동·백운동·효천지구·양림동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 130,
+    "canonical": "https://supermandrain.co.kr/regions/gwangju/gwangju-namgu/leak/",
+    "h1": [
+      "광주남구누수탐지 누수탐지·수도배관·난방배관 미세누수 진단"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주남구누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "og_desc": "광주남구 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 봉선동·진월동·주월동·백운동·효천지구·양림동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/gwangju/gwangju-namgu/leak/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 43,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/gwangju/gwangju-gwangsangu/drain/index.html",
+    "title": "광주광산구하수구막힘 | 하수구막힘·싱크대·변기·맨홀 역류 해결 | 슈퍼맨하수구누수",
+    "title_len": 45,
+    "desc": "광주광산구 싱크대막힘, 변기막힘, 바닥 배수구와 맨홀 역류를 배관내시경·관로탐지·플렉스샤프트·고압세척으로 진단하고 처리합니다. 수완지구·첨단지구·운남동·신가동·하남산단·송정동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 130,
+    "canonical": "https://supermandrain.co.kr/regions/gwangju/gwangju-gwangsangu/drain/",
+    "h1": [
+      "광주광산구하수구막힘 신축·상가 배관 서비스"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주광산구하수구막힘 | 하수구막힘·싱크대·변기·맨홀 역류 해결 | 슈퍼맨하수구누수",
+    "og_desc": "광주광산구 싱크대막힘, 변기막힘, 바닥 배수구와 맨홀 역류를 배관내시경·관로탐지·플렉스샤프트·고압세척으로 진단하고 처리합니다. 수완지구·첨단지구·운남동·신가동·하남산단·송정동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/gwangju/gwangju-gwangsangu/drain/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 42,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "regions/gwangju/gwangju-gwangsangu/leak/index.html",
+    "title": "광주광산구누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "title_len": 45,
+    "desc": "광주광산구 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 수완지구·첨단지구·운남동·신가동·하남산단·송정동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "desc_len": 133,
+    "canonical": "https://supermandrain.co.kr/regions/gwangju/gwangju-gwangsangu/leak/",
+    "h1": [
+      "광주광산구누수탐지 누수탐지·수도배관·난방배관 미세누수 진단"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "LocalBusiness",
+      "Service",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주광산구누수탐지 | 누수탐지·수도배관·난방배관 미세누수 진단 | 슈퍼맨하수구누수",
+    "og_desc": "광주광산구 보일러 압력 저하, 수도요금 증가, 아래층 천장 물샘을 압력시험·가스탐지·청음·열화상으로 좁혀 불필요한 굴착을 줄입니다. 수완지구·첨단지구·운남동·신가동·하남산단·송정동 출장 상담. 실제 시공사례 사진과 작업 절차를 확인하세요.",
+    "og_url": "https://supermandrain.co.kr/regions/gwangju/gwangju-gwangsangu/leak/",
+    "twitter": "summary_large_image",
+    "imgs": 1,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 43,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "faq/drain/index.html",
+    "title": "하수구막힘 FAQ 50 | 슈퍼맨하수구누수",
+    "title_len": 23,
+    "desc": "싱크대·변기·배수구·맨홀 역류, 장비 선택, 비용과 재발 방지까지 현장에서 자주 받는 질문을 깊이 있게 정리했습니다.",
+    "desc_len": 65,
+    "canonical": "https://supermandrain.co.kr/faq/drain/",
+    "h1": [
+      "하수구막힘 FAQ 50"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 28,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "faq/leak/index.html",
+    "title": "누수탐지 FAQ 50 | 슈퍼맨하수구누수",
+    "title_len": 22,
+    "desc": "수도배관·난방배관·아랫집 천장 물샘, 탐지 장비, 보수와 보험까지 현장에서 자주 받는 질문을 깊이 있게 정리했습니다.",
+    "desc_len": 65,
+    "canonical": "https://supermandrain.co.kr/faq/leak/",
+    "h1": [
+      "누수탐지 FAQ 50"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "FAQPage"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 28,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/iksan-drain-blockage/index.html",
+    "title": "익산하수구막힘 3달마다 반복되던 상가화장실싱크대 역류, 재발 원인부터 해결까지 | 슈퍼맨하수구누수",
+    "title_len": 54,
+    "desc": "화장실 바닥 타일 틈새로 오수가 올라오고 소변기까지 역류하기 시작하면 당황하지 않을 수 없습니다. 특히 상가처럼 하루에도 수십 명이 화장실을 이용하는 공간에서는 영업에 바로 영향을 주기 때문에 하루라도 방치하기 어려운 문제입니다.",
+    "desc_len": 128,
+    "canonical": "https://supermandrain.co.kr/cases/iksan-drain-blockage/",
+    "h1": [
+      "익산하수구막힘 3달마다 반복되던 상가화장실싱크대 역류, 재발 원인부터 해결까지"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "익산하수구막힘 3달마다 반복되던 상가화장실싱크대 역류, 재발 원인부터 해결까지 | 슈퍼맨하수구누수",
+    "og_desc": "화장실 바닥 타일 틈새로 오수가 올라오고 소변기까지 역류하기 시작하면 당황하지 않을 수 없습니다. 특히 상가처럼 하루에도 수십 명이 화장실을 이용하는 공간에서는 영업에 바로 영향을 주기 때문에 하루라도 방치하기 어려운 문제입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 3,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/drain/index.html",
+    "title": "하수구막힘 실제 시공사례 | 내시경·고압세척 현장",
+    "title_len": 27,
+    "desc": "싱크대막힘, 변기역류, 맨홀과 메인배관 정체를 배관내시경으로 진단하고 플렉스샤프트·고압세척으로 처리한 실제 사례입니다.",
+    "desc_len": 66,
+    "canonical": "https://supermandrain.co.kr/cases/drain/",
+    "h1": [
+      "하수구막힘 실제 시공사례"
+    ],
+    "h1_count": 1,
+    "h2_count": 46,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "하수구막힘 실제 시공사례 | 내시경·고압세척 현장",
+    "og_desc": "싱크대막힘, 변기역류, 맨홀과 메인배관 정체를 배관내시경으로 진단하고 플렉스샤프트·고압세척으로 처리한 실제 사례입니다.",
+    "og_url": "https://supermandrain.co.kr/cases/drain/",
+    "twitter": "summary_large_image",
+    "imgs": 44,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 157,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gwangju-namgu-drain-cleaning/index.html",
+    "title": "광주남구하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽 | 슈퍼맨하수구누수",
+    "title_len": 53,
+    "desc": "전화번호는 유튜버 슈퍼맨하수구 010 4833 3447 아파트는 5년되었고 고객님은 6개월전에 일반 스프링업체 불러 뚫었으나 재발되어 일반업체를 부르시려다 확실히 해결해야겠다는 생각에 전문업체를 부르기로 결심. 상담전화주심. 유튜버이면서 A/S 1년이라는 자신감을 보시고 주저없",
+    "desc_len": 155,
+    "canonical": "https://supermandrain.co.kr/cases/gwangju-namgu-drain-cleaning/",
+    "h1": [
+      "광주남구하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주남구하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽 | 슈퍼맨하수구누수",
+    "og_desc": "전화번호는 유튜버 슈퍼맨하수구 010 4833 3447 아파트는 5년되었고 고객님은 6개월전에 일반 스프링업체 불러 뚫었으나 재발되어 일반업체를 부르시려다 확실히 해결해야겠다는 생각에 전문업체를 부르기로 결심. 상담전화주심. 유튜버이면서 A/S 1년이라는 자신감을 보시고 주저없",
+    "og_url": "https://supermandrain.co.kr/cases/gwangju-namgu-drain-cleaning/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 41,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gochang-drain-blockage/index.html",
+    "title": "고창하수구막힘 3개월마다 재발한 상가 화장실싱크대역류, 원인은 따로 있었습니다 | 슈퍼맨하수구누수",
+    "title_len": 54,
+    "desc": "오늘 소개해 드릴 현장은 고창하수구막힘 문제로 큰 불편을 겪으신 상가입니다. 불과 3개월 전에도 다른 업체를 불러 뚫었지만, 똑같은 자리가 다시 막혀 화장실 바닥과 외부 맨홀까지 오수가 심하게 역류하고 있었습니다.",
+    "desc_len": 119,
+    "canonical": "https://supermandrain.co.kr/cases/gochang-drain-blockage/",
+    "h1": [
+      "고창하수구막힘 3개월마다 재발한 상가 화장실싱크대역류, 원인은 따로 있었습니다"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "고창하수구막힘 3개월마다 재발한 상가 화장실싱크대역류, 원인은 따로 있었습니다 | 슈퍼맨하수구누수",
+    "og_desc": "오늘 소개해 드릴 현장은 고창하수구막힘 문제로 큰 불편을 겪으신 상가입니다. 불과 3개월 전에도 다른 업체를 불러 뚫었지만, 똑같은 자리가 다시 막혀 화장실 바닥과 외부 맨홀까지 오수가 심하게 역류하고 있었습니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 10,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/mokpo-drain-cleaning-2/index.html",
+    "title": "목포하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽 | 슈퍼맨하수구누수",
+    "title_len": 51,
+    "desc": "우리가 생활하면서 사용하게 되는 싱크대나 변기는 다양한 종류의 오물이 내려가기 때문에 이곳에 문제가 발생하게 된다면 정말 고통스러운 나날을 보내게 될 수 있습니다. 목포하수구뚫음으로는 정말 자신할 수 있는 저희 슈퍼맨하수구가 오전 첫 번째 일정으로 다녀온 곳은 목포 아파트 변기막힘 현장이었습니다. 변기물이 제대로 내려가지",
+    "desc_len": 180,
+    "canonical": "https://supermandrain.co.kr/cases/mokpo-drain-cleaning-2/",
+    "h1": [
+      "목포하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "목포하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽 | 슈퍼맨하수구누수",
+    "og_desc": "우리가 생활하면서 사용하게 되는 싱크대나 변기는 다양한 종류의 오물이 내려가기 때문에 이곳에 문제가 발생하게 된다면 정말 고통스러운 나날을 보내게 될 수 있습니다. 목포하수구뚫음으로는 정말 자신할 수 있는 저희 슈퍼맨하수구가 오전 첫 번째 일정으로 다녀온 곳은 목포 아파트 변기막힘 현장이었습니다. 변기물이 제대로 내려가지",
+    "og_url": "https://supermandrain.co.kr/cases/mokpo-drain-cleaning-2/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 41,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/naju-hwasun-drain-cleaning/index.html",
+    "title": "나주화순하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽 | 슈퍼맨하수구누수",
+    "title_len": 53,
+    "desc": "반복되는 하수구 막힘으로 인해 고민하게 된다면 정말 절망적인 마음일 텐데요. 누수나 냄새 등으로 인해 삶의 질이 저하될 우려까지 존재하기 때문에 다급하게 전문가를 찾게 될 것입니다. 이번 시간에는 오전 일정으로 다녀온 나주화순아파트현장을 소개해 드리려고 하는데요.",
+    "desc_len": 147,
+    "canonical": "https://supermandrain.co.kr/cases/naju-hwasun-drain-cleaning/",
+    "h1": [
+      "나주화순하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "나주화순하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽 | 슈퍼맨하수구누수",
+    "og_desc": "반복되는 하수구 막힘으로 인해 고민하게 된다면 정말 절망적인 마음일 텐데요. 누수나 냄새 등으로 인해 삶의 질이 저하될 우려까지 존재하기 때문에 다급하게 전문가를 찾게 될 것입니다. 이번 시간에는 오전 일정으로 다녀온 나주화순아파트현장을 소개해 드리려고 하는데요.",
+    "og_url": "https://supermandrain.co.kr/cases/naju-hwasun-drain-cleaning/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 41,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/yeonggwang-hampyeong-sink-blockage/index.html",
+    "title": "영광함평씽크대막힘 싱크대뚫음 해결하고 싶다면 | 슈퍼맨하수구누수",
+    "title_len": 35,
+    "desc": "매장을 운영하시는 분들에게 가장 난감한 경우가 영광함평씽크대막힘입니다. 물은 안 내려가는데 설거지를 계속 해야 하거나 배수구가 역류를 해서 스트레스받으시는 분들 많을 것입니다. 그런 분들이라면 슈퍼맨하수구를 찾아주세요.",
+    "desc_len": 122,
+    "canonical": "https://supermandrain.co.kr/cases/yeonggwang-hampyeong-sink-blockage/",
+    "h1": [
+      "영광함평씽크대막힘 싱크대뚫음 해결하고 싶다면"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "영광함평씽크대막힘 싱크대뚫음 해결하고 싶다면 | 슈퍼맨하수구누수",
+    "og_desc": "매장을 운영하시는 분들에게 가장 난감한 경우가 영광함평씽크대막힘입니다. 물은 안 내려가는데 설거지를 계속 해야 하거나 배수구가 역류를 해서 스트레스받으시는 분들 많을 것입니다. 그런 분들이라면 슈퍼맨하수구를 찾아주세요.",
+    "og_url": "https://supermandrain.co.kr/cases/yeonggwang-hampyeong-sink-blockage/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gwangju-bukgu-drain-cleaning/index.html",
+    "title": "광주북구하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽 | 슈퍼맨하수구누수",
+    "title_len": 53,
+    "desc": "전화번호는 유튜버 슈퍼맨하수구 010 4833 3447 변기작업후 즉시 싱크대 현장 배관내부상태를 내시경을 통해 고객님께 보여드림. 내시경 영상을 보시고 이런 기름을 수년간 달고 살았다는거에 약간 충격을 받으심. 고객님께 실시간 내시경 영상을 보여드리며 강력회전체인장비를 통해",
+    "desc_len": 154,
+    "canonical": "https://supermandrain.co.kr/cases/gwangju-bukgu-drain-cleaning/",
+    "h1": [
+      "광주북구하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주북구하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽 | 슈퍼맨하수구누수",
+    "og_desc": "전화번호는 유튜버 슈퍼맨하수구 010 4833 3447 변기작업후 즉시 싱크대 현장 배관내부상태를 내시경을 통해 고객님께 보여드림. 내시경 영상을 보시고 이런 기름을 수년간 달고 살았다는거에 약간 충격을 받으심. 고객님께 실시간 내시경 영상을 보여드리며 강력회전체인장비를 통해",
+    "og_url": "https://supermandrain.co.kr/cases/gwangju-bukgu-drain-cleaning/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 41,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/suncheon-drain-blockage-3/index.html",
+    "title": "순천배수구막힘 맨홀 뚫는 업체를 찾는다면 | 슈퍼맨하수구누수",
+    "title_len": 33,
+    "desc": "우리 일상에서 항상 사용하는 공간이 있다면 물이 쓰이는 곳입니다. 자신의 신체를 씻거나 먹어야 하는 것들을 세척할 때에 물이 사용되어야 하는데 사람이 살고 있는 공간에서는 물을 가져오면 내보낼 수 있어야 합니다. 이를 배수구 또는 하수구라 칭하고 있는데요. 단지 물만 이동하는 곳이라면 문제되는 일이 없겠지만 세척으로 인해 이물질이 이곳을 통해 배출되기 때문에 원하지 않더라도 순천배수구막힘 증상을 보이게 됩니다",
+    "desc_len": 230,
+    "canonical": "https://supermandrain.co.kr/cases/suncheon-drain-blockage-3/",
+    "h1": [
+      "순천배수구막힘 맨홀 뚫는 업체를 찾는다면"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "순천배수구막힘 맨홀 뚫는 업체를 찾는다면 | 슈퍼맨하수구누수",
+    "og_desc": "우리 일상에서 항상 사용하는 공간이 있다면 물이 쓰이는 곳입니다. 자신의 신체를 씻거나 먹어야 하는 것들을 세척할 때에 물이 사용되어야 하는데 사람이 살고 있는 공간에서는 물을 가져오면 내보낼 수 있어야 합니다. 이를 배수구 또는 하수구라 칭하고 있는데요. 단지 물만 이동하는 곳이라면 문제되는 일이 없겠지만 세척으로 인해 이물질이 이곳을 통해 배출되기 때문에 원하지 않더라도 순천배수구막힘 증상을 보이게 됩니다",
+    "og_url": "https://supermandrain.co.kr/cases/suncheon-drain-blockage-3/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/yeonggwang-toilet-blockage-2/index.html",
+    "title": "영광변기막힘 싱크대막힘, 씽크대역류까지 말끔하게 해결하려면 | 슈퍼맨하수구누수",
+    "title_len": 43,
+    "desc": "급하게 문제를 해결해 달라는 연락이 들어와 곧바로 현장으로 출동하게 되었습니다. 문의를 주셨던 고객님은 영광변기막힘으로 인해서 긴급하게 연락하셨다며 말씀을 하셨는데요. 인근 일반 업체를 통해서 문제를 해결하려고 노력했지만 그럼에도 상황이 나아지지 않아 영 고민이었다고 하셨습니다.",
+    "desc_len": 156,
+    "canonical": "https://supermandrain.co.kr/cases/yeonggwang-toilet-blockage-2/",
+    "h1": [
+      "영광변기막힘 싱크대막힘, 씽크대역류까지 말끔하게 해결하려면"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "영광변기막힘 싱크대막힘, 씽크대역류까지 말끔하게 해결하려면 | 슈퍼맨하수구누수",
+    "og_desc": "급하게 문제를 해결해 달라는 연락이 들어와 곧바로 현장으로 출동하게 되었습니다. 문의를 주셨던 고객님은 영광변기막힘으로 인해서 긴급하게 연락하셨다며 말씀을 하셨는데요. 인근 일반 업체를 통해서 문제를 해결하려고 노력했지만 그럼에도 상황이 나아지지 않아 영 고민이었다고 하셨습니다.",
+    "og_url": "https://supermandrain.co.kr/cases/yeonggwang-toilet-blockage-2/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/jangseong-damyang-sink-blockage/index.html",
+    "title": "장성담양씽크대막힘 싱크대뚫음 시원하게 해결 해드렸어요 | 슈퍼맨하수구누수",
+    "title_len": 40,
+    "desc": "식당이나 카페뿐만 아니라 개인 집의 주방에서도 싱크대가 막히는 일이 간혹 일어나고 있습니다.",
+    "desc_len": 51,
+    "canonical": "https://supermandrain.co.kr/cases/jangseong-damyang-sink-blockage/",
+    "h1": [
+      "장성담양씽크대막힘 싱크대뚫음 시원하게 해결 해드렸어요"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "장성담양씽크대막힘 싱크대뚫음 시원하게 해결 해드렸어요 | 슈퍼맨하수구누수",
+    "og_desc": "식당이나 카페뿐만 아니라 개인 집의 주방에서도 싱크대가 막히는 일이 간혹 일어나고 있습니다.",
+    "og_url": "https://supermandrain.co.kr/cases/jangseong-damyang-sink-blockage/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/hwasun-drain-blockage/index.html",
+    "title": "화순하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결 | 슈퍼맨하수구누수",
+    "title_len": 57,
+    "desc": "이번에 방문한 곳은 화순 화순읍의 한 구축 아파트였습니다. 입주한 지 시간이 지나면서 배관 내부에 생활 오염물이 오랫동안 쌓여 있었고, 최근 들어 싱크대 물이 천천히 내려가기 시작했다고 말씀하셨습니다.",
+    "desc_len": 112,
+    "canonical": "https://supermandrain.co.kr/cases/hwasun-drain-blockage/",
+    "h1": [
+      "화순하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "화순하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결 | 슈퍼맨하수구누수",
+    "og_desc": "이번에 방문한 곳은 화순 화순읍의 한 구축 아파트였습니다. 입주한 지 시간이 지나면서 배관 내부에 생활 오염물이 오랫동안 쌓여 있었고, 최근 들어 싱크대 물이 천천히 내려가기 시작했다고 말씀하셨습니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 8,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 33,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gwangju-donggu-drain-cleaning/index.html",
+    "title": "광주동구하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽 | 슈퍼맨하수구누수",
+    "title_len": 53,
+    "desc": "전화번호는 유튜버 슈퍼맨하수구 010 4833 3447 현장출동후 바로 내시경을 통해 배관내부 상태 점검. 자세하게 고객님께 보여드리고 문제의 원인이 되는 배관상태를 보여드림. 한번도 배관내부를 이렇게 자세히 본적이 없으시다며 신기해하시며, 내부상태를 보고 놀라심. 그동안 일반",
+    "desc_len": 155,
+    "canonical": "https://supermandrain.co.kr/cases/gwangju-donggu-drain-cleaning/",
+    "h1": [
+      "광주동구하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주동구하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽 | 슈퍼맨하수구누수",
+    "og_desc": "전화번호는 유튜버 슈퍼맨하수구 010 4833 3447 현장출동후 바로 내시경을 통해 배관내부 상태 점검. 자세하게 고객님께 보여드리고 문제의 원인이 되는 배관상태를 보여드림. 한번도 배관내부를 이렇게 자세히 본적이 없으시다며 신기해하시며, 내부상태를 보고 놀라심. 그동안 일반",
+    "og_url": "https://supermandrain.co.kr/cases/gwangju-donggu-drain-cleaning/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 41,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gwangju-seogu-leak-detection/index.html",
+    "title": "광주서구누수탐지 두 차례 실패한 아파트 난방배관 미세누수 정밀 진단 | 슈퍼맨하수구누수",
+    "title_len": 48,
+    "desc": "광주 서구 실제 누수탐지 사례. 압력시험, 가스탐지, 청음, 열화상으로 누수 위치를 좁히고 배관 보수 후 2차 검사를 진행했습니다.",
+    "desc_len": 73,
+    "canonical": "https://supermandrain.co.kr/cases/gwangju-seogu-leak-detection/",
+    "h1": [
+      "광주서구누수탐지 두 차례 실패한 아파트 난방배관 미세누수 정밀 진단"
+    ],
+    "h1_count": 1,
+    "h2_count": 7,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 9,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 25,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gwangyang-drain-blockage/index.html",
+    "title": "광양하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결 | 슈퍼맨하수구누수",
+    "title_len": 57,
+    "desc": "제목 이번에 방문한 곳은 광양 외곽의 한 단독주택이었습니다. 고객님께서는 며칠 전부터 싱크대 물이 평소보다 늦게 내려가고, 화장실 바닥 배수도 함께 느려져 불편함을 느끼고 계셨습니다.",
+    "desc_len": 102,
+    "canonical": "https://supermandrain.co.kr/cases/gwangyang-drain-blockage/",
+    "h1": [
+      "광양하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광양하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결 | 슈퍼맨하수구누수",
+    "og_desc": "제목 이번에 방문한 곳은 광양 외곽의 한 단독주택이었습니다. 고객님께서는 며칠 전부터 싱크대 물이 평소보다 늦게 내려가고, 화장실 바닥 배수도 함께 느려져 불편함을 느끼고 계셨습니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 10,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 34,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gwangju-drain-blockage-2/index.html",
+    "title": "광주배수구막힘 싱크대 맨홀역류 재발 없이 한번에 해결 | 슈퍼맨하수구누수",
+    "title_len": 40,
+    "desc": "식당이나 사업장을 운영하다 보면 창업 전에는 전혀 예상치 못한 난관에 부닥치는 일이 일어나는데요. 그중 하나가 바로 갑자기 하수구가 막히는 현상입니다.",
+    "desc_len": 84,
+    "canonical": "https://supermandrain.co.kr/cases/gwangju-drain-blockage-2/",
+    "h1": [
+      "광주배수구막힘 싱크대 맨홀역류 재발 없이 한번에 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주배수구막힘 싱크대 맨홀역류 재발 없이 한번에 해결 | 슈퍼맨하수구누수",
+    "og_desc": "식당이나 사업장을 운영하다 보면 창업 전에는 전혀 예상치 못한 난관에 부닥치는 일이 일어나는데요. 그중 하나가 바로 갑자기 하수구가 막히는 현상입니다.",
+    "og_url": "https://supermandrain.co.kr/cases/gwangju-drain-blockage-2/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/mokpo-drain-cleaning-2-2/index.html",
+    "title": "목포 하수구 시공사례 이전 안내 | 슈퍼맨하수구누수",
+    "title_len": 28,
+    "desc": "이 시공사례는 목포하수구뚫음 공식 사례 페이지로 통합되었습니다. 중복 문서 방지를 위해 대표 페이지로 안내합니다.",
+    "desc_len": 63,
+    "canonical": "https://supermandrain.co.kr/cases/mokpo-drain-cleaning-2-2/",
+    "h1": [
+      "목포 하수구 시공사례가 통합되었습니다"
+    ],
+    "h1_count": 1,
+    "h2_count": 1,
+    "schemas": [
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "noindex,follow",
+    "og_title": "목포 하수구 시공사례 이전 안내 | 슈퍼맨하수구누수",
+    "og_desc": "이 시공사례는 목포하수구뚫음 공식 사례 페이지로 통합되었습니다. 중복 문서 방지를 위해 대표 페이지로 안내합니다.",
+    "og_url": "https://supermandrain.co.kr/cases/mokpo-drain-cleaning-2-2/",
+    "twitter": "",
+    "imgs": 0,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 24,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/jangseong-drain-blockage/index.html",
+    "title": "장성배수구막힘 맨홀 역류 뚫는 업체 찾으신다면 | 슈퍼맨하수구누수",
+    "title_len": 36,
+    "desc": "물을 사용하는 어떠한 공간이든 하수구가 필수로 자리 잡고 있고 이를 통해 폐수가 밖으로 흘러 나갑니다. 그러나 원활하게 배수가 되어야 할 폐수가 반대로 역류하거나 제대로 흐르지 못할 시에는 이것만큼 크나큰 스트레스가 없는데요. 특히나 냄새가 나고 벌레가 쉽게 생기다 보니 실내공간에서 이러한 문제는 건강에도 좋지 못한 영향을 더합니다. 장성배수구막힘 작업을 요청하신 이번 고객님 또한 일 년에 1번에서 2회 정도",
+    "desc_len": 230,
+    "canonical": "https://supermandrain.co.kr/cases/jangseong-drain-blockage/",
+    "h1": [
+      "장성배수구막힘 맨홀 역류 뚫는 업체 찾으신다면"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "장성배수구막힘 맨홀 역류 뚫는 업체 찾으신다면 | 슈퍼맨하수구누수",
+    "og_desc": "물을 사용하는 어떠한 공간이든 하수구가 필수로 자리 잡고 있고 이를 통해 폐수가 밖으로 흘러 나갑니다. 그러나 원활하게 배수가 되어야 할 폐수가 반대로 역류하거나 제대로 흐르지 못할 시에는 이것만큼 크나큰 스트레스가 없는데요. 특히나 냄새가 나고 벌레가 쉽게 생기다 보니 실내공간에서 이러한 문제는 건강에도 좋지 못한 영향을 더합니다. 장성배수구막힘 작업을 요청하신 이번 고객님 또한 일 년에 1번에서 2회 정도",
+    "og_url": "https://supermandrain.co.kr/cases/jangseong-drain-blockage/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gwangju-seogu-drain-cleaning/index.html",
+    "title": "광주서구하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽 | 슈퍼맨하수구누수",
+    "title_len": 53,
+    "desc": "전화번호는 유튜버 슈퍼맨하수구 010 4833 3447 오전일정으로 광주서구의 커피숍 현장. 3년전에 저희를 찾아주신 커피숍 사장님께서 다른 커피숍 지점 씽크대막힘과 변기막힘으로 저희 하수구뚫음업체인 슈퍼맨하수구를 다시 찾아주심. 일전에 작업했던 커피숍이 3년이 지난 지금까지도",
+    "desc_len": 155,
+    "canonical": "https://supermandrain.co.kr/cases/gwangju-seogu-drain-cleaning/",
+    "h1": [
+      "광주서구하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주서구하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽 | 슈퍼맨하수구누수",
+    "og_desc": "전화번호는 유튜버 슈퍼맨하수구 010 4833 3447 오전일정으로 광주서구의 커피숍 현장. 3년전에 저희를 찾아주신 커피숍 사장님께서 다른 커피숍 지점 씽크대막힘과 변기막힘으로 저희 하수구뚫음업체인 슈퍼맨하수구를 다시 찾아주심. 일전에 작업했던 커피숍이 3년이 지난 지금까지도",
+    "og_url": "https://supermandrain.co.kr/cases/gwangju-seogu-drain-cleaning/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 41,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gwangju-gwangsangu-drain-blockage/index.html",
+    "title": "광주광산구하수구막힘 3개월마다 재발한 상가 화장실싱크대역류, 원인은 따로 있었습니다 | 슈퍼맨하수구누수",
+    "title_len": 57,
+    "desc": "갑자기 변기가 막히거나 싱크대 물이 내려가지 않으면 생활도 영업도 큰 불편이 생깁니다. 더 답답한 건 업체를 불렀는데도 몇 달 뒤 같은 증상이 또 반복되는 상황입니다.",
+    "desc_len": 93,
+    "canonical": "https://supermandrain.co.kr/cases/gwangju-gwangsangu-drain-blockage/",
+    "h1": [
+      "광주광산구하수구막힘 3개월마다 재발한 상가 화장실싱크대역류, 원인은 따로 있었습니다"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주광산구하수구막힘 3개월마다 재발한 상가 화장실싱크대역류, 원인은 따로 있었습니다 | 슈퍼맨하수구누수",
+    "og_desc": "갑자기 변기가 막히거나 싱크대 물이 내려가지 않으면 생활도 영업도 큰 불편이 생깁니다. 더 답답한 건 업체를 불렀는데도 몇 달 뒤 같은 증상이 또 반복되는 상황입니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 10,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gwangju-donggu-drain-blockage-2/index.html",
+    "title": "광주동구하수구 싱크대막힘, 씽크대역류까지 확실히 해결하기 | 슈퍼맨하수구누수",
+    "title_len": 42,
+    "desc": "이번에 저희가 해결하고 온 문의는 두 곳이었는데요. 그중에서도 오전에 다니고 온 곳은 상가였습니다. 문의를 주신 고객님의 경우에는 상가 전체에 대해 배수구가 막혀버려 힘든 상황에 놓이게 되었다고 말씀을 하셨습니다.",
+    "desc_len": 119,
+    "canonical": "https://supermandrain.co.kr/cases/gwangju-donggu-drain-blockage-2/",
+    "h1": [
+      "광주동구하수구 싱크대막힘, 씽크대역류까지 확실히 해결하기"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주동구하수구 싱크대막힘, 씽크대역류까지 확실히 해결하기 | 슈퍼맨하수구누수",
+    "og_desc": "이번에 저희가 해결하고 온 문의는 두 곳이었는데요. 그중에서도 오전에 다니고 온 곳은 상가였습니다. 문의를 주신 고객님의 경우에는 상가 전체에 대해 배수구가 막혀버려 힘든 상황에 놓이게 되었다고 말씀을 하셨습니다.",
+    "og_url": "https://supermandrain.co.kr/cases/gwangju-donggu-drain-blockage-2/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/naju-drain-blockage-3/index.html",
+    "title": "나주배수구막힘 싱크대 맨홀역류 실력으로 승부합니다 | 슈퍼맨하수구누수",
+    "title_len": 38,
+    "desc": "어느 날 갑자기 싱크대나 화장실 변기에서 물이 역류한다면 긴급 상황이라고 부를 만큼 당황스럽죠. 하지만 이런 현상이 사업장에서 발생하면 생계와 직접적으로 연결되므로 더욱 심각하게 느껴지는데요.",
+    "desc_len": 107,
+    "canonical": "https://supermandrain.co.kr/cases/naju-drain-blockage-3/",
+    "h1": [
+      "나주배수구막힘 싱크대 맨홀역류 실력으로 승부합니다"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "나주배수구막힘 싱크대 맨홀역류 실력으로 승부합니다 | 슈퍼맨하수구누수",
+    "og_desc": "어느 날 갑자기 싱크대나 화장실 변기에서 물이 역류한다면 긴급 상황이라고 부를 만큼 당황스럽죠. 하지만 이런 현상이 사업장에서 발생하면 생계와 직접적으로 연결되므로 더욱 심각하게 느껴지는데요.",
+    "og_url": "https://supermandrain.co.kr/cases/naju-drain-blockage-3/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/hampyeong-drain-blockage/index.html",
+    "title": "함평하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결 | 슈퍼맨하수구누수",
+    "title_len": 57,
+    "desc": "이번에 찾아간 곳은 함평읍의 한 단독주택이었습니다. 고객님께서는 처음에는 싱크대 물이 예전보다",
+    "desc_len": 52,
+    "canonical": "https://supermandrain.co.kr/cases/hampyeong-drain-blockage/",
+    "h1": [
+      "함평하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "함평하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결 | 슈퍼맨하수구누수",
+    "og_desc": "이번에 찾아간 곳은 함평읍의 한 단독주택이었습니다. 고객님께서는 처음에는 싱크대 물이 예전보다",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 5,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 33,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/yeonggwang-toilet-blockage/index.html",
+    "title": "영광변기막힘 맨홀 역류 배수구 문제 해결해 드립니다 | 슈퍼맨하수구누수",
+    "title_len": 39,
+    "desc": "오전에 영광 공장 관리자님께서 긴급히 전화를 주셨더라고요. 예전에 한 번 방문해 드려서 타 업체가 실패했던 건물 메인 배관 문제를 해결했던 적이 있었는데요. 그때 작업을 진행해 드렸던 부분이 굉장히 마음에 들고 정직하게 느껴지신다고 하여 영광변기막힘 문제를 해결하기 위하여 또 저희를 찾아주셨는데요. 앞으로도 늘 저희만 찾아 주신다고 말씀하시어 너무 감사하더라고요.",
+    "desc_len": 204,
+    "canonical": "https://supermandrain.co.kr/cases/yeonggwang-toilet-blockage/",
+    "h1": [
+      "영광변기막힘 맨홀 역류 배수구 문제 해결해 드립니다"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "영광변기막힘 맨홀 역류 배수구 문제 해결해 드립니다 | 슈퍼맨하수구누수",
+    "og_desc": "오전에 영광 공장 관리자님께서 긴급히 전화를 주셨더라고요. 예전에 한 번 방문해 드려서 타 업체가 실패했던 건물 메인 배관 문제를 해결했던 적이 있었는데요. 그때 작업을 진행해 드렸던 부분이 굉장히 마음에 들고 정직하게 느껴지신다고 하여 영광변기막힘 문제를 해결하기 위하여 또 저희를 찾아주셨는데요. 앞으로도 늘 저희만 찾아 주신다고 말씀하시어 너무 감사하더라고요.",
+    "og_url": "https://supermandrain.co.kr/cases/yeonggwang-toilet-blockage/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/suncheon-leak-detection/index.html",
+    "title": "순천누수탐지 아파트 아래층 물샘, 압력시험과 복합 탐지로 위치 확인 | 슈퍼맨하수구누수",
+    "title_len": 48,
+    "desc": "순천 실제 누수탐지 사례. 압력시험, 가스탐지, 청음, 열화상으로 누수 위치를 좁히고 배관 보수 후 2차 검사를 진행했습니다.",
+    "desc_len": 70,
+    "canonical": "https://supermandrain.co.kr/cases/suncheon-leak-detection/",
+    "h1": [
+      "순천누수탐지 아파트 아래층 물샘, 압력시험과 복합 탐지로 위치 확인"
+    ],
+    "h1_count": 1,
+    "h2_count": 7,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 9,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 25,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/naju-drain-blockage-2/index.html",
+    "title": "나주하수구막힘 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘 완벽뚫음 | 슈퍼맨하수구누수",
+    "title_len": 51,
+    "desc": "날씨가 추워지고 있는 만큼 배관 관리도 동파되는 일이 없도록 관리를 해주어야 합니다. 하수구가 자주 막히고 시원스레 배출되어야 하는 물이 그렇지 못하다고 하면 대수롭지 않게 여기시는 분이 생각보다 많이 계시는데요. 꽉 막히기 전에는 반드시 전조증상으로는 물이 심각하게 천천히 배수가 된다거나 고이게 되는 현상들을 마주하였음",
+    "desc_len": 180,
+    "canonical": "https://supermandrain.co.kr/cases/naju-drain-blockage-2/",
+    "h1": [
+      "나주하수구막힘 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘 완벽뚫음"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "나주하수구막힘 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘 완벽뚫음 | 슈퍼맨하수구누수",
+    "og_desc": "날씨가 추워지고 있는 만큼 배관 관리도 동파되는 일이 없도록 관리를 해주어야 합니다. 하수구가 자주 막히고 시원스레 배출되어야 하는 물이 그렇지 못하다고 하면 대수롭지 않게 여기시는 분이 생각보다 많이 계시는데요. 꽉 막히기 전에는 반드시 전조증상으로는 물이 심각하게 천천히 배수가 된다거나 고이게 되는 현상들을 마주하였음",
+    "og_url": "https://supermandrain.co.kr/cases/naju-drain-blockage-2/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 41,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/suncheon-sink-blockage/index.html",
+    "title": "순천씽크대막힘 싱크대 하수구뚫음까지 전문가에게 | 슈퍼맨하수구누수",
+    "title_len": 36,
+    "desc": "싱크대가 갑자기 막힌다면 대부분의 사람들은 당황합니다. 그리고 인터넷에다가 다급하게 도움을 요청하기도 합니다. 하지만 인터넷에 쓰인 수많은 민간요법을 사용하더라도 순천씽크대막힘이 해결되지 않을 때도 분명히 있습니다.",
+    "desc_len": 120,
+    "canonical": "https://supermandrain.co.kr/cases/suncheon-sink-blockage/",
+    "h1": [
+      "순천씽크대막힘 싱크대 하수구뚫음까지 전문가에게"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "순천씽크대막힘 싱크대 하수구뚫음까지 전문가에게 | 슈퍼맨하수구누수",
+    "og_desc": "싱크대가 갑자기 막힌다면 대부분의 사람들은 당황합니다. 그리고 인터넷에다가 다급하게 도움을 요청하기도 합니다. 하지만 인터넷에 쓰인 수많은 민간요법을 사용하더라도 순천씽크대막힘이 해결되지 않을 때도 분명히 있습니다.",
+    "og_url": "https://supermandrain.co.kr/cases/suncheon-sink-blockage/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gwangju-bukgu-drain-blockage-2/index.html",
+    "title": "광주북구하수구 싱크대 막힘 배수관 뚫음 씽크대 역류까지 클리어하게 해결 가능합니다 | 슈퍼맨하수구누수",
+    "title_len": 56,
+    "desc": "가정집이나 상가나 사람이 거주하면서 생활하다 보면 문제가 발생할 때가 있지요. 물을 버리는 하수구는 화장실과 주방의 싱크대 이 두 군데가 주를 이루는데요, 이곳이 막히거나 역류가 발생하면 정말 난감해집니다. 이번에 저희가 광주북구하수구 문제를 해결해 드리고 왔는데요, 그 현장을 자세히 보여 드리겠습니다.",
+    "desc_len": 170,
+    "canonical": "https://supermandrain.co.kr/cases/gwangju-bukgu-drain-blockage-2/",
+    "h1": [
+      "광주북구하수구 싱크대 막힘 배수관 뚫음 씽크대 역류까지 클리어하게 해결 가능합니다"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주북구하수구 싱크대 막힘 배수관 뚫음 씽크대 역류까지 클리어하게 해결 가능합니다 | 슈퍼맨하수구누수",
+    "og_desc": "가정집이나 상가나 사람이 거주하면서 생활하다 보면 문제가 발생할 때가 있지요. 물을 버리는 하수구는 화장실과 주방의 싱크대 이 두 군데가 주를 이루는데요, 이곳이 막히거나 역류가 발생하면 정말 난감해집니다. 이번에 저희가 광주북구하수구 문제를 해결해 드리고 왔는데요, 그 현장을 자세히 보여 드리겠습니다.",
+    "og_url": "https://supermandrain.co.kr/cases/gwangju-bukgu-drain-blockage-2/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gwangju-namgu-leak-detection/index.html",
+    "title": "광주남구누수탐지 노후 아파트 난방배관 누수, 최소 굴착으로 원인 해결 | 슈퍼맨하수구누수",
+    "title_len": 49,
+    "desc": "광주 남구 실제 누수탐지 사례. 압력시험, 가스탐지, 청음, 열화상으로 누수 위치를 좁히고 배관 보수 후 2차 검사를 진행했습니다.",
+    "desc_len": 73,
+    "canonical": "https://supermandrain.co.kr/cases/gwangju-namgu-leak-detection/",
+    "h1": [
+      "광주남구누수탐지 노후 아파트 난방배관 누수, 최소 굴착으로 원인 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 7,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 9,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 25,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/mokpo-drain-blockage-2/index.html",
+    "title": "목포배수구막힘 맨홀역류까지 한번에 | 슈퍼맨하수구누수",
+    "title_len": 29,
+    "desc": "목포 커피숍과 숙박업체에서 반복된 배수구막힘과 맨홀역류를 배관내시경으로 진단하고 회전세척·석션 작업을 진행한 실제 사례입니다.",
+    "desc_len": 70,
+    "canonical": "https://supermandrain.co.kr/cases/mokpo-drain-blockage-2/",
+    "h1": [
+      "목포배수구막힘 맨홀역류까지 한번에"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "목포배수구막힘 맨홀역류까지 한번에 | 슈퍼맨하수구누수",
+    "og_desc": "목포 커피숍과 숙박업체에서 반복된 배수구막힘과 맨홀역류를 배관내시경으로 진단하고 회전세척·석션 작업을 진행한 실제 사례입니다.",
+    "og_url": "https://supermandrain.co.kr/cases/mokpo-drain-blockage-2/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gwangju-bukgu-drain-blockage/index.html",
+    "title": "광주북구하수구막힘 3개월마다 재발한 상가 화장실싱크대역류, 원인은 따로 있었습니다 | 슈퍼맨하수구누수",
+    "title_len": 56,
+    "desc": "주방 싱크대 물이 천천히 내려가거나 화장실에서 악취가 올라오기 시작하면 \"시간이 지나면 괜찮아지겠지.\" 하고 넘기는 경우가 적지 않습니다. 하지만 이런 증상이 반복된다면 배관 내부에 원인이 쌓이고 있다는 신호일 수도 있습니다.",
+    "desc_len": 126,
+    "canonical": "https://supermandrain.co.kr/cases/gwangju-bukgu-drain-blockage/",
+    "h1": [
+      "광주북구하수구막힘 3개월마다 재발한 상가 화장실싱크대역류, 원인은 따로 있었습니다"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주북구하수구막힘 3개월마다 재발한 상가 화장실싱크대역류, 원인은 따로 있었습니다 | 슈퍼맨하수구누수",
+    "og_desc": "주방 싱크대 물이 천천히 내려가거나 화장실에서 악취가 올라오기 시작하면 \"시간이 지나면 괜찮아지겠지.\" 하고 넘기는 경우가 적지 않습니다. 하지만 이런 증상이 반복된다면 배관 내부에 원인이 쌓이고 있다는 신호일 수도 있습니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 10,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gwangju-namgu-drain-blockage-2/index.html",
+    "title": "광주남구하수구막힘 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽뚫음 | 슈퍼맨하수구누수",
+    "title_len": 55,
+    "desc": "일반적으로 하수구가 갑작스럽게 막히게 되면 정말 당황스러운 마음을 감출 수가 없을 텐데요. 이번 시간에 소개해 드릴 광주남구하수구막힘 현장도 고객님께서 어떻게 하면 좋을지 막막했다고 합니다.",
+    "desc_len": 106,
+    "canonical": "https://supermandrain.co.kr/cases/gwangju-namgu-drain-blockage-2/",
+    "h1": [
+      "광주남구하수구막힘 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽뚫음"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주남구하수구막힘 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽뚫음 | 슈퍼맨하수구누수",
+    "og_desc": "일반적으로 하수구가 갑작스럽게 막히게 되면 정말 당황스러운 마음을 감출 수가 없을 텐데요. 이번 시간에 소개해 드릴 광주남구하수구막힘 현장도 고객님께서 어떻게 하면 좋을지 막막했다고 합니다.",
+    "og_url": "https://supermandrain.co.kr/cases/gwangju-namgu-drain-blockage-2/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 41,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/suncheon-toilet-blockage/index.html",
+    "title": "순천변기막힘과 동시에 싱크대막힘, 씽크대 역류까지 확실히 | 슈퍼맨하수구누수",
+    "title_len": 42,
+    "desc": "배관과 관련된 작업은 늘 끊이지 않고 발생합니다. 그중에서도 이번에 저희에게 문의를 주셨던 두 분의 고객님이 있었는데요. 두 고객님 중 첫 번째 문의를 주셨던 순천변기막힘 현장의 경우에는 화장실에서 문제가 발생했으며 또한 주방에서도 순천싱크대막힘이 일어나 문제라고 이야기하셨습니다.",
+    "desc_len": 157,
+    "canonical": "https://supermandrain.co.kr/cases/suncheon-toilet-blockage/",
+    "h1": [
+      "순천변기막힘과 동시에 싱크대막힘, 씽크대 역류까지 확실히"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "순천변기막힘과 동시에 싱크대막힘, 씽크대 역류까지 확실히 | 슈퍼맨하수구누수",
+    "og_desc": "배관과 관련된 작업은 늘 끊이지 않고 발생합니다. 그중에서도 이번에 저희에게 문의를 주셨던 두 분의 고객님이 있었는데요. 두 고객님 중 첫 번째 문의를 주셨던 순천변기막힘 현장의 경우에는 화장실에서 문제가 발생했으며 또한 주방에서도 순천싱크대막힘이 일어나 문제라고 이야기하셨습니다.",
+    "og_url": "https://supermandrain.co.kr/cases/suncheon-toilet-blockage/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/yeonggwang-hampyeong-drain-cleaning/index.html",
+    "title": "영광함평하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽 | 슈퍼맨하수구누수",
+    "title_len": 53,
+    "desc": "원활하게 영업해야 하는 사업장에서 변기 싱크대막힘 으로 인해 어려움을 겪게 된다면 상당한 피해를 입게 될 것인데요. 오전 일정으로 저희 영광함평배관청소 업체인 슈퍼맨하수구에서 다녀온 곳은 디저트카페 현장이었습니다.",
+    "desc_len": 119,
+    "canonical": "https://supermandrain.co.kr/cases/yeonggwang-hampyeong-drain-cleaning/",
+    "h1": [
+      "영광함평하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "영광함평하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽 | 슈퍼맨하수구누수",
+    "og_desc": "원활하게 영업해야 하는 사업장에서 변기 싱크대막힘 으로 인해 어려움을 겪게 된다면 상당한 피해를 입게 될 것인데요. 오전 일정으로 저희 영광함평배관청소 업체인 슈퍼맨하수구에서 다녀온 곳은 디저트카페 현장이었습니다.",
+    "og_url": "https://supermandrain.co.kr/cases/yeonggwang-hampyeong-drain-cleaning/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 41,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gwangju-donggu-drain-blockage/index.html",
+    "title": "광주동구하수구막힘 3개월마다 재발한 상가 화장실싱크대역류, 원인은 따로 있었습니다 | 슈퍼맨하수구누수",
+    "title_len": 56,
+    "desc": "하수구를 뚫은 지 얼마 되지 않았는데 또 막혔다면, 단순히 운이 나빴던 것은 아닐 수 있습니다. 현장에서 반복적으로 막히는 배관을 점검해 보면, 대부분은 물길만 잠시 확보됐을 뿐 막힘의 원인은 그대로 남아 있는 경우가 많습니다.",
+    "desc_len": 127,
+    "canonical": "https://supermandrain.co.kr/cases/gwangju-donggu-drain-blockage/",
+    "h1": [
+      "광주동구하수구막힘 3개월마다 재발한 상가 화장실싱크대역류, 원인은 따로 있었습니다"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주동구하수구막힘 3개월마다 재발한 상가 화장실싱크대역류, 원인은 따로 있었습니다 | 슈퍼맨하수구누수",
+    "og_desc": "하수구를 뚫은 지 얼마 되지 않았는데 또 막혔다면, 단순히 운이 나빴던 것은 아닐 수 있습니다. 현장에서 반복적으로 막히는 배관을 점검해 보면, 대부분은 물길만 잠시 확보됐을 뿐 막힘의 원인은 그대로 남아 있는 경우가 많습니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 10,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/suncheon-drain-blockage-2/index.html",
+    "title": "순천배수구막힘 배관내시경 진단과 전문 장비로 막힘 원인 해결 | 슈퍼맨하수구누수",
+    "title_len": 44,
+    "desc": "순천배수구막힘 맨홀 역류 싱크대 모두 뚫어드립니다",
+    "desc_len": 27,
+    "canonical": "https://supermandrain.co.kr/cases/suncheon-drain-blockage-2/",
+    "h1": [
+      "순천배수구막힘 배관내시경 진단과 전문 장비로 막힘 원인 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "순천배수구막힘 배관내시경 진단과 전문 장비로 막힘 원인 해결 | 슈퍼맨하수구누수",
+    "og_desc": "순천배수구막힘 맨홀 역류 싱크대 모두 뚫어드립니다",
+    "og_url": "https://supermandrain.co.kr/cases/suncheon-drain-blockage-2/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/muan-drain-blockage/index.html",
+    "title": "무안하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결 | 슈퍼맨하수구누수",
+    "title_len": 57,
+    "desc": "배수가 조금 느려지는 정도는 대부분 시간이 지나면 괜찮아질 거라고 생각합니다. 하지만 공장처럼 하루 종일 많은 물을 사용하는 곳은 초기 증상을 놓치면 순식간에 전체 배관으로 문제가 번질 수 있습니다.",
+    "desc_len": 111,
+    "canonical": "https://supermandrain.co.kr/cases/muan-drain-blockage/",
+    "h1": [
+      "무안하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "무안하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결 | 슈퍼맨하수구누수",
+    "og_desc": "배수가 조금 느려지는 정도는 대부분 시간이 지나면 괜찮아질 거라고 생각합니다. 하지만 공장처럼 하루 종일 많은 물을 사용하는 곳은 초기 증상을 놓치면 순식간에 전체 배관으로 문제가 번질 수 있습니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 10,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 34,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/suncheon-drain-blockage/index.html",
+    "title": "순천하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결 | 슈퍼맨하수구누수",
+    "title_len": 57,
+    "desc": "평소와 다르게 싱크대 물이 천천히 내려가기 시작하면 대부분은 대수롭지 않게 넘기는 경우가 많습니다. 하지만 며칠 뒤 화장실 배수까지 느려지고, 변기 물내림까지 답답해진다면 이야기가 달라집니다.",
+    "desc_len": 107,
+    "canonical": "https://supermandrain.co.kr/cases/suncheon-drain-blockage/",
+    "h1": [
+      "순천하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "순천하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결 | 슈퍼맨하수구누수",
+    "og_desc": "평소와 다르게 싱크대 물이 천천히 내려가기 시작하면 대부분은 대수롭지 않게 넘기는 경우가 많습니다. 하지만 며칠 뒤 화장실 배수까지 느려지고, 변기 물내림까지 답답해진다면 이야기가 달라집니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 10,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 34,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/mokpo-drain-blockage/index.html",
+    "title": "목포하수구막힘 3달마다 재발하던 상가화장실싱크대역류 싹 해결한 방법 | 슈퍼맨하수구누수",
+    "title_len": 48,
+    "desc": "개인 사업자분들에게는 하루만 장사를 못 해도 매출 손실이 발생할 수 있습니다. 그래서 목포하수구막힘, 목포변기막힘, 목포싱크대막힘 같은 문제가 갑자기 생기면 급한 마음에 액체 뚫어뻥이나 셀프 작업부터 시도하곤 합니다.",
+    "desc_len": 121,
+    "canonical": "https://supermandrain.co.kr/cases/mokpo-drain-blockage/",
+    "h1": [
+      "목포하수구막힘 3달마다 재발하던 상가화장실싱크대역류 싹 해결한 방법"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "목포하수구막힘 3달마다 재발하던 상가화장실싱크대역류 싹 해결한 방법 | 슈퍼맨하수구누수",
+    "og_desc": "개인 사업자분들에게는 하루만 장사를 못 해도 매출 손실이 발생할 수 있습니다. 그래서 목포하수구막힘, 목포변기막힘, 목포싱크대막힘 같은 문제가 갑자기 생기면 급한 마음에 액체 뚫어뻥이나 셀프 작업부터 시도하곤 합니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 10,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 33,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/naju-drain-blockage/index.html",
+    "title": "나주하수구막힘 뚫어도 3개월마다 막힌 이유, 화장실싱크대배관 내부에서 찾았습니다 | 슈퍼맨하수구누수",
+    "title_len": 55,
+    "desc": "아파트, 빌라, 원룸은 물론 상가나 오피스텔에서도 하수구 막힘은 갑자기 찾아옵니다. 싱크대 물이 안 내려가거나 변기 역류가 시작되면 일상생활은 물론 영업에도 큰 지장이 생기는데요.",
+    "desc_len": 100,
+    "canonical": "https://supermandrain.co.kr/cases/naju-drain-blockage/",
+    "h1": [
+      "나주하수구막힘 뚫어도 3개월마다 막힌 이유, 화장실싱크대배관 내부에서 찾았습니다"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "나주하수구막힘 뚫어도 3개월마다 막힌 이유, 화장실싱크대배관 내부에서 찾았습니다 | 슈퍼맨하수구누수",
+    "og_desc": "아파트, 빌라, 원룸은 물론 상가나 오피스텔에서도 하수구 막힘은 갑자기 찾아옵니다. 싱크대 물이 안 내려가거나 변기 역류가 시작되면 일상생활은 물론 영업에도 큰 지장이 생기는데요.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 10,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 33,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/jeongeup-drain-blockage/index.html",
+    "title": "정읍하수구막힘 3개월마다 재발한 상가 화장실싱크대역류, 원인은 따로 있었습니다 | 슈퍼맨하수구누수",
+    "title_len": 54,
+    "desc": "평소에는 너무 당연하게 사용하던 화장실과 싱크대. 하지만 어느 날 갑자기 물이 내려가지 않고 역류하기 시작하면 일상이 순식간에 마비되곤 합니다.",
+    "desc_len": 80,
+    "canonical": "https://supermandrain.co.kr/cases/jeongeup-drain-blockage/",
+    "h1": [
+      "정읍하수구막힘 3개월마다 재발한 상가 화장실싱크대역류, 원인은 따로 있었습니다"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "정읍하수구막힘 3개월마다 재발한 상가 화장실싱크대역류, 원인은 따로 있었습니다 | 슈퍼맨하수구누수",
+    "og_desc": "평소에는 너무 당연하게 사용하던 화장실과 싱크대. 하지만 어느 날 갑자기 물이 내려가지 않고 역류하기 시작하면 일상이 순식간에 마비되곤 합니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 3,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 33,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/leak/index.html",
+    "title": "누수탐지 실제 시공사례 | 수도·난방배관 정밀 탐사",
+    "title_len": 28,
+    "desc": "아파트와 상가의 수도·온수·난방배관 누수를 압력시험, 가스, 청음과 열화상으로 탐지하고 보수한 실제 현장 기록입니다.",
+    "desc_len": 65,
+    "canonical": "https://supermandrain.co.kr/cases/leak/",
+    "h1": [
+      "누수탐지 실제 시공사례"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "누수탐지 실제 시공사례 | 수도·난방배관 정밀 탐사",
+    "og_desc": "아파트와 상가의 수도·온수·난방배관 누수를 압력시험, 가스, 청음과 열화상으로 탐지하고 보수한 실제 현장 기록입니다.",
+    "og_url": "https://supermandrain.co.kr/cases/leak/",
+    "twitter": "summary_large_image",
+    "imgs": 4,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 37,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gurye-drain-blockage/index.html",
+    "title": "구례하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결 | 슈퍼맨하수구누수",
+    "title_len": 57,
+    "desc": "처음에는 싱크대 물이 조금 늦게 내려가는 정도라 대수롭지 않게 생각했다고 고객님은 말씀하셨습니다. 하지만 며칠이 지나자 화장실 바닥 배수까지 느려지기 시작했고, 결국 변기 사용 후 물이 제대로 빠지지 않아 영업에도 불편이 생기기 시작했습니다.",
+    "desc_len": 135,
+    "canonical": "https://supermandrain.co.kr/cases/gurye-drain-blockage/",
+    "h1": [
+      "구례하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "구례하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결 | 슈퍼맨하수구누수",
+    "og_desc": "처음에는 싱크대 물이 조금 늦게 내려가는 정도라 대수롭지 않게 생각했다고 고객님은 말씀하셨습니다. 하지만 며칠이 지나자 화장실 바닥 배수까지 느려지기 시작했고, 결국 변기 사용 후 물이 제대로 빠지지 않아 영업에도 불편이 생기기 시작했습니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 10,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 34,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gwangju-drain-blockage/index.html",
+    "title": "광주하수구막힘 싱크대, 씽크대역류 확실한 해결 | 슈퍼맨하수구누수",
+    "title_len": 36,
+    "desc": "광주하수구막힘 현상이나 맨홀이 역류하는 현상 때문에 몇번이나 업체를 불렀는데 해결이 되지 않으면 화가 날수밖에 없을 것인데요. 최근 슈퍼맨하수구에서 방문한 곳도 이런 현장이었습니다.",
+    "desc_len": 101,
+    "canonical": "https://supermandrain.co.kr/cases/gwangju-drain-blockage/",
+    "h1": [
+      "광주하수구막힘 싱크대, 씽크대역류 확실한 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주하수구막힘 싱크대, 씽크대역류 확실한 해결 | 슈퍼맨하수구누수",
+    "og_desc": "광주하수구막힘 현상이나 맨홀이 역류하는 현상 때문에 몇번이나 업체를 불렀는데 해결이 되지 않으면 화가 날수밖에 없을 것인데요. 최근 슈퍼맨하수구에서 방문한 곳도 이런 현장이었습니다.",
+    "og_url": "https://supermandrain.co.kr/cases/gwangju-drain-blockage/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/mokpo-drain-blockage-3/index.html",
+    "title": "목포배수구막힘 배수구 맨홀 역류까지 해결 가능 | 슈퍼맨하수구누수",
+    "title_len": 36,
+    "desc": "사람이 살아가는데 있어서 물 사용이 매우 중요한 만큼이나 반대로 배수도 원활해야 불편함이 생겨나지 않습니다. 생활하는 공간에서 더러 하수구가 역류하거나 배수구가 막혀 물이 제대로 흘러 나가지 못하는 일들이 발생하는데요. 이번에 목포배수구막힘 요청하신 고객님께서도 물이 넘쳐 다급하게 저희를 찾아주신 상황이었습니다.",
+    "desc_len": 175,
+    "canonical": "https://supermandrain.co.kr/cases/mokpo-drain-blockage-3/",
+    "h1": [
+      "목포배수구막힘 배수구 맨홀 역류까지 해결 가능"
+    ],
+    "h1_count": 1,
+    "h2_count": 4,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "목포배수구막힘 배수구 맨홀 역류까지 해결 가능 | 슈퍼맨하수구누수",
+    "og_desc": "사람이 살아가는데 있어서 물 사용이 매우 중요한 만큼이나 반대로 배수도 원활해야 불편함이 생겨나지 않습니다. 생활하는 공간에서 더러 하수구가 역류하거나 배수구가 막혀 물이 제대로 흘러 나가지 못하는 일들이 발생하는데요. 이번에 목포배수구막힘 요청하신 고객님께서도 물이 넘쳐 다급하게 저희를 찾아주신 상황이었습니다.",
+    "og_url": "https://supermandrain.co.kr/cases/mokpo-drain-blockage-3/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/yeosu-drain-blockage/index.html",
+    "title": "여수하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결 | 슈퍼맨하수구누수",
+    "title_len": 57,
+    "desc": "여수의 문수동의 단독주택에서 \"싱크대 물이 너무 늦게 내려간다\"는 문의 전화를 받고 현장으로 출동했습니다. 처음에는 주방에서만 나타나는 단순한 배수 문제처럼 보였지만, 현장을 둘러볼수록 상황은 생각보다 훨씬 복합적이었습니다.",
+    "desc_len": 125,
+    "canonical": "https://supermandrain.co.kr/cases/yeosu-drain-blockage/",
+    "h1": [
+      "여수하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "여수하수구막힘 반복되는 싱크대막힘, 배관내시경으로 찾은 진짜 원인 고압세척으로 해결 | 슈퍼맨하수구누수",
+    "og_desc": "여수의 문수동의 단독주택에서 \"싱크대 물이 너무 늦게 내려간다\"는 문의 전화를 받고 현장으로 출동했습니다. 처음에는 주방에서만 나타나는 단순한 배수 문제처럼 보였지만, 현장을 둘러볼수록 상황은 생각보다 훨씬 복합적이었습니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 6,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 34,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gwangju-gwangsangu-leak-detection/index.html",
+    "title": "광주광산구누수탐지 타업체 실패 후 난방배관 미세누수 위치를 찾아 보수 | 슈퍼맨하수구누수",
+    "title_len": 49,
+    "desc": "광주 광산구 실제 누수탐지 사례. 압력시험, 가스탐지, 청음, 열화상으로 누수 위치를 좁히고 배관 보수 후 2차 검사를 진행했습니다.",
+    "desc_len": 74,
+    "canonical": "https://supermandrain.co.kr/cases/gwangju-gwangsangu-leak-detection/",
+    "h1": [
+      "광주광산구누수탐지 타업체 실패 후 난방배관 미세누수 위치를 찾아 보수"
+    ],
+    "h1_count": 1,
+    "h2_count": 7,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "",
+    "og_desc": "",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 9,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 25,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/gwangju-seogu-drain-blockage/index.html",
+    "title": "광주서구하수구 싱크대 막힘, 씽크대 역류 확실하게 뚫는 방법 | 슈퍼맨하수구누수",
+    "title_len": 44,
+    "desc": "우리 주변에는 광주서구하수구 막힘 및 역류와 배수구 청소로 고민을 하는 분들이 많습니다. 안쪽 배관에 곰팡이와 이물질이 계속 쌓이면 세균 증식 및 악취와 같은 여러 가지 문제를 유발하기 때문에 각별한 주의가 필요합니다.",
+    "desc_len": 122,
+    "canonical": "https://supermandrain.co.kr/cases/gwangju-seogu-drain-blockage/",
+    "h1": [
+      "광주서구하수구 싱크대 막힘, 씽크대 역류 확실하게 뚫는 방법"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "광주서구하수구 싱크대 막힘, 씽크대 역류 확실하게 뚫는 방법 | 슈퍼맨하수구누수",
+    "og_desc": "우리 주변에는 광주서구하수구 막힘 및 역류와 배수구 청소로 고민을 하는 분들이 많습니다. 안쪽 배관에 곰팡이와 이물질이 계속 쌓이면 세균 증식 및 악취와 같은 여러 가지 문제를 유발하기 때문에 각별한 주의가 필요합니다.",
+    "og_url": "https://supermandrain.co.kr/cases/gwangju-seogu-drain-blockage/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 31,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/sunchang-damyang-drain-cleaning/index.html",
+    "title": "순창담양하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽 | 슈퍼맨하수구누수",
+    "title_len": 53,
+    "desc": "지속해서 막히는 배관이나 하수구는 스트레스를 유발하고 생활을 불편하게 합니다. 순창담양하수구뚫음전문업체인 슈퍼맨하수구는 막힘의 원인을 명확히 파악하여 재발이 없도록 확실하게 뚫어드립니다. 첫 번째로 방문한 가정집도 반복하여 문제를 일으키는 순창담양하수구막힘 때문에 전화를 주신 경우였습니다. 6개월 전에 다른 업체에 맡겼다",
+    "desc_len": 180,
+    "canonical": "https://supermandrain.co.kr/cases/sunchang-damyang-drain-cleaning/",
+    "h1": [
+      "순창담양하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽"
+    ],
+    "h1_count": 1,
+    "h2_count": 5,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "순창담양하수구뚫음 오수관 우수관 싱크대 씽크대 배관청소부터 변기막힘까지 완벽 | 슈퍼맨하수구누수",
+    "og_desc": "지속해서 막히는 배관이나 하수구는 스트레스를 유발하고 생활을 불편하게 합니다. 순창담양하수구뚫음전문업체인 슈퍼맨하수구는 막힘의 원인을 명확히 파악하여 재발이 없도록 확실하게 뚫어드립니다. 첫 번째로 방문한 가정집도 반복하여 문제를 일으키는 순창담양하수구막힘 때문에 전화를 주신 경우였습니다. 6개월 전에 다른 업체에 맡겼다",
+    "og_url": "https://supermandrain.co.kr/cases/sunchang-damyang-drain-cleaning/",
+    "twitter": "",
+    "imgs": 12,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 41,
+    "broken": [
+      "01048333447"
+    ]
+  },
+  {
+    "file": "cases/boseong-drain-blockage/index.html",
+    "title": "보성하수구막힘 싱크대뚫음부터 변기막힘까지, 하루 만에 재발한 배관의 진짜 원인을 배관내시경으로 찾았습니다 | 슈퍼맨하수구누수",
+    "title_len": 69,
+    "desc": "오전 첫 일정은 보성 벌교읍의 한 단독주택이었습니다. 고객님께서는 전날 다른 업체에서 배관을 뚫었다고 하셨지만, 다음 날 아침 싱크대 배수가 다시 느려졌고, 잠시 뒤에는 화장실 바닥 배수구까지 물이 차오르기 시작하면서 급하게 연락을 주셨습니다.",
+    "desc_len": 136,
+    "canonical": "https://supermandrain.co.kr/cases/boseong-drain-blockage/",
+    "h1": [
+      "보성하수구막힘 싱크대뚫음부터 변기막힘까지, 하루 만에 재발한 배관의 진짜 원인을 배관내시경으로 찾았습니다"
+    ],
+    "h1_count": 1,
+    "h2_count": 6,
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "schema_errors": [],
+    "lang": "ko",
+    "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+    "robots": "index,follow,max-image-preview:large",
+    "og_title": "보성하수구막힘 싱크대뚫음부터 변기막힘까지, 하루 만에 재발한 배관의 진짜 원인을 배관내시경으로 찾았습니다 | 슈퍼맨하수구누수",
+    "og_desc": "오전 첫 일정은 보성 벌교읍의 한 단독주택이었습니다. 고객님께서는 전날 다른 업체에서 배관을 뚫었다고 하셨지만, 다음 날 아침 싱크대 배수가 다시 느려졌고, 잠시 뒤에는 화장실 바닥 배수구까지 물이 차오르기 시작하면서 급하게 연락을 주셨습니다.",
+    "og_url": "",
+    "twitter": "",
+    "imgs": 8,
+    "img_missing_alt": 0,
+    "img_empty_alt": 0,
+    "internal_links": 32,
+    "broken": [
+      "01048333447"
+    ]
+  }
+]
