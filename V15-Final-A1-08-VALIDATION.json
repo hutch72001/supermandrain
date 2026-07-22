@@ -1,0 +1,19 @@
+{
+  "version": "V15-Final-A1-08",
+  "html_count": 167,
+  "indexable_count": 165,
+  "noindex_count": 2,
+  "noindex_urls": [
+    "https://supermandrain.co.kr/404.html",
+    "https://supermandrain.co.kr/cases/mokpo-drain-cleaning-2-2/"
+  ],
+  "sitemap_url_count": 165,
+  "sitemap_duplicate_count": 0,
+  "sitemap_missing_indexable": [],
+  "sitemap_extra_or_noindex": [],
+  "canonical_missing": [],
+  "canonical_mismatch": [],
+  "non_https_sitemap_urls": [],
+  "robots_text": "User-agent: *\nAllow: /\n\nSitemap: https://supermandrain.co.kr/sitemap.xml",
+  "passed": true
+}

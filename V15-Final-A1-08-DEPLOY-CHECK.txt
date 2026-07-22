@@ -1,0 +1,3 @@
+V15-Final-A1-08 DEPLOY CHECK
+Expected sitemap URL count: 165
+Removed URL: https://supermandrain.co.kr/cases/mokpo-drain-cleaning-2-2/

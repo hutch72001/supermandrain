@@ -1,0 +1,4 @@
+V15-Final-A1-08
+- sitemap.xml에서 noindex 통합 안내 URL 1개 제거
+- robots/sitemap/index/noindex/canonical/404 교차검증 완료
+- Structural Lock 유지
