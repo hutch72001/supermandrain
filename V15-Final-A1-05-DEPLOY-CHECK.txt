@@ -1,0 +1,4 @@
+VERSION=V15-Final-A1-05
+CSS=/site-v71.css?v=20260722-v15-final-a1-05
+CHECK=Homepage CTA text visibility
+STRUCTURE_LOCK=ON

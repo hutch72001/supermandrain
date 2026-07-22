@@ -1,0 +1,9 @@
+V15-Final-A1-05
+Date: 2026-07-22
+
+- Fixed invisible CTA text caused by a global anchor color rule overriding button colors.
+- Restored visible text for the homepage hero secondary CTA, drain service CTA, and equipment CTA.
+- Removed unnecessary !important declarations from the global anchor color/text-decoration reset.
+- Added explicit link-state colors for primary, secondary, split-card, and equipment CTA buttons.
+- Updated stylesheet cache version to v15-final-a1-05.
+- No changes to menus, URLs, folders, page structure, content, images, or video.
