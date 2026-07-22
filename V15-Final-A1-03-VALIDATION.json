@@ -1,0 +1,47 @@
+{
+  "version": "V15-Final-A1-03",
+  "audit": "internal-link distribution, orphan pages, conversion flow",
+  "structural_lock": true,
+  "html_pages": 167,
+  "reachable_from_home": 166,
+  "orphan_pages": [],
+  "zero_incoming_pages": [],
+  "broken_internal_html_links": [],
+  "pages_without_contact_or_phone_path": [],
+  "added_internal_links": [
+    "/regions/jeonnam/gangjin/drain/",
+    "/regions/jeonnam/wando/drain/",
+    "/regions/jeonnam/jindo/drain/",
+    "/regions/jeonnam/gokseong/drain/",
+    "/regions/jeonnam/sinan/drain/"
+  ],
+  "flow_samples": {
+    "home_to_services": [
+      "/",
+      "/services/"
+    ],
+    "home_to_regions": [
+      "/",
+      "/regions/"
+    ],
+    "home_to_cases": [
+      "/",
+      "/cases/"
+    ],
+    "home_to_contact": [
+      "/",
+      "/cases/",
+      "/contact/"
+    ],
+    "home_to_gangjin_drain": [
+      "/",
+      "/regions/jeonnam/",
+      "/regions/jeonnam/gangjin/drain/"
+    ],
+    "gangjin_drain_to_contact": [
+      "/regions/jeonnam/gangjin/drain/",
+      "/contact/"
+    ]
+  },
+  "passed": true
+}
