@@ -1,0 +1,179 @@
+{
+  "version": "V15-B-002",
+  "pages": {
+    "regions/gwangju/gwangju-donggu/drain/index.html": {
+      "ok": true,
+      "duplicate_symptom": false,
+      "bad_patterns": [],
+      "edits": [
+        "증상 제목: 싱크대 배수 지연",
+        "증상 제목: 화장실·변기 동시 역류",
+        "증상 제목: 상가·공장 메인배관 역류",
+        "증상 설명 정비: 맨홀 또는 메인배관이 반복적으로 역류함",
+        "증상 제목: 짧은 기간 내 재발",
+        "제목 조사 정비: 광주동구와 인접 권역 실제 사례 → 광주동구 및 인접 권역 실제 사례"
+      ]
+    },
+    "regions/gwangju/gwangju-seogu/drain/index.html": {
+      "ok": true,
+      "duplicate_symptom": false,
+      "bad_patterns": [],
+      "edits": [
+        "증상 제목: 싱크대 배수 지연",
+        "증상 제목: 화장실·변기 동시 역류",
+        "증상 제목: 상가·공장 메인배관 역류",
+        "증상 설명 정비: 맨홀 또는 메인배관이 반복적으로 역류함",
+        "증상 제목: 짧은 기간 내 재발",
+        "제목 조사 정비: 광주서구와 인접 권역 실제 사례 → 광주서구 및 인접 권역 실제 사례"
+      ]
+    },
+    "regions/gwangju/gwangju-namgu/drain/index.html": {
+      "ok": true,
+      "duplicate_symptom": false,
+      "bad_patterns": [],
+      "edits": [
+        "증상 제목: 싱크대 배수 지연",
+        "증상 제목: 화장실·변기 동시 역류",
+        "증상 제목: 상가·공장 메인배관 역류",
+        "증상 설명 정비: 맨홀 또는 메인배관이 반복적으로 역류함",
+        "증상 제목: 짧은 기간 내 재발",
+        "제목 조사 정비: 광주남구와 인접 권역 실제 사례 → 광주남구 및 인접 권역 실제 사례"
+      ]
+    },
+    "regions/gwangju/gwangju-bukgu/drain/index.html": {
+      "ok": true,
+      "duplicate_symptom": false,
+      "bad_patterns": [],
+      "edits": [
+        "증상 제목: 싱크대 배수 지연",
+        "증상 제목: 화장실·변기 동시 역류",
+        "증상 제목: 상가·공장 메인배관 역류",
+        "증상 설명 정비: 맨홀 또는 메인배관이 반복적으로 역류함",
+        "증상 제목: 짧은 기간 내 재발",
+        "제목 조사 정비: 광주북구와 인접 권역 실제 사례 → 광주북구 및 인접 권역 실제 사례"
+      ]
+    },
+    "regions/gwangju/gwangju-gwangsangu/drain/index.html": {
+      "ok": true,
+      "duplicate_symptom": false,
+      "bad_patterns": [],
+      "edits": [
+        "증상 제목: 싱크대 배수 지연",
+        "증상 제목: 화장실·변기 동시 역류",
+        "증상 제목: 상가·공장 메인배관 역류",
+        "증상 설명 정비: 맨홀 또는 메인배관이 반복적으로 역류함",
+        "증상 제목: 짧은 기간 내 재발",
+        "제목 조사 정비: 광주광산구와 인접 권역 실제 사례 → 광주광산구 및 인접 권역 실제 사례"
+      ]
+    },
+    "regions/jeonnam/naju/drain/index.html": {
+      "ok": true,
+      "duplicate_symptom": false,
+      "bad_patterns": [],
+      "edits": [
+        "증상 제목: 싱크대 배수 지연",
+        "증상 제목: 화장실·변기 동시 역류",
+        "증상 제목: 상가·공장 메인배관 역류",
+        "증상 설명 정비: 맨홀 또는 메인배관이 반복적으로 역류함",
+        "증상 제목: 짧은 기간 내 재발",
+        "제목 조사 정비: 나주와 인접 권역 실제 사례 → 나주 및 인접 권역 실제 사례"
+      ]
+    },
+    "regions/jeonnam/damyang/drain/index.html": {
+      "ok": true,
+      "duplicate_symptom": false,
+      "bad_patterns": [],
+      "edits": [
+        "제목 조사 정비: 담양와 연결된 실제 시공사례 → 담양 관련 실제 시공사례"
+      ]
+    },
+    "regions/jeonnam/hwasun/drain/index.html": {
+      "ok": true,
+      "duplicate_symptom": false,
+      "bad_patterns": [],
+      "edits": [
+        "증상 제목: 싱크대 배수 지연",
+        "증상 제목: 화장실·변기 동시 역류",
+        "증상 제목: 상가·공장 메인배관 역류",
+        "증상 설명 정비: 맨홀 또는 메인배관이 반복적으로 역류함",
+        "증상 제목: 짧은 기간 내 재발",
+        "제목 조사 정비: 화순와 인접 권역 실제 사례 → 화순 및 인접 권역 실제 사례"
+      ]
+    },
+    "regions/jeonnam/jangseong/drain/index.html": {
+      "ok": true,
+      "duplicate_symptom": false,
+      "bad_patterns": [],
+      "edits": [
+        "제목 조사 정비: 장성와 연결된 실제 시공사례 → 장성 관련 실제 시공사례"
+      ]
+    },
+    "regions/jeonbuk/gochang/drain/index.html": {
+      "ok": true,
+      "duplicate_symptom": false,
+      "bad_patterns": [],
+      "edits": [
+        "증상 제목: 싱크대 배수 지연",
+        "증상 제목: 화장실·변기 동시 역류",
+        "증상 제목: 상가·공장 메인배관 역류",
+        "증상 설명 정비: 맨홀 또는 메인배관이 반복적으로 역류함",
+        "증상 제목: 짧은 기간 내 재발",
+        "제목 조사 정비: 고창와 인접 권역 실제 사례 → 고창 및 인접 권역 실제 사례"
+      ]
+    },
+    "regions/jeonbuk/jeongeup/drain/index.html": {
+      "ok": true,
+      "duplicate_symptom": false,
+      "bad_patterns": [],
+      "edits": [
+        "증상 제목: 싱크대 배수 지연",
+        "증상 제목: 화장실·변기 동시 역류",
+        "증상 제목: 상가·공장 메인배관 역류",
+        "증상 설명 정비: 맨홀 또는 메인배관이 반복적으로 역류함",
+        "증상 제목: 짧은 기간 내 재발",
+        "제목 조사 정비: 정읍와 인접 권역 실제 사례 → 정읍 및 인접 권역 실제 사례"
+      ]
+    },
+    "regions/jeonnam/mokpo/drain/index.html": {
+      "ok": true,
+      "duplicate_symptom": false,
+      "bad_patterns": [],
+      "edits": [
+        "제목 조사 정비: 목포와 연결된 실제 시공사례 → 목포 관련 실제 시공사례"
+      ]
+    },
+    "regions/jeonnam/muan/drain/index.html": {
+      "ok": true,
+      "duplicate_symptom": false,
+      "bad_patterns": [],
+      "edits": [
+        "제목 조사 정비: 무안와 연결된 실제 시공사례 → 무안 관련 실제 시공사례"
+      ]
+    },
+    "regions/jeonnam/suncheon/drain/index.html": {
+      "ok": true,
+      "duplicate_symptom": false,
+      "bad_patterns": [],
+      "edits": [
+        "제목 조사 정비: 순천와 연결된 실제 시공사례 → 순천 관련 실제 시공사례"
+      ]
+    },
+    "regions/jeonnam/gurye/drain/index.html": {
+      "ok": true,
+      "duplicate_symptom": false,
+      "bad_patterns": [],
+      "edits": [
+        "제목 조사 정비: 구례와 연결된 실제 시공사례 → 구례 관련 실제 시공사례"
+      ]
+    },
+    "regions/jeonbuk/namwon/drain/index.html": {
+      "ok": true,
+      "duplicate_symptom": false,
+      "bad_patterns": [],
+      "edits": [
+        "제목 조사 정비: 남원와 연결된 실제 시공사례 → 남원 관련 실제 시공사례"
+      ]
+    }
+  },
+  "pass": true
+}

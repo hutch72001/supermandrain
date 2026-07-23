@@ -1,5 +1,5 @@
 {
-  "version": "V15-B-001",
+  "version": "V15-B-002",
   "date": "2026-07-23",
   "status": "PASS",
   "scope": {
@@ -8,7 +8,7 @@
     "representativeCasePagesBacklinked": 18,
     "priorityClusterLinksPerRegion": 15
   },
-  "assetVersion": "20260723-v15-b-001",
+  "assetVersion": "20260723-v15-b-002",
   "htmlFiles": 167,
   "coreRegionChecks": [
     {
