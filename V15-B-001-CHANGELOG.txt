@@ -1,0 +1,8 @@
+V15-B-001
+- Strengthened 16 priority regional drain-service pages.
+- Added unique local diagnostic context and reduced template-only similarity.
+- Connected regional pages to representative real cases.
+- Added keyword-focused backlinks from case pages to regional pages.
+- Rebuilt the priority-region internal-link cluster.
+- Refined Title, H1, Meta Description and phone/case conversion paths.
+- Updated deployment and asset version markers.
