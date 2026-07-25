@@ -1,15 +1,3 @@
-# SSOS-V2-P1-FINAL
-
-- V15-B-002를 SSOS V2.0 기준본으로 승격
-- 누락된 hero-technician.jpg 생성 및 preload/CSS 404 해소
-- 누락 현장 이미지 567개를 Phase 2용 예약 미디어 슬롯으로 전환
-- 카드/목록 썸네일 누락 시 공통 브랜드 커버로 안전 대체
-- OG/Twitter/JSON-LD의 누락 이미지 URL을 유효한 공통 커버로 교체
-- media-loader.js에 slotId 기반 삽입 기능 추가
-- media-manifest.json을 SSOS V2.0 형식으로 갱신
-- 전체 HTML 자산 캐시 버전을 ssos-v2-p1-final로 갱신
-- SSOS 프로젝트/단계 메타 추가
-
 # V13-001 — 전문 포털 분리 강화
 
 - 하수구 FAQ 50개, 누수 FAQ 50개로 확장

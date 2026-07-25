@@ -1,0 +1,106 @@
+[
+  {
+    "province": "gwangju",
+    "slug": "gwangju-bukgu",
+    "name": "광주 북구",
+    "path": "regions/gwangju/gwangju-bukgu/index.html",
+    "patterns": [
+      "PAT-001",
+      "PAT-002",
+      "PAT-005"
+    ],
+    "building": "아파트·상가",
+    "intro": "아파트와 상가가 함께 분포하는 광주 북구에서는 싱크대 유지방, 공용 오수관 역류, 난방배관 미세누수처럼 건물 유형에 따라 다른 진단이 필요합니다."
+  },
+  {
+    "province": "gwangju",
+    "slug": "gwangju-seogu",
+    "name": "광주 서구",
+    "path": "regions/gwangju/gwangju-seogu/index.html",
+    "patterns": [
+      "PAT-001",
+      "PAT-002",
+      "PAT-005"
+    ],
+    "building": "상가·오피스·아파트",
+    "intro": "상가·오피스·아파트가 밀집한 광주 서구는 영업 공간의 싱크대 막힘, 공용 메인관 역류와 아파트 누수의 원인을 구분하는 것이 중요합니다."
+  },
+  {
+    "province": "gwangju",
+    "slug": "gwangju-namgu",
+    "name": "광주 남구",
+    "path": "regions/gwangju/gwangju-namgu/index.html",
+    "patterns": [
+      "PAT-001",
+      "PAT-004",
+      "PAT-005"
+    ],
+    "building": "주택·아파트·상가",
+    "intro": "주택과 아파트가 혼합된 광주 남구에서는 외부 맨홀과 연결 오수관, 상가 주방 배관, 아파트 난방배관을 건물 구조에 맞춰 점검합니다."
+  },
+  {
+    "province": "gwangju",
+    "slug": "gwangju-gwangsangu",
+    "name": "광주 광산구",
+    "path": "regions/gwangju/gwangju-gwangsangu/index.html",
+    "patterns": [
+      "PAT-002",
+      "PAT-003",
+      "PAT-005"
+    ],
+    "building": "산업시설·아파트·상가",
+    "intro": "산업시설과 대규모 주거지역이 함께 있는 광주 광산구는 공장 메인 배관, 아파트 공용 오수관과 난방배관 누수를 서로 다른 기준으로 진단해야 합니다."
+  },
+  {
+    "province": "gwangju",
+    "slug": "gwangju-donggu",
+    "name": "광주 동구",
+    "path": "regions/gwangju/gwangju-donggu/index.html",
+    "patterns": [
+      "PAT-001",
+      "PAT-004",
+      "PAT-005"
+    ],
+    "building": "상가·주택·아파트",
+    "intro": "상가와 주택, 아파트가 혼재한 광주 동구에서는 주방 유지방 막힘, 외부 맨홀 정체와 바닥 아래 누수 등 증상의 발생 위치를 먼저 구분합니다."
+  },
+  {
+    "province": "jeonnam",
+    "slug": "naju",
+    "name": "나주",
+    "path": "regions/jeonnam/naju/index.html",
+    "patterns": [
+      "PAT-001",
+      "PAT-002",
+      "PAT-005"
+    ],
+    "building": "아파트·상가·공장",
+    "intro": "혁신도시권 아파트와 상가, 기존 주거지역이 함께 있는 나주는 상가 싱크대, 공용 오수관과 난방배관 누수를 연결해 안내합니다."
+  },
+  {
+    "province": "jeonnam",
+    "slug": "damyang",
+    "name": "담양",
+    "path": "regions/jeonnam/damyang/index.html",
+    "patterns": [
+      "PAT-001",
+      "PAT-004",
+      "PAT-005"
+    ],
+    "building": "주택·상가·숙박시설",
+    "intro": "주택과 상가, 숙박시설이 분포한 담양은 외부 맨홀과 오수관, 상가 싱크대 막힘, 난방·수도배관 누수 점검을 중심으로 구성합니다."
+  },
+  {
+    "province": "jeonnam",
+    "slug": "hwasun",
+    "name": "화순",
+    "path": "regions/jeonnam/hwasun/index.html",
+    "patterns": [
+      "PAT-002",
+      "PAT-004",
+      "PAT-005"
+    ],
+    "building": "아파트·주택·상가",
+    "intro": "아파트와 주택이 함께 분포한 화순은 공용 배관 역류, 주택 외부 맨홀과 난방배관 누수의 진단 기준을 건물 유형별로 제공합니다."
+  }
+]

@@ -1,0 +1,2 @@
+Upload all files from this folder to the website root.
+Verify /DEPLOY-VERSION.txt displays SSOS-V5.0-KNOWLEDGE-HUB.
