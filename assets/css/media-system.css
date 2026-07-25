@@ -13,3 +13,6 @@
 .media-video-card>a span{color:#f0c66b;font-weight:900}
 @media(max-width:900px){.media-grid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:620px){.media-gallery-section{padding:48px 0}.media-grid,.media-video-grid{grid-template-columns:1fr}}
+
+/* SSOS V2 Phase 1: empty media slots stay out of layout until Phase 2 manifest mapping. */
+[data-media-slot][hidden]{display:none!important}

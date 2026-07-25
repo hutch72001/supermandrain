@@ -1,2 +1,4 @@
-V7.1 CSS FIX
-Expected stylesheet: /site-v71.css?v=20260718-1
+SSOS-V2-P1-FINAL
+Check: /DEPLOY-VERSION.txt
+Project: SSOS V2.0
+Phase: 1 FINAL

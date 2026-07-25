@@ -45,6 +45,20 @@
     el.hidden = false;
   }
 
+
+  function renderReservedSlots(items) {
+    const slots = [...document.querySelectorAll('[data-media-slot]')];
+    slots.forEach((slot) => {
+      const slotId = slot.dataset.mediaSlot;
+      const item = items.find((entry) => entry.slotId === slotId);
+      if (!item || item.type !== 'image' || !item.src) return;
+      const alt = item.alt || slot.dataset.fallbackAlt || '실제 현장 작업 사진';
+      const caption = item.caption || slot.dataset.fallbackCaption || '';
+      slot.innerHTML = `<img src="${escapeHtml(item.src)}" alt="${escapeHtml(alt)}" loading="lazy" decoding="async"${item.width ? ` width="${Number(item.width)}"` : ''}${item.height ? ` height="${Number(item.height)}"` : ''}>${caption ? `<figcaption>${escapeHtml(caption)}</figcaption>` : ''}`;
+      slot.hidden = false;
+    });
+  }
+
   function addVideoSchemas(items) {
     const schemas = items.filter((item) => item.type === 'video' && item.title && (item.src || item.youtubeUrl || item.naverTvUrl)).map((item) => ({
       '@context': 'https://schema.org',
@@ -67,13 +81,15 @@
 
   async function init() {
     const galleries = [...document.querySelectorAll('[data-media-gallery]')];
-    if (!galleries.length) return;
+    const slots = [...document.querySelectorAll('[data-media-slot]')];
+    if (!galleries.length && !slots.length) return;
     try {
       const response = await fetch(MANIFEST_URL, { cache: 'no-cache' });
       if (!response.ok) throw new Error(`manifest ${response.status}`);
       const data = await response.json();
       const items = Array.isArray(data.items) ? data.items : [];
       galleries.forEach((el) => renderGallery(el, items));
+      renderReservedSlots(items);
       addVideoSchemas(items.filter((item) => galleries.some((el) => matches(item, el))));
     } catch (error) {
       console.warn('[media-loader] 미디어 목록을 불러오지 못했습니다.', error);

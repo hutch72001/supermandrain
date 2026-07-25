@@ -1,0 +1,18 @@
+{
+  "version": "SSOS-V2-P1-FINAL",
+  "date": "2026-07-25",
+  "project": "SSOS V2.0",
+  "phase": "Phase 1 Final",
+  "pages": 167,
+  "missing_required": [],
+  "broken_internal_refs": [],
+  "invalid_jsonld": [],
+  "canonical_mismatch": [],
+  "duplicate_title_groups": {},
+  "duplicate_description_groups": {},
+  "sitemap_missing": [],
+  "sitemap_extra": [],
+  "media_pages_missing_assets": [],
+  "media_slots": 489,
+  "pass": true
+}
