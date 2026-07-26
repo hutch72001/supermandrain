@@ -548,3 +548,10 @@ url('/assets/hero-technician.jpg') right center/cover no-repeat;color:#fff}
   .ssos-v64-section{padding:46px 0}
   .ssos-v64-case-grid,.ssos-v64-faq-grid{grid-template-columns:1fr}
 }
+
+/* SSOS V6.5 breadcrumb */
+.ssos-v65-breadcrumb{padding:13px 0;background:#fff;border-bottom:1px solid #edf0f2}
+.ssos-v65-breadcrumb ol{display:flex;flex-wrap:wrap;gap:8px;max-width:1180px;margin:0 auto;padding:0 20px;list-style:none;font-size:.88rem}
+.ssos-v65-breadcrumb li{color:#6b7280}.ssos-v65-breadcrumb li:not(:last-child)::after{content:"›";margin-left:8px;color:#9ca3af}
+.ssos-v65-breadcrumb a{color:#0f766e;text-decoration:none;font-weight:800}
+.ssos-v65-breadcrumb [aria-current="page"]{color:#374151;font-weight:800}

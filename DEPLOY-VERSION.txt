@@ -1,2 +1,2 @@
-SSOS-V6.4-CASES-FAQ
-Homepage actual-case cards, FAQ conversion section, internal case navigation and cache update.
+SSOS-V6.5-STRUCTURED-SEO
+Breadcrumb navigation, BreadcrumbList and FAQPage schema.
