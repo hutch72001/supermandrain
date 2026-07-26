@@ -1,3 +1,3 @@
-Superman-Seo-System-V11.1-GWANGSANGU
-지역: 광주 광산구
-수정 범위: 광주광산구 통합/하수구/누수 페이지
+﻿Superman SEO V11.1 COMMIT-01
+Scope: Gwangju Gwangsangu hub/drain/leak inline images
+Previous STEP6-1 internal links preserved

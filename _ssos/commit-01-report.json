@@ -1,0 +1,32 @@
+[
+  {
+    "page": "regions/gwangju/gwangju-gwangsangu/index.html",
+    "insert_location": "after section 2",
+    "images": [
+      "assets/cases/leak-v71/gwangju-bukgu-gwangsangu-commercial-water-leak/06.webp",
+      "assets/cases/leak-v71/gwangju-bukgu-gwangsangu-commercial-water-leak/05.webp",
+      "assets/cases/leak-v71/gwangju-bukgu-gwangsangu-commercial-water-leak/04.webp",
+      "assets/cases/leak-v71/gwangju-bukgu-gwangsangu-commercial-water-leak/03.webp"
+    ]
+  },
+  {
+    "page": "regions/gwangju/gwangju-gwangsangu/drain/index.html",
+    "insert_location": "after section 3",
+    "images": [
+      "assets/cases/gwangju-gwangsangu-drain-blockage/10.webp",
+      "assets/cases/gwangju-gwangsangu-drain-blockage/09.webp",
+      "assets/cases/gwangju-gwangsangu-drain-blockage/08.webp",
+      "assets/cases/gwangju-gwangsangu-drain-blockage/07.webp"
+    ]
+  },
+  {
+    "page": "regions/gwangju/gwangju-gwangsangu/leak/index.html",
+    "insert_location": "after section 3",
+    "images": [
+      "assets/cases/leak-v71/gwangju-bukgu-gwangsangu-commercial-water-leak/06.webp",
+      "assets/cases/leak-v71/gwangju-bukgu-gwangsangu-commercial-water-leak/05.webp",
+      "assets/cases/leak-v71/gwangju-bukgu-gwangsangu-commercial-water-leak/04.webp",
+      "assets/cases/leak-v71/gwangju-bukgu-gwangsangu-commercial-water-leak/03.webp"
+    ]
+  }
+]
