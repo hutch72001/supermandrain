@@ -1,0 +1,9 @@
+{
+  "version": "SSOS-V5.1-VERIFIED-MEDIA",
+  "mapped_images": 20,
+  "slots_replaced": 20,
+  "leak_slots_safely_suppressed": 5,
+  "validation_errors": [],
+  "leftover_placeholders": [],
+  "limitation": "The supplied Image-Pre package contains drain/high-pressure/endoscope media but no clearly identified leak-detection photo set."
+}
