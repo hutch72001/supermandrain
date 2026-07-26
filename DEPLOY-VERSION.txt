@@ -1,3 +1,3 @@
-SSOS-V8.0-VERIFIED-REPOSITORY-MERGE
+SSOS-V8.1-LEAK-CARD-FIX
 2026-07-26
-GitHub deployed repository used as authoritative base; V7.1 merged only for absent files; duplicate breadcrumb schema cleaned; case/region registries and sitemap rebuilt.
+Sunchang representative image differentiated from Hampyeong-Muan; leak case card title/description/button alignment normalized.

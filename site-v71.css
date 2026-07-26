@@ -573,3 +573,28 @@ url('/assets/hero-technician.jpg') right center/cover no-repeat;color:#fff}
 .v71-cta{padding:30px;border-radius:22px;background:#991b1b;color:#fff}.v71-cta p{color:#fee2e2}.v71-center{text-align:center;margin-top:24px}.v71-more{display:inline-block;padding:12px 18px;border-radius:999px;background:#0f766e;color:#fff;text-decoration:none;font-weight:900}
 @media(max-width:900px){.v71-case-grid,.v71-gallery-grid{grid-template-columns:repeat(2,1fr)}.v71-flow{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:720px){.v71-case-hero-grid,.v71-case-step,.v71-case-grid,.v71-gallery-grid,.v71-related-links,.v71-case-links{grid-template-columns:1fr}.v71-case-mini{grid-template-columns:110px 1fr}.v71-case-mini img{width:110px;height:90px}.v71-leak-hero,.v71-case-hero{padding:44px 0}}
+
+/* SSOS V8.1 leak card visual differentiation and alignment */
+.v71-case-grid{align-items:stretch}
+.v71-case-card{height:100%}
+.v71-case-card>div{min-height:355px}
+.v71-case-card h3{
+  min-height:4.2em;
+  display:-webkit-box;
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:3;
+  overflow:hidden;
+}
+.v71-case-card p{
+  min-height:5em;
+  margin:0 0 18px;
+  display:-webkit-box;
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:3;
+  overflow:hidden;
+}
+.v71-case-card strong{padding-top:6px}
+@media(max-width:720px){
+  .v71-case-card>div{min-height:0}
+  .v71-case-card h3,.v71-case-card p{min-height:0;-webkit-line-clamp:unset}
+}

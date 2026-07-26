@@ -1,0 +1,21 @@
+{
+  "version": "SSOS-V8.1-LEAK-CARD-FIX",
+  "representative_image_change": {
+    "case": "순창 누수탐지",
+    "from": "/assets/cases/leak-v71/sunchang-house-cold-water-leak/01.webp",
+    "to": "/assets/cases/leak-v71/sunchang-house-cold-water-leak/03.webp",
+    "changed_files": [
+      "cases/leak/index.html",
+      "cases/leak/sunchang-house-cold-water-leak/index.html",
+      "regions/jeonbuk/sunchang/leak/index.html"
+    ]
+  },
+  "layout_updates": [
+    "카드 높이 통일",
+    "제목 최대 3줄 및 동일 최소 높이",
+    "설명 최대 3줄 및 동일 최소 높이",
+    "자세히 보기 버튼 하단 정렬",
+    "모바일에서는 자연 높이 복원"
+  ],
+  "validation_errors": []
+}
