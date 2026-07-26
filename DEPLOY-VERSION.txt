@@ -1,2 +1,2 @@
-SSOS-V6.1-VISIBLE-HOMEPAGE
-Visible homepage redesign, Knowledge Hub navigation, five pattern cards, eight regional hub links.
+SSOS-V6.2-IMAGE-LED-HOMEPAGE
+Photo-led pattern cards, compact hero, enriched region hubs and mid-page consultation CTA.
