@@ -1,3 +1,3 @@
-SSOS-V9.0-REVENUE-CLUSTER-ENGINE
-2026-07-26
-Existing head, canonical and JSON-LD preserved; only verified regional, case, FAQ, PAT and knowledge links inserted.
+Superman-Seo-System-V11.1-SEOGU
+지역: 광주 서구
+수정 범위: 광주서구 통합/하수구/누수 페이지
