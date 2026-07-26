@@ -1,0 +1,80 @@
+{
+  "version": "V11.0-DONG",
+  "generated_at": "2026-07-26T12:58:30.833733+00:00",
+  "source_zip": "Superman-Seo-System-V10.0-COMPLETE(3).zip",
+  "modified_pages": [
+    "regions/gwangju/gwangju-bukgu/drain/index.html",
+    "regions/gwangju/gwangju-seogu/drain/index.html",
+    "regions/gwangju/gwangju-namgu/drain/index.html",
+    "regions/gwangju/gwangju-donggu/drain/index.html",
+    "regions/gwangju/gwangju-gwangsangu/drain/index.html"
+  ],
+  "confirmed_case_title_h1_updates": {
+    "count": 0,
+    "files": []
+  },
+  "note": "3단계 리포트에서 confidence='확정'인 사례가 0건이므로 사례 Title/H1은 변경하지 않았습니다.",
+  "preservation": {
+    "head_byte_identical_all_5": true,
+    "canonical_preserved_via_head_identity": true,
+    "json_ld_preserved_via_head_identity": true
+  },
+  "integrity": {
+    "html_files": 190,
+    "internal_refs_checked": 8245,
+    "image_refs_checked": 782,
+    "broken_internal_refs": 0,
+    "case_sensitive_path_mismatches": 0,
+    "head_byte_identical_all_5": true,
+    "district_blocks_valid": true
+  },
+  "district_block_validation": [
+    {
+      "district": "광주북구",
+      "page": "regions/gwangju/gwangju-bukgu/drain/index.html",
+      "block_count": 1,
+      "h3_group_count": 5,
+      "expected_group_count": 5,
+      "faq_count": 3,
+      "representative_case": "/cases/gwangju-bukgu-drain-blockage/"
+    },
+    {
+      "district": "광주서구",
+      "page": "regions/gwangju/gwangju-seogu/drain/index.html",
+      "block_count": 1,
+      "h3_group_count": 5,
+      "expected_group_count": 5,
+      "faq_count": 3,
+      "representative_case": "/cases/gwangju-seogu-drain-blockage/"
+    },
+    {
+      "district": "광주남구",
+      "page": "regions/gwangju/gwangju-namgu/drain/index.html",
+      "block_count": 1,
+      "h3_group_count": 5,
+      "expected_group_count": 5,
+      "faq_count": 3,
+      "representative_case": "/cases/gwangju-namgu-drain-blockage-2/"
+    },
+    {
+      "district": "광주동구",
+      "page": "regions/gwangju/gwangju-donggu/drain/index.html",
+      "block_count": 1,
+      "h3_group_count": 5,
+      "expected_group_count": 5,
+      "faq_count": 3,
+      "representative_case": "/cases/gwangju-donggu-drain-blockage/"
+    },
+    {
+      "district": "광주광산구",
+      "page": "regions/gwangju/gwangju-gwangsangu/drain/index.html",
+      "block_count": 1,
+      "h3_group_count": 6,
+      "expected_group_count": 6,
+      "faq_count": 3,
+      "representative_case": "/cases/gwangju-gwangsangu-drain-blockage/"
+    }
+  ],
+  "broken_refs": [],
+  "case_sensitive_path_mismatches": []
+}
