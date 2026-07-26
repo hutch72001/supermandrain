@@ -1,0 +1,82 @@
+{
+  "version": "SSOS-V8.2-PAT005-REAL-MEDIA",
+  "date": "2026-07-26",
+  "new_webp_images": 8,
+  "pat005_placeholders_replaced": 5,
+  "region_hero_updates": [
+    {
+      "page": "regions/jeonnam/damyang/leak/index.html",
+      "image": "/assets/media/v82/leak-process/pressure.webp"
+    },
+    {
+      "page": "regions/jeonnam/naju/leak/index.html",
+      "image": "/assets/media/v82/leak-process/thermal.webp"
+    },
+    {
+      "page": "regions/jeonnam/hwasun/leak/index.html",
+      "image": "/assets/media/v82/leak-process/gas.webp"
+    }
+  ],
+  "broken_internal_links": 0,
+  "missing_images": 0,
+  "missing_alt": 0,
+  "placeholder_remaining": [],
+  "media": [
+    {
+      "key": "pressure",
+      "source": "누수장비 설명 및 과정/압력검사.jpg",
+      "output": "assets/media/v82/leak-process/pressure.webp",
+      "bytes": 132878,
+      "quality": 84
+    },
+    {
+      "key": "gas",
+      "source": "누수장비 설명 및 과정/가스탐지2.jpg",
+      "output": "assets/media/v82/leak-process/gas.webp",
+      "bytes": 129156,
+      "quality": 84
+    },
+    {
+      "key": "thermal",
+      "source": "누수장비 설명 및 과정/열화상카메라3.jpg",
+      "output": "assets/media/v82/leak-process/thermal.webp",
+      "bytes": 60218,
+      "quality": 84
+    },
+    {
+      "key": "acoustic",
+      "source": "누수장비 설명 및 과정/청음기탐지3.jpg",
+      "output": "assets/media/v82/leak-process/acoustic.webp",
+      "bytes": 104832,
+      "quality": 84
+    },
+    {
+      "key": "excavation",
+      "source": "누수장비 설명 및 과정/굴착 및 누수지점 발견1.jpg",
+      "output": "assets/media/v82/leak-process/excavation.webp",
+      "bytes": 198864,
+      "quality": 84
+    },
+    {
+      "key": "repair",
+      "source": "누수장비 설명 및 과정/누수지점확인2.jpg",
+      "output": "assets/media/v82/leak-process/repair.webp",
+      "bytes": 240984,
+      "quality": 84
+    },
+    {
+      "key": "finish",
+      "source": "누수장비 설명 및 과정/미장 마무리3.jpg",
+      "output": "assets/media/v82/leak-process/finish.webp",
+      "bytes": 127166,
+      "quality": 84
+    },
+    {
+      "key": "site",
+      "source": "누수장비 설명 및 과정/누수공사현장.jpg",
+      "output": "assets/media/v82/leak-process/site.webp",
+      "bytes": 198468,
+      "quality": 84
+    }
+  ]
+}

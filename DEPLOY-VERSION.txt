@@ -1,3 +1,3 @@
-SSOS-V8.1-LEAK-CARD-FIX
+SSOS-V8.2-PAT005-REAL-MEDIA
 2026-07-26
-Sunchang representative image differentiated from Hampyeong-Muan; leak case card title/description/button alignment normalized.
+PAT-005 placeholders replaced with real leak-detection process photos; Damyang, Naju and Hwasun leak hero images differentiated.
