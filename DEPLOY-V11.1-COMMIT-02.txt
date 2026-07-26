@@ -1,0 +1,3 @@
+﻿COMMIT-02 completed
+Fixed: regions/gwangju/gwangju-gwangsangu/drain/index.html
+Removed wrongly assigned leak images and inserted drain blockage images only.
