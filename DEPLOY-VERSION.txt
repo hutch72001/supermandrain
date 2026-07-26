@@ -1,2 +1,3 @@
-SSOS-V7.1-LEAK-CONTENT-LIVE
-12 actual leak case pages, 70 optimized WebP images, 5 new regional leak guides, homepage and regional internal links.
+SSOS-V8.0-VERIFIED-REPOSITORY-MERGE
+2026-07-26
+GitHub deployed repository used as authoritative base; V7.1 merged only for absent files; duplicate breadcrumb schema cleaned; case/region registries and sitemap rebuilt.

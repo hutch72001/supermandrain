@@ -1,0 +1,31 @@
+{
+  "version": "SSOS-V8.0-VERIFIED-REPOSITORY-MERGE",
+  "github_base_files": 1228,
+  "v71_files_merged_because_absent": 0,
+  "html_pages": 190,
+  "case_registry_entries": 62,
+  "leak_case_pages": 12,
+  "drain_case_pages": 49,
+  "region_registry_entries": 101,
+  "sitemap_urls": 188,
+  "duplicate_breadcrumb_schema_removed": 84,
+  "duplicate_visible_breadcrumb_removed": 0,
+  "broken_internal_links": 0,
+  "missing_images": 0,
+  "missing_required_metadata_or_alt": 0,
+  "duplicate_canonicals": 0,
+  "duplicate_breadcrumb_schema_pages": 0,
+  "duplicate_visible_breadcrumb_pages": 0,
+  "invalid_jsonld_scripts": 0,
+  "case_registry_omissions": 0,
+  "region_registry_omissions": 0,
+  "details": {
+    "broken_internal_links": [],
+    "missing_images": [],
+    "missing_meta": [],
+    "duplicate_canonicals": {},
+    "duplicate_breadcrumb_schema": [],
+    "duplicate_visible_breadcrumb": [],
+    "invalid_jsonld": []
+  }
+}
