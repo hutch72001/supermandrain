@@ -1,0 +1,27 @@
+{
+  "version": "SSOS-V9.0-REVENUE-CLUSTER-ENGINE",
+  "date": "2026-07-26",
+  "project_files": 1249,
+  "html_pages": 190,
+  "modified_pages": 43,
+  "regional_cluster_pages": 35,
+  "support_cluster_pages": 8,
+  "actual_case_records": 60,
+  "head_preservation_errors": 0,
+  "broken_internal_links": 0,
+  "cluster_broken_links": 0,
+  "missing_images": 0,
+  "case_sensitive_path_mismatches": 0,
+  "missing_or_duplicate_required_meta": 0,
+  "invalid_jsonld": 0,
+  "sitemap_404_urls": 0,
+  "details": {
+    "head_preservation_errors": [],
+    "broken_internal_links": [],
+    "missing_images": [],
+    "case_sensitive_path_mismatches": [],
+    "missing_meta": [],
+    "invalid_jsonld": [],
+    "sitemap_404_urls": []
+  }
+}

@@ -1,3 +1,3 @@
-SSOS-V8.3-REVENUE-KEYWORD-LAYER
+SSOS-V9.0-REVENUE-CLUSTER-ENGINE
 2026-07-26
-Core regional drain and leak pages expanded for exact regional service queries without creating fake locality pages.
+Existing head, canonical and JSON-LD preserved; only verified regional, case, FAQ, PAT and knowledge links inserted.
