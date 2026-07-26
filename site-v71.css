@@ -455,3 +455,35 @@ url('/assets/hero-technician.jpg') right center/cover no-repeat;color:#fff}
 
 /* SSOS V6.0 foundation */
 .hero-grid{display:grid;grid-template-columns:1.2fr .8fr;gap:2rem}.knowledge-card{border:1px solid #e5e7eb;border-radius:18px;padding:20px}.cta-sticky{position:sticky;top:16px}@media(max-width:768px){.hero-grid{grid-template-columns:1fr}.cta-sticky{position:static}}
+
+/* SSOS V6.1 visible homepage upgrade */
+.ssos-v61-hero{padding:72px 0;background:linear-gradient(135deg,#101827,#263346);color:#fff}
+.ssos-v61-hero-grid{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(300px,.75fr);gap:36px;align-items:center}
+.ssos-v61-eyebrow,.ssos-v61-heading>span,.ssos-v61-cta span{display:inline-block;font-weight:900;letter-spacing:.08em;color:#ef4444}
+.ssos-v61-hero h1{max-width:850px;margin:.65rem 0 1rem;font-size:clamp(2.2rem,4.5vw,4.1rem);line-height:1.08}
+.ssos-v61-hero p{max-width:760px;font-size:1.08rem;line-height:1.8;color:#e5e7eb}
+.ssos-v61-actions{display:flex;flex-wrap:wrap;gap:12px;margin:24px 0}
+.ssos-v61-actions a{display:inline-block;padding:14px 20px;border-radius:999px;text-decoration:none;font-weight:900}
+.ssos-v61-primary{background:#ef4444;color:#fff}.ssos-v61-secondary{border:1px solid rgba(255,255,255,.4);color:#fff}
+.ssos-v61-trust{display:flex;flex-wrap:wrap;gap:14px;margin:22px 0 0;padding:0;list-style:none;color:#d1d5db}
+.ssos-v61-quick{padding:26px;border-radius:22px;background:#fff;color:#111827;box-shadow:0 18px 45px rgba(0,0,0,.2)}
+.ssos-v61-quick h2{margin-top:0}.ssos-v61-quick a{display:block;margin:10px 0;padding:13px 15px;border-radius:12px;background:#f4f5f7;color:#111827;text-decoration:none;font-weight:800}
+.ssos-v61-section{padding:64px 0}.ssos-v61-muted{background:#f5f7f9}
+.ssos-v61-heading{max-width:760px;margin-bottom:28px}.ssos-v61-heading h2{margin:.45rem 0 .65rem;font-size:clamp(1.8rem,3.2vw,2.8rem)}
+.ssos-v61-heading p{line-height:1.75;color:#4b5563}
+.ssos-v61-card-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:16px}
+.ssos-v61-card{display:block;padding:22px;border:1px solid #e5e7eb;border-radius:18px;background:#fff;color:#111827;text-decoration:none;box-shadow:0 10px 28px rgba(15,23,42,.06);transition:.2s ease}
+.ssos-v61-card:hover{transform:translateY(-4px);box-shadow:0 16px 34px rgba(15,23,42,.1)}
+.ssos-v61-card strong{color:#b91c1c}.ssos-v61-card h3{margin:.6rem 0}.ssos-v61-card p{margin:0;color:#4b5563;line-height:1.65}
+.ssos-v61-region-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.ssos-v61-region-grid a{padding:18px;border-radius:14px;background:#fff;border:1px solid #e5e7eb;text-align:center;text-decoration:none;color:#111827;font-weight:900}
+.ssos-v61-cta{display:flex;align-items:center;justify-content:space-between;gap:24px;padding:34px;border-radius:24px;background:#991b1b;color:#fff}
+.ssos-v61-cta h2{margin:.4rem 0}.ssos-v61-cta p{margin:0;line-height:1.7;color:#fee2e2}
+.ssos-v61-cta>a{flex:none;padding:14px 20px;border-radius:999px;background:#fff;color:#991b1b;text-decoration:none;font-weight:900}
+@media(max-width:1100px){.ssos-v61-card-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:820px){
+  .ssos-v61-hero{padding:50px 0}
+  .ssos-v61-hero-grid{grid-template-columns:1fr}
+  .ssos-v61-card-grid,.ssos-v61-region-grid{grid-template-columns:1fr}
+  .ssos-v61-cta{align-items:flex-start;flex-direction:column}
+}

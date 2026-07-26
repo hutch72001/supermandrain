@@ -1,1 +1,2 @@
-SSOS-V6.0-FOUNDATION
+SSOS-V6.1-VISIBLE-HOMEPAGE
+Visible homepage redesign, Knowledge Hub navigation, five pattern cards, eight regional hub links.
