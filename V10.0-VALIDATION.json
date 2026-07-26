@@ -1,0 +1,174 @@
+{
+  "version": "V10.0-COMPLETE",
+  "generated_at": "2026-07-26T12:31:28.689932+00:00",
+  "source_zip": "Superman-Seo-System-V10.0-FINAL(1).zip",
+  "project_root": "Superman-Seo-System-V9.0",
+  "modified_region_pages": [
+    "regions/gwangju/gwangju-bukgu/drain/index.html",
+    "regions/gwangju/gwangju-namgu/drain/index.html",
+    "regions/gwangju/gwangju-donggu/drain/index.html",
+    "regions/gwangju/gwangju-seogu/drain/index.html",
+    "regions/gwangju/gwangju-gwangsangu/drain/index.html",
+    "regions/jeonnam/naju/drain/index.html",
+    "regions/jeonnam/damyang/drain/index.html",
+    "regions/jeonnam/hwasun/drain/index.html",
+    "regions/jeonnam/jangseong/drain/index.html",
+    "regions/jeonbuk/gochang/drain/index.html",
+    "regions/jeonbuk/jeongeup/drain/index.html",
+    "regions/jeonnam/mokpo/drain/index.html",
+    "regions/jeonnam/muan/drain/index.html",
+    "regions/jeonnam/suncheon/drain/index.html",
+    "regions/jeonnam/gurye/drain/index.html",
+    "regions/jeonbuk/namwon/drain/index.html"
+  ],
+  "mapping": {
+    "exact_case_links": 45,
+    "safe_fallback_cards": 35,
+    "total_region_symptom_slots": 80,
+    "regions": [
+      {
+        "region": "광주북구",
+        "path": "regions/gwangju/gwangju-bukgu/drain/index.html",
+        "cards": 5,
+        "exact": 3,
+        "fallback": 2,
+        "faq_items": 4
+      },
+      {
+        "region": "광주남구",
+        "path": "regions/gwangju/gwangju-namgu/drain/index.html",
+        "cards": 5,
+        "exact": 3,
+        "fallback": 2,
+        "faq_items": 4
+      },
+      {
+        "region": "광주동구",
+        "path": "regions/gwangju/gwangju-donggu/drain/index.html",
+        "cards": 5,
+        "exact": 3,
+        "fallback": 2,
+        "faq_items": 4
+      },
+      {
+        "region": "광주서구",
+        "path": "regions/gwangju/gwangju-seogu/drain/index.html",
+        "cards": 5,
+        "exact": 3,
+        "fallback": 2,
+        "faq_items": 4
+      },
+      {
+        "region": "광주광산구",
+        "path": "regions/gwangju/gwangju-gwangsangu/drain/index.html",
+        "cards": 5,
+        "exact": 2,
+        "fallback": 3,
+        "faq_items": 4
+      },
+      {
+        "region": "나주",
+        "path": "regions/jeonnam/naju/drain/index.html",
+        "cards": 5,
+        "exact": 5,
+        "fallback": 0,
+        "faq_items": 4
+      },
+      {
+        "region": "담양",
+        "path": "regions/jeonnam/damyang/drain/index.html",
+        "cards": 5,
+        "exact": 3,
+        "fallback": 2,
+        "faq_items": 4
+      },
+      {
+        "region": "화순",
+        "path": "regions/jeonnam/hwasun/drain/index.html",
+        "cards": 5,
+        "exact": 3,
+        "fallback": 2,
+        "faq_items": 4
+      },
+      {
+        "region": "장성",
+        "path": "regions/jeonnam/jangseong/drain/index.html",
+        "cards": 5,
+        "exact": 3,
+        "fallback": 2,
+        "faq_items": 4
+      },
+      {
+        "region": "고창",
+        "path": "regions/jeonbuk/gochang/drain/index.html",
+        "cards": 5,
+        "exact": 2,
+        "fallback": 3,
+        "faq_items": 4
+      },
+      {
+        "region": "정읍",
+        "path": "regions/jeonbuk/jeongeup/drain/index.html",
+        "cards": 5,
+        "exact": 2,
+        "fallback": 3,
+        "faq_items": 4
+      },
+      {
+        "region": "목포",
+        "path": "regions/jeonnam/mokpo/drain/index.html",
+        "cards": 5,
+        "exact": 5,
+        "fallback": 0,
+        "faq_items": 4
+      },
+      {
+        "region": "무안",
+        "path": "regions/jeonnam/muan/drain/index.html",
+        "cards": 5,
+        "exact": 2,
+        "fallback": 3,
+        "faq_items": 4
+      },
+      {
+        "region": "순천",
+        "path": "regions/jeonnam/suncheon/drain/index.html",
+        "cards": 5,
+        "exact": 4,
+        "fallback": 1,
+        "faq_items": 4
+      },
+      {
+        "region": "구례",
+        "path": "regions/jeonnam/gurye/drain/index.html",
+        "cards": 5,
+        "exact": 2,
+        "fallback": 3,
+        "faq_items": 4
+      },
+      {
+        "region": "남원",
+        "path": "regions/jeonbuk/namwon/drain/index.html",
+        "cards": 5,
+        "exact": 0,
+        "fallback": 5,
+        "faq_items": 4
+      }
+    ]
+  },
+  "preservation": {
+    "head_byte_identical_all_16": true,
+    "canonical_preserved_via_head_identity": true,
+    "json_ld_preserved_via_head_identity": true
+  },
+  "integrity": {
+    "html_files_scanned": 190,
+    "internal_refs_checked": 8193,
+    "image_refs_checked": 782,
+    "broken_internal_refs": 0,
+    "case_sensitive_path_mismatches": 0,
+    "all_region_blocks_valid": true
+  },
+  "broken_refs": [],
+  "case_mismatches": []
+}
