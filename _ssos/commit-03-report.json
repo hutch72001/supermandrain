@@ -1,0 +1,12 @@
+{
+  "modified_page": "regions/gwangju/gwangju-gwangsangu/index.html",
+  "images": [
+    "assets/cases/gwangju-gwangsangu-drain-blockage/01.webp",
+    "assets/cases/gwangju-gwangsangu-drain-blockage/04.webp",
+    "assets/cases/gwangju-gwangsangu-drain-blockage/07.webp",
+    "assets/cases/gwangju-gwangsangu-drain-blockage/10.webp"
+  ],
+  "removed_leak_copy": true,
+  "removed_placeholder": true,
+  "validation": "H1, body and all inserted images aligned to drain blockage"
+}

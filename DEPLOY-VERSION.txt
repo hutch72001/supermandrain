@@ -1,3 +1,2 @@
-﻿Superman SEO V11.1 COMMIT-02
-Scope: Fix Gwangsangu drain page images
-Images source: assets/cases/gwangju-gwangsangu-drain-blockage
+﻿Superman SEO V11.1 COMMIT-03
+Scope: Fix Gwangsangu hub page to drain-only content and images
