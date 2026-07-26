@@ -1,0 +1,9 @@
+{
+  "version": "SSOS-V7.1-LEAK-CONTENT-LIVE",
+  "new_case_pages": 12,
+  "new_region_pages": 5,
+  "new_webp_images": 70,
+  "scoped_errors_count": 0,
+  "scoped_errors": [],
+  "legacy_base_validation_note": "기존 V6.5 기반 프로젝트에는 과거 사례 페이지가 참조하지만 ZIP에 포함되지 않은 이미지 경로가 다수 남아 있습니다. 이번 V7.1에서 새로 생성한 페이지와 이미지 범위는 별도 검증 결과 오류 0건입니다."
+}

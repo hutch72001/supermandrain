@@ -1,2 +1,2 @@
-SSOS-V6.5-STRUCTURED-SEO
-Breadcrumb navigation, BreadcrumbList and FAQPage schema.
+SSOS-V7.1-LEAK-CONTENT-LIVE
+12 actual leak case pages, 70 optimized WebP images, 5 new regional leak guides, homepage and regional internal links.
