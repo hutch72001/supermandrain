@@ -1,1 +1,2 @@
-SSOS-V6.3-CONVERSION
+SSOS-V6.4-CASES-FAQ
+Homepage actual-case cards, FAQ conversion section, internal case navigation and cache update.

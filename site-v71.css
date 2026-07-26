@@ -520,3 +520,31 @@ url('/assets/hero-technician.jpg') right center/cover no-repeat;color:#fff}
 }
 
 /*SSOS V6.3*/.ssos-v63-metrics{padding:22px 0;background:#fff}.ssos-v63-metrics .wrap{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}.ssos-v63-metrics .metric{padding:20px;border:1px solid #e5e7eb;border-radius:16px;text-align:center}.ssos-v63-metrics strong{display:block;font-size:2rem;color:#0f766e}.ssos-v63-metrics span{font-weight:700;color:#555}@media(max-width:768px){.ssos-v63-metrics .wrap{grid-template-columns:repeat(2,1fr)}}
+/* SSOS V6.4 case and FAQ conversion layer */
+.ssos-v64-section{padding:64px 0}
+.ssos-v64-muted{background:#f5f7f9}
+.ssos-v64-heading{max-width:760px;margin-bottom:28px}
+.ssos-v64-heading>span,.ssos-v64-eyebrow{display:inline-block;color:#dc2626;font-weight:900;letter-spacing:.08em}
+.ssos-v64-heading h2,.ssos-v64-faq-grid h2{margin:.45rem 0 .65rem;font-size:clamp(1.8rem,3vw,2.7rem)}
+.ssos-v64-heading p,.ssos-v64-faq-grid p{line-height:1.75;color:#4b5563}
+.ssos-v64-case-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.ssos-v64-case-card{display:flex;flex-direction:column;overflow:hidden;border:1px solid #e5e7eb;border-radius:18px;background:#fff;color:#111827;text-decoration:none;box-shadow:0 10px 28px rgba(15,23,42,.06);transition:.2s ease}
+.ssos-v64-case-card:hover{transform:translateY(-4px);box-shadow:0 16px 34px rgba(15,23,42,.1)}
+.ssos-v64-case-card figure{margin:0;aspect-ratio:16/10;overflow:hidden;background:#e5e7eb}
+.ssos-v64-case-card img{display:block;width:100%;height:100%;object-fit:cover}
+.ssos-v64-case-body{display:flex;flex:1;flex-direction:column;padding:20px}
+.ssos-v64-case-body span{color:#b91c1c;font-weight:900}
+.ssos-v64-case-body h3{margin:.55rem 0 .65rem;font-size:1.15rem;line-height:1.45}
+.ssos-v64-case-body p{margin:0 0 16px;color:#4b5563;line-height:1.65}
+.ssos-v64-case-body strong{margin-top:auto;color:#0f766e}
+.ssos-v64-all{text-align:center;margin-top:24px}
+.ssos-v64-all a,.ssos-v64-faq-link{display:inline-block;padding:12px 18px;border-radius:999px;background:#0f766e;color:#fff;text-decoration:none;font-weight:900}
+.ssos-v64-faq-grid{display:grid;grid-template-columns:.8fr 1.2fr;gap:36px;align-items:start}
+.ssos-v64-accordions details{margin-bottom:12px;padding:18px 20px;border:1px solid #e5e7eb;border-radius:14px;background:#fff}
+.ssos-v64-accordions summary{cursor:pointer;font-weight:900}
+.ssos-v64-accordions p{margin:.8rem 0 0}
+@media(max-width:960px){.ssos-v64-case-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){
+  .ssos-v64-section{padding:46px 0}
+  .ssos-v64-case-grid,.ssos-v64-faq-grid{grid-template-columns:1fr}
+}
