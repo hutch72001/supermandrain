@@ -1,3 +1,3 @@
-SSOS-V8.2-PAT005-REAL-MEDIA
+SSOS-V8.3-REVENUE-KEYWORD-LAYER
 2026-07-26
-PAT-005 placeholders replaced with real leak-detection process photos; Damyang, Naju and Hwasun leak hero images differentiated.
+Core regional drain and leak pages expanded for exact regional service queries without creating fake locality pages.

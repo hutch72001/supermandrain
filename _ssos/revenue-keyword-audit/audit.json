@@ -1,0 +1,309 @@
+{
+  "project_root": "/mnt/data/ssos_revenue_audit/Superman-Seo-System-V8.2",
+  "regional_service_pages": 57,
+  "keyword_checks": 643,
+  "lowest_20": [
+    {
+      "region": "강진",
+      "service": "drain",
+      "url": "/regions/jeonnam/gangjin/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "고창",
+      "service": "drain",
+      "url": "/regions/jeonbuk/gochang/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "고흥",
+      "service": "drain",
+      "url": "/regions/jeonnam/goheung/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "곡성",
+      "service": "drain",
+      "url": "/regions/jeonnam/gokseong/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "광양",
+      "service": "drain",
+      "url": "/regions/jeonnam/gwangyang/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "광주광산구",
+      "service": "drain",
+      "url": "/regions/gwangju/gwangju-gwangsangu/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "광주남구",
+      "service": "drain",
+      "url": "/regions/gwangju/gwangju-namgu/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 1,
+      "missing": 9,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "광주동구",
+      "service": "drain",
+      "url": "/regions/gwangju/gwangju-donggu/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 1,
+      "missing": 9,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "광주북구",
+      "service": "drain",
+      "url": "/regions/gwangju/gwangju-bukgu/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 1,
+      "missing": 9,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "광주서구",
+      "service": "drain",
+      "url": "/regions/gwangju/gwangju-seogu/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 1,
+      "missing": 9,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "구례",
+      "service": "drain",
+      "url": "/regions/jeonnam/gurye/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "군산",
+      "service": "drain",
+      "url": "/regions/jeonbuk/gunsan/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "김제",
+      "service": "drain",
+      "url": "/regions/jeonbuk/gimje/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "나주",
+      "service": "drain",
+      "url": "/regions/jeonnam/naju/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 1,
+      "missing": 9,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "남원",
+      "service": "drain",
+      "url": "/regions/jeonbuk/namwon/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "담양",
+      "service": "drain",
+      "url": "/regions/jeonnam/damyang/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 2,
+      "missing": 8,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "목포",
+      "service": "drain",
+      "url": "/regions/jeonnam/mokpo/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 1,
+      "missing": 9,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "무안",
+      "service": "drain",
+      "url": "/regions/jeonnam/muan/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "무주",
+      "service": "drain",
+      "url": "/regions/jeonbuk/muju/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "보성",
+      "service": "drain",
+      "url": "/regions/jeonnam/boseong/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    }
+  ],
+  "highest_10": [
+    {
+      "region": "강진",
+      "service": "drain",
+      "url": "/regions/jeonnam/gangjin/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "고창",
+      "service": "drain",
+      "url": "/regions/jeonbuk/gochang/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "고흥",
+      "service": "drain",
+      "url": "/regions/jeonnam/goheung/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "곡성",
+      "service": "drain",
+      "url": "/regions/jeonnam/gokseong/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "광양",
+      "service": "drain",
+      "url": "/regions/jeonnam/gwangyang/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "광주광산구",
+      "service": "drain",
+      "url": "/regions/gwangju/gwangju-gwangsangu/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 0,
+      "missing": 10,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "광주남구",
+      "service": "drain",
+      "url": "/regions/gwangju/gwangju-namgu/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 1,
+      "missing": 9,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "광주동구",
+      "service": "drain",
+      "url": "/regions/gwangju/gwangju-donggu/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 1,
+      "missing": 9,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "광주북구",
+      "service": "drain",
+      "url": "/regions/gwangju/gwangju-bukgu/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 1,
+      "missing": 9,
+      "coverage_percent": 9.1
+    },
+    {
+      "region": "광주서구",
+      "service": "drain",
+      "url": "/regions/gwangju/gwangju-seogu/drain/",
+      "keywords": 11,
+      "strong": 1,
+      "weak": 1,
+      "missing": 9,
+      "coverage_percent": 9.1
+    }
+  ]
+}

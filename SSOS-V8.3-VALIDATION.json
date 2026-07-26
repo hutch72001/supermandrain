@@ -1,0 +1,30 @@
+{
+  "version": "SSOS-V8.3-REVENUE-KEYWORD-LAYER",
+  "date": "2026-07-26",
+  "core_regions": [
+    "광주북구",
+    "광주서구",
+    "광주남구",
+    "광주동구",
+    "광주광산구",
+    "나주",
+    "담양",
+    "화순",
+    "장성",
+    "고창",
+    "정읍",
+    "목포",
+    "무안",
+    "순천",
+    "구례",
+    "남원"
+  ],
+  "updated_pages": 28,
+  "missing_core_service_pages": [
+    "regions/jeonnam/mokpo/leak/index.html",
+    "regions/jeonnam/suncheon/leak/index.html",
+    "regions/jeonnam/gurye/leak/index.html",
+    "regions/jeonbuk/namwon/leak/index.html"
+  ],
+  "validation_errors": []
+}
