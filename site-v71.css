@@ -442,3 +442,13 @@ url('/assets/hero-technician.jpg') right center/cover no-repeat;color:#fff}
   line-height:1.6;
   color:#555;
 }
+
+
+/* SSOS V5.4 */
+:root{--content-max:1180px}
+.container,.content,.page-wrap{max-width:var(--content-max);margin-inline:auto}
+.ssos-media{margin:1.5rem 0;border-radius:20px;overflow:hidden;box-shadow:0 12px 30px rgba(0,0,0,.08)}
+.ssos-media figcaption{background:#f7f7f7;padding:14px 16px;line-height:1.7}
+@media (max-width:768px){
+  .ssos-media{margin:1rem 0}
+}
