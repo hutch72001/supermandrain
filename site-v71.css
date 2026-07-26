@@ -421,3 +421,24 @@ url('/assets/hero-technician.jpg') right center/cover no-repeat;color:#fff}
 
 /* SSOS V5.2 */
 .ssos-media{border-radius:16px;overflow:hidden}.ssos-media figcaption{font-size:.9rem;color:#555;padding:10px;background:#fafafa}
+
+
+/* SSOS V5.3 */
+.ssos-media{
+  border-radius:18px;
+  overflow:hidden;
+  box-shadow:0 8px 24px rgba(0,0,0,.08);
+  margin:1.2rem 0;
+}
+.ssos-media img{
+  width:100%;
+  height:auto;
+  display:block;
+}
+.ssos-media figcaption{
+  background:#fafafa;
+  padding:12px 14px;
+  font-size:.92rem;
+  line-height:1.6;
+  color:#555;
+}

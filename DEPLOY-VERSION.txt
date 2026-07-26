@@ -1,1 +1,3 @@
-SSOS-V5.2-LAYOUT-SEO
+SSOS-V5.3-UX-SEO
+Layout refinement baseline
+Knowledge Hub improvements baseline
