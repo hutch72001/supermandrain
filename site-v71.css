@@ -452,3 +452,6 @@ url('/assets/hero-technician.jpg') right center/cover no-repeat;color:#fff}
 @media (max-width:768px){
   .ssos-media{margin:1rem 0}
 }
+
+/* SSOS V6.0 foundation */
+.hero-grid{display:grid;grid-template-columns:1.2fr .8fr;gap:2rem}.knowledge-card{border:1px solid #e5e7eb;border-radius:18px;padding:20px}.cta-sticky{position:sticky;top:16px}@media(max-width:768px){.hero-grid{grid-template-columns:1fr}.cta-sticky{position:static}}

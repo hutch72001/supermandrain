@@ -1,3 +1,1 @@
-SSOS-V5.4-UX-REFINE
-Knowledge Hub UI baseline
-SEO refinement baseline
+SSOS-V6.0-FOUNDATION
