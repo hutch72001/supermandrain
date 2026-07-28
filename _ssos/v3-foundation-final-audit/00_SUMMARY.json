@@ -1,0 +1,32 @@
+{
+  "project": "Superman SEO V3 Foundation",
+  "phase": "Final Audit",
+  "html_count": 190,
+  "pass_count": 6,
+  "fix_count": 6,
+  "critical_s_count": 1,
+  "important_a_count": 2,
+  "improvement_b_count": 3,
+  "counts": {
+    "missing_h1": 0,
+    "multiple_h1": 0,
+    "duplicate_h1_groups": 0,
+    "missing_title": 0,
+    "duplicate_title_groups": 0,
+    "missing_meta": 0,
+    "duplicate_meta_groups": 0,
+    "missing_canonical": 0,
+    "heading_skips": 0,
+    "thin_pages_under_200": 0,
+    "thin_sections": 870,
+    "developer_text_hits": 124,
+    "broken_internal_links": 0,
+    "missing_alt": 0,
+    "empty_alt": 0,
+    "duplicate_alt_groups": 56,
+    "image_topic_conflicts": 440,
+    "generic_anchor_text": 0,
+    "repeated_sentence_groups": 64,
+    "template_similarity_high_pairs": 126
+  }
+}

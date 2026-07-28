@@ -1,0 +1,32 @@
+[
+  {
+    "item": "H1 구조",
+    "count": 0,
+    "note": "190개 페이지 모두 H1 1개"
+  },
+  {
+    "item": "Title",
+    "count": 0,
+    "note": "누락·중복 없음"
+  },
+  {
+    "item": "Meta Description",
+    "count": 0,
+    "note": "누락·중복 없음"
+  },
+  {
+    "item": "Canonical",
+    "count": 0,
+    "note": "누락 없음"
+  },
+  {
+    "item": "내부링크",
+    "count": 0,
+    "note": "실제 깨진 내부링크 없음"
+  },
+  {
+    "item": "ALT 기본",
+    "count": 0,
+    "note": "누락·빈 ALT 없음"
+  }
+]
