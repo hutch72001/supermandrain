@@ -1,0 +1,16 @@
+{
+  "project": "Superman SEO V3 Foundation",
+  "phase": "02 Corrected Internal Link Audit",
+  "html_count": 190,
+  "local_internal_links": 7460,
+  "external_links": 190,
+  "special_action_links": {
+    "#": 220,
+    "tel:": 756,
+    "sms:": 197
+  },
+  "actual_broken_internal_links": 0,
+  "generic_anchor_text_count": 54,
+  "html_modified": 0,
+  "finding": "Foundation-01의 197개 오류 후보는 모두 sms: 문자 링크를 잘못 분류한 false positive였습니다."
+}
