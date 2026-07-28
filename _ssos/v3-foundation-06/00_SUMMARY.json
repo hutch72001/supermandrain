@@ -1,0 +1,15 @@
+{
+  "project": "Superman SEO V3 Foundation",
+  "phase": "06 Thin Content Fix and Mobile Sticky CTA",
+  "html_count": 190,
+  "modified_pages": 190,
+  "phrase_replacements": {
+    "배관 상태를 확인합니다.": 190,
+    "메인 배관을 점검합니다.": 190,
+    "내시경 진단 후 작업합니다.": 190
+  },
+  "sticky_cta_added_pages": 190,
+  "remaining_thin_phrases": 0,
+  "cta_missing_pages": 0,
+  "cta_duplicate_pages": 0
+}
