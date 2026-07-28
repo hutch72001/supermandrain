@@ -1,0 +1,13 @@
+{
+  "project": "Superman SEO V3 Foundation",
+  "phase": "04 Image ALT and Topic Audit",
+  "html_count": 190,
+  "img_count": 963,
+  "modified_pages": 0,
+  "changed_alts": 0,
+  "final_missing_alt": 0,
+  "final_empty_alt": 0,
+  "duplicate_alt_groups_over_3": 56,
+  "topic_conflicts": 10,
+  "case_images_without_caption": 0
+}
