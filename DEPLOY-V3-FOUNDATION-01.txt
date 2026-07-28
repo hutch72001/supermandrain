@@ -1,0 +1,3 @@
+﻿V3 Foundation 01 completed
+Safe change: homepage second H1 converted to H2
+Reports: _ssos/v3-foundation-01/

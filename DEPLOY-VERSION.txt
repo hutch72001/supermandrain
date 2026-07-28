@@ -1,2 +1,3 @@
-﻿Superman SEO V11.1 COMMIT-03
-Scope: Fix Gwangsangu hub page to drain-only content and images
+﻿Superman SEO V3 FOUNDATION-01
+Scope: full on-page structure audit + homepage H1 correction
+HTML audited: 190

@@ -1,0 +1,25 @@
+{
+  "project": "Superman SEO V3 Foundation",
+  "phase": "01 Structure Audit",
+  "html_count": 190,
+  "safe_fixes": [
+    "index.html: 두 번째 H1을 H2로 변경"
+  ],
+  "counts": {
+    "missing_h1": 0,
+    "multiple_h1": 1,
+    "heading_skips": 0,
+    "missing_title": 0,
+    "duplicate_titles": 0,
+    "missing_meta_description": 0,
+    "duplicate_meta_descriptions": 0,
+    "missing_canonical": 0,
+    "missing_alt": 0,
+    "empty_alt": 0,
+    "generic_alt": 0,
+    "duplicate_alt_over_3": 56,
+    "broken_internal_links": 197,
+    "generic_anchor_text": 54,
+    "image_topic_risk": 3
+  }
+}
