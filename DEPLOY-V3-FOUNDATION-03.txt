@@ -1,0 +1,3 @@
+﻿V3 Foundation 03 completed
+Generic anchor texts replaced with contextual anchor texts.
+Broken internal links after change: 0
