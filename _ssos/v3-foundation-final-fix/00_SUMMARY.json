@@ -1,0 +1,19 @@
+{
+  "project": "Superman SEO V3 Foundation",
+  "phase": "Final Fix",
+  "html_count": 190,
+  "modified_pages": 190,
+  "placeholder_replacements": 124,
+  "thin_content_replacements": {
+    "현장 증상에 따라 점검합니다.": 0,
+    "원인 진단 후 작업합니다.": 0,
+    "배관 상태를 확인합니다.": 190,
+    "메인 배관을 점검합니다.": 190,
+    "내시경 진단 후 작업합니다.": 190
+  },
+  "remaining_placeholders": 0,
+  "remaining_target_thin_phrases": 0,
+  "new_broken_links": 0,
+  "template_sections_deleted": 0,
+  "structure_policy": "템플릿 유지, 개발용 문구만 실제 설명과 존재하는 링크로 교체"
+}
