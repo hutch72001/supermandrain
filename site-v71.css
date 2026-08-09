@@ -680,3 +680,9 @@ url('/assets/hero-technician.jpg') right center/cover no-repeat;color:#fff}
   .case-youtube-call{font-size:18px !important;padding:18px 16px}
 }
 
+
+/* SITE-QUALITY-V2.3 REGION REPRESENTATIVE IMAGE */
+.landing-hero-media img.region-representative{width:100%;height:auto;aspect-ratio:5/3;object-fit:contain;background:#fff;border-radius:22px;}
+
+/* SITE-QUALITY-V2.3 REGION REPRESENTATIVE STANDALONE */
+.region-representative-section{padding:28px 0;background:#fff}.region-representative-wrap{max-width:760px;margin:0 auto;padding:0 20px}.region-representative-wrap figure{margin:0}.region-representative-wrap img{display:block;width:100%;height:auto;aspect-ratio:5/3;object-fit:contain;border-radius:18px;background:#fff}.region-representative-wrap figcaption{text-align:center;margin-top:10px;color:#526372;font-size:14px;font-weight:700}
