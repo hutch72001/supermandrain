@@ -402,3 +402,57 @@ url('/assets/hero-technician.jpg') right center/cover no-repeat;color:#fff}
 @media(max-width:1050px){.v15-hero-grid{grid-template-columns:1fr 320px;gap:30px}.v15-assurance-grid{grid-template-columns:repeat(2,1fr)}.v15-assurance-grid div:nth-child(3){border-left:1px solid #dfe5eb}.v15-reason-grid{grid-template-columns:1fr 1fr}.v15-reason-grid article:last-child{grid-column:1/-1}}
 @media(max-width:760px){.v15-hero-grid{min-height:auto;grid-template-columns:1fr;padding-top:48px;padding-bottom:48px}.v15-hero h1{font-size:38px;letter-spacing:-1.8px}.v15-hero-lead{font-size:17px}.v15-contact-card{display:none}.v15-hero-actions a{width:100%}.v15-assurance-grid{grid-template-columns:1fr 1fr}.v15-assurance-grid div{padding:18px 14px}.v15-assurance-grid b{font-size:15px}.v15-compare,.v15-reasons,.v15-faq{padding:58px 0}.v15-section-heading{display:block}.v15-section-heading h2{font-size:31px}.v15-section-heading>p{margin-top:14px}.v15-compare-grid,.v15-reason-grid,.v15-faq-list{grid-template-columns:1fr}.v15-reason-grid article:last-child{grid-column:auto}.v15-compare-cta{display:block}.v15-compare-cta a{display:flex;margin-top:15px;justify-content:center}}
 @media(max-width:480px){.v15-assurance-grid{grid-template-columns:1fr}.v15-assurance-grid div,.v15-assurance-grid div:first-child,.v15-assurance-grid div:nth-child(3){border-left:0;border-right:0;border-bottom:1px solid #dfe5eb}.v15-hero h1{font-size:34px}.v15-proof-row span{font-size:12px}.bottom-bar a{min-height:58px;font-size:14px}}
+
+
+/* V3 SITE QUALITY FIX — case hero readability */
+.case-hero .case-summary{
+  display:block;
+  max-width:880px;
+  margin:24px 0 0;
+  padding:22px 24px;
+  border:1px solid #cbdde7;
+  border-radius:18px;
+  background:#f2f8fb;
+  color:#243244 !important;
+  font-weight:600;
+  opacity:1 !important;
+  text-shadow:none !important;
+}
+.case-youtube-call{
+  margin:30px 0;
+  padding:20px 22px;
+  border-radius:16px;
+  background:linear-gradient(135deg,#d71920,#b7080f);
+  color:#fff !important;
+  text-align:center;
+  font-size:20px !important;
+  line-height:1.55 !important;
+  font-weight:900;
+  box-shadow:0 10px 26px rgba(180,8,15,.22);
+}
+.case-youtube-call a,
+.case-youtube-call a:link,
+.case-youtube-call a:visited{
+  color:#fff !important;
+  text-decoration:none !important;
+}
+.field-photo.field-photo--brand{
+  background:#ffcf00;
+  border-color:#e2b400;
+}
+.field-photo.field-photo--brand img{
+  display:block;
+  width:100%;
+  height:auto;
+  object-fit:contain;
+}
+@media(max-width:760px){
+  .case-hero .case-summary{
+    padding:18px;
+    font-size:17px;
+    line-height:1.75;
+    color:#182536 !important;
+  }
+  .case-youtube-call{font-size:18px !important;padding:18px 16px}
+}
+

@@ -1,0 +1,23 @@
+{
+  "project": "Superman SEO V3 Site Quality Audit & Fix",
+  "html_count": 190,
+  "case_detail_pages": 62,
+  "image_files": 854,
+  "pages_with_near_duplicate_case_images": 23,
+  "generic_process_captions_found": 444,
+  "case_pages_missing_og_image_before_fix": 46,
+  "case_pages_og_image_added": 47,
+  "css_files_fixed": [
+    "site-v71.css",
+    "services/site-v71.css"
+  ],
+  "iksan_changes": [
+    "alt=\"익산 하수구막힘 현장 작업 과정 1\"",
+    "<figcaption>익산 하수구막힘 현장 작업 과정 1</figcaption>",
+    "alt=\"익산 하수구막힘 현장 작업 과정 2\"",
+    "<figcaption>익산 하수구막힘 현장 작업 과정 2</figcaption>",
+    "third-duplicate-photo->brand-poster",
+    "youtube-phone-cta"
+  ],
+  "important_note": "Search-engine thumbnail selection cannot be guaranteed; branded OG image is supplied as a strong candidate."
+}

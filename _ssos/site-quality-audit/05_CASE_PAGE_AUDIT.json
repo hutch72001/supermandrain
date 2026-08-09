@@ -1,0 +1,374 @@
+[
+  {
+    "page": "cases/boseong-drain-blockage/index.html",
+    "figures": 12,
+    "generic_captions": 8,
+    "near_duplicate_pairs": 4
+  },
+  {
+    "page": "cases/drain/index.html",
+    "figures": 0,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/gochang-drain-blockage/index.html",
+    "figures": 10,
+    "generic_captions": 10,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/gurye-drain-blockage/index.html",
+    "figures": 14,
+    "generic_captions": 10,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/gwangju-bukgu-drain-blockage/index.html",
+    "figures": 10,
+    "generic_captions": 10,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/gwangju-bukgu-drain-blockage-2/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/gwangju-bukgu-drain-cleaning/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 1
+  },
+  {
+    "page": "cases/gwangju-donggu-drain-blockage/index.html",
+    "figures": 10,
+    "generic_captions": 10,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/gwangju-donggu-drain-blockage-2/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/gwangju-donggu-drain-cleaning/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/gwangju-drain-blockage/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/gwangju-drain-blockage-2/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/gwangju-gwangsangu-drain-blockage/index.html",
+    "figures": 10,
+    "generic_captions": 10,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/gwangju-gwangsangu-leak-detection/index.html",
+    "figures": 12,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/gwangju-namgu-drain-blockage-2/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/gwangju-namgu-drain-cleaning/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/gwangju-namgu-leak-detection/index.html",
+    "figures": 12,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/gwangju-seogu-drain-blockage/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/gwangju-seogu-drain-cleaning/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 1
+  },
+  {
+    "page": "cases/gwangju-seogu-leak-detection/index.html",
+    "figures": 12,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/gwangyang-drain-blockage/index.html",
+    "figures": 10,
+    "generic_captions": 10,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/hampyeong-drain-blockage/index.html",
+    "figures": 5,
+    "generic_captions": 4,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/hwasun-drain-blockage/index.html",
+    "figures": 12,
+    "generic_captions": 8,
+    "near_duplicate_pairs": 4
+  },
+  {
+    "page": "cases/iksan-drain-blockage/index.html",
+    "figures": 3,
+    "generic_captions": 3,
+    "near_duplicate_pairs": 1
+  },
+  {
+    "page": "cases/jangseong-damyang-sink-blockage/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/jangseong-drain-blockage/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/jeongeup-drain-blockage/index.html",
+    "figures": 3,
+    "generic_captions": 3,
+    "near_duplicate_pairs": 1
+  },
+  {
+    "page": "cases/leak/gochang-yeonggwang-hot-water-pipe-leak/index.html",
+    "figures": 16,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 8
+  },
+  {
+    "page": "cases/leak/gwangju-bukgu-gwangsangu-commercial-water-leak/index.html",
+    "figures": 16,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 7
+  },
+  {
+    "page": "cases/leak/gwangju-bukgu-house-heating-manifold-leak/index.html",
+    "figures": 15,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 13
+  },
+  {
+    "page": "cases/leak/gwangju-seogu-namgu-apartment-hot-water-leak/index.html",
+    "figures": 16,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 7
+  },
+  {
+    "page": "cases/leak/hampyeong-muan-house-cold-water-leak/index.html",
+    "figures": 16,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 13
+  },
+  {
+    "page": "cases/leak/index.html",
+    "figures": 16,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/leak/jangseong-house-heating-pipe-leak/index.html",
+    "figures": 16,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 8
+  },
+  {
+    "page": "cases/leak/jeongeup-gochang-apartment-heating-leak/index.html",
+    "figures": 15,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 8
+  },
+  {
+    "page": "cases/leak/jeonnam-gwangju-apartment-cold-water-leak/index.html",
+    "figures": 12,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 7
+  },
+  {
+    "page": "cases/leak/jeonnam-gwangju-bathroom-waterproof-leak/index.html",
+    "figures": 12,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 7
+  },
+  {
+    "page": "cases/leak/naju-apartment-heating-leak/index.html",
+    "figures": 15,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 7
+  },
+  {
+    "page": "cases/leak/sunchang-house-cold-water-leak/index.html",
+    "figures": 16,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 14
+  },
+  {
+    "page": "cases/leak/yeongam-naju-house-heating-leak/index.html",
+    "figures": 16,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 14
+  },
+  {
+    "page": "cases/mokpo-drain-blockage/index.html",
+    "figures": 13,
+    "generic_captions": 10,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/mokpo-drain-blockage-2/index.html",
+    "figures": 12,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/mokpo-drain-blockage-3/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/mokpo-drain-cleaning-2/index.html",
+    "figures": 16,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 6
+  },
+  {
+    "page": "cases/mokpo-drain-cleaning-2-2/index.html",
+    "figures": 4,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/muan-drain-blockage/index.html",
+    "figures": 10,
+    "generic_captions": 10,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/naju-drain-blockage/index.html",
+    "figures": 11,
+    "generic_captions": 10,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/naju-drain-blockage-2/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 1
+  },
+  {
+    "page": "cases/naju-drain-blockage-3/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/naju-hwasun-drain-cleaning/index.html",
+    "figures": 16,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/sunchang-damyang-drain-cleaning/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/suncheon-drain-blockage/index.html",
+    "figures": 10,
+    "generic_captions": 10,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/suncheon-drain-blockage-2/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/suncheon-drain-blockage-3/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/suncheon-leak-detection/index.html",
+    "figures": 12,
+    "generic_captions": 0,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/suncheon-sink-blockage/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/suncheon-toilet-blockage/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/yeonggwang-hampyeong-drain-cleaning/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 1
+  },
+  {
+    "page": "cases/yeonggwang-hampyeong-sink-blockage/index.html",
+    "figures": 12,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/yeonggwang-toilet-blockage/index.html",
+    "figures": 16,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 1
+  },
+  {
+    "page": "cases/yeonggwang-toilet-blockage-2/index.html",
+    "figures": 16,
+    "generic_captions": 12,
+    "near_duplicate_pairs": 0
+  },
+  {
+    "page": "cases/yeosu-drain-blockage/index.html",
+    "figures": 10,
+    "generic_captions": 6,
+    "near_duplicate_pairs": 4
+  }
+]

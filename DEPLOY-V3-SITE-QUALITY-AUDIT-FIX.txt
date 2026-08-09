@@ -1,0 +1,2 @@
+﻿Site quality audit/fix completed.
+Safe automatic fixes only. Near-duplicate field photos requiring real replacements are reported, not fabricated.

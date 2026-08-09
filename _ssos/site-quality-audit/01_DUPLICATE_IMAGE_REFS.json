@@ -1,0 +1,332 @@
+[
+  {
+    "page": "cases/gwangju-gwangsangu-leak-detection/index.html",
+    "src": "/assets/cases/gwangju-gwangsangu-leak-detection/01.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/gwangju-namgu-leak-detection/index.html",
+    "src": "/assets/cases/gwangju-namgu-leak-detection/01.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/gwangju-seogu-leak-detection/index.html",
+    "src": "/assets/cases/gwangju-seogu-leak-detection/01.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/gochang-yeonggwang-hot-water-pipe-leak/index.html",
+    "src": "/assets/cases/leak-v71/gochang-yeonggwang-hot-water-pipe-leak/01.webp",
+    "count": 3
+  },
+  {
+    "page": "cases/leak/gochang-yeonggwang-hot-water-pipe-leak/index.html",
+    "src": "/assets/cases/leak-v71/gochang-yeonggwang-hot-water-pipe-leak/02.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/gochang-yeonggwang-hot-water-pipe-leak/index.html",
+    "src": "/assets/cases/leak-v71/gochang-yeonggwang-hot-water-pipe-leak/03.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/gochang-yeonggwang-hot-water-pipe-leak/index.html",
+    "src": "/assets/cases/leak-v71/gochang-yeonggwang-hot-water-pipe-leak/04.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/gochang-yeonggwang-hot-water-pipe-leak/index.html",
+    "src": "/assets/cases/leak-v71/gochang-yeonggwang-hot-water-pipe-leak/05.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/gwangju-bukgu-gwangsangu-commercial-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/gwangju-bukgu-gwangsangu-commercial-water-leak/01.webp",
+    "count": 3
+  },
+  {
+    "page": "cases/leak/gwangju-bukgu-gwangsangu-commercial-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/gwangju-bukgu-gwangsangu-commercial-water-leak/02.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/gwangju-bukgu-gwangsangu-commercial-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/gwangju-bukgu-gwangsangu-commercial-water-leak/03.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/gwangju-bukgu-gwangsangu-commercial-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/gwangju-bukgu-gwangsangu-commercial-water-leak/04.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/gwangju-bukgu-gwangsangu-commercial-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/gwangju-bukgu-gwangsangu-commercial-water-leak/05.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/gwangju-bukgu-house-heating-manifold-leak/index.html",
+    "src": "/assets/cases/leak-v71/gwangju-bukgu-house-heating-manifold-leak/01.webp",
+    "count": 3
+  },
+  {
+    "page": "cases/leak/gwangju-bukgu-house-heating-manifold-leak/index.html",
+    "src": "/assets/cases/leak-v71/gwangju-bukgu-house-heating-manifold-leak/02.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/gwangju-bukgu-house-heating-manifold-leak/index.html",
+    "src": "/assets/cases/leak-v71/gwangju-bukgu-house-heating-manifold-leak/03.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/gwangju-bukgu-house-heating-manifold-leak/index.html",
+    "src": "/assets/cases/leak-v71/gwangju-bukgu-house-heating-manifold-leak/04.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/gwangju-bukgu-house-heating-manifold-leak/index.html",
+    "src": "/assets/cases/leak-v71/gwangju-bukgu-house-heating-manifold-leak/05.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/gwangju-seogu-namgu-apartment-hot-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/gwangju-seogu-namgu-apartment-hot-water-leak/01.webp",
+    "count": 3
+  },
+  {
+    "page": "cases/leak/gwangju-seogu-namgu-apartment-hot-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/gwangju-seogu-namgu-apartment-hot-water-leak/02.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/gwangju-seogu-namgu-apartment-hot-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/gwangju-seogu-namgu-apartment-hot-water-leak/03.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/gwangju-seogu-namgu-apartment-hot-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/gwangju-seogu-namgu-apartment-hot-water-leak/04.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/gwangju-seogu-namgu-apartment-hot-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/gwangju-seogu-namgu-apartment-hot-water-leak/05.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/hampyeong-muan-house-cold-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/hampyeong-muan-house-cold-water-leak/01.webp",
+    "count": 3
+  },
+  {
+    "page": "cases/leak/hampyeong-muan-house-cold-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/hampyeong-muan-house-cold-water-leak/02.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/hampyeong-muan-house-cold-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/hampyeong-muan-house-cold-water-leak/03.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/hampyeong-muan-house-cold-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/hampyeong-muan-house-cold-water-leak/04.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/hampyeong-muan-house-cold-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/hampyeong-muan-house-cold-water-leak/05.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/jangseong-house-heating-pipe-leak/index.html",
+    "src": "/assets/cases/leak-v71/jangseong-house-heating-pipe-leak/01.webp",
+    "count": 3
+  },
+  {
+    "page": "cases/leak/jangseong-house-heating-pipe-leak/index.html",
+    "src": "/assets/cases/leak-v71/jangseong-house-heating-pipe-leak/02.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/jangseong-house-heating-pipe-leak/index.html",
+    "src": "/assets/cases/leak-v71/jangseong-house-heating-pipe-leak/03.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/jangseong-house-heating-pipe-leak/index.html",
+    "src": "/assets/cases/leak-v71/jangseong-house-heating-pipe-leak/04.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/jangseong-house-heating-pipe-leak/index.html",
+    "src": "/assets/cases/leak-v71/jangseong-house-heating-pipe-leak/05.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/jeongeup-gochang-apartment-heating-leak/index.html",
+    "src": "/assets/cases/leak-v71/jeongeup-gochang-apartment-heating-leak/01.webp",
+    "count": 3
+  },
+  {
+    "page": "cases/leak/jeongeup-gochang-apartment-heating-leak/index.html",
+    "src": "/assets/cases/leak-v71/jeongeup-gochang-apartment-heating-leak/02.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/jeongeup-gochang-apartment-heating-leak/index.html",
+    "src": "/assets/cases/leak-v71/jeongeup-gochang-apartment-heating-leak/03.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/jeongeup-gochang-apartment-heating-leak/index.html",
+    "src": "/assets/cases/leak-v71/jeongeup-gochang-apartment-heating-leak/04.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/jeongeup-gochang-apartment-heating-leak/index.html",
+    "src": "/assets/cases/leak-v71/jeongeup-gochang-apartment-heating-leak/05.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/jeonnam-gwangju-apartment-cold-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/jeonnam-gwangju-apartment-cold-water-leak/01.webp",
+    "count": 3
+  },
+  {
+    "page": "cases/leak/jeonnam-gwangju-apartment-cold-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/jeonnam-gwangju-apartment-cold-water-leak/02.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/jeonnam-gwangju-apartment-cold-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/jeonnam-gwangju-apartment-cold-water-leak/03.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/jeonnam-gwangju-apartment-cold-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/jeonnam-gwangju-apartment-cold-water-leak/04.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/jeonnam-gwangju-apartment-cold-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/jeonnam-gwangju-apartment-cold-water-leak/05.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/jeonnam-gwangju-bathroom-waterproof-leak/index.html",
+    "src": "/assets/cases/leak-v71/jeonnam-gwangju-bathroom-waterproof-leak/01.webp",
+    "count": 3
+  },
+  {
+    "page": "cases/leak/jeonnam-gwangju-bathroom-waterproof-leak/index.html",
+    "src": "/assets/cases/leak-v71/jeonnam-gwangju-bathroom-waterproof-leak/02.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/jeonnam-gwangju-bathroom-waterproof-leak/index.html",
+    "src": "/assets/cases/leak-v71/jeonnam-gwangju-bathroom-waterproof-leak/03.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/jeonnam-gwangju-bathroom-waterproof-leak/index.html",
+    "src": "/assets/cases/leak-v71/jeonnam-gwangju-bathroom-waterproof-leak/04.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/jeonnam-gwangju-bathroom-waterproof-leak/index.html",
+    "src": "/assets/cases/leak-v71/jeonnam-gwangju-bathroom-waterproof-leak/05.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/naju-apartment-heating-leak/index.html",
+    "src": "/assets/cases/leak-v71/naju-apartment-heating-leak/01.webp",
+    "count": 3
+  },
+  {
+    "page": "cases/leak/naju-apartment-heating-leak/index.html",
+    "src": "/assets/cases/leak-v71/naju-apartment-heating-leak/02.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/naju-apartment-heating-leak/index.html",
+    "src": "/assets/cases/leak-v71/naju-apartment-heating-leak/04.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/naju-apartment-heating-leak/index.html",
+    "src": "/assets/cases/leak-v71/naju-apartment-heating-leak/05.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/naju-apartment-heating-leak/index.html",
+    "src": "/assets/cases/leak-v71/naju-apartment-heating-leak/06.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/sunchang-house-cold-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/sunchang-house-cold-water-leak/03.webp",
+    "count": 3
+  },
+  {
+    "page": "cases/leak/sunchang-house-cold-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/sunchang-house-cold-water-leak/01.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/sunchang-house-cold-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/sunchang-house-cold-water-leak/02.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/sunchang-house-cold-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/sunchang-house-cold-water-leak/04.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/sunchang-house-cold-water-leak/index.html",
+    "src": "/assets/cases/leak-v71/sunchang-house-cold-water-leak/05.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/yeongam-naju-house-heating-leak/index.html",
+    "src": "/assets/cases/leak-v71/yeongam-naju-house-heating-leak/01.webp",
+    "count": 3
+  },
+  {
+    "page": "cases/leak/yeongam-naju-house-heating-leak/index.html",
+    "src": "/assets/cases/leak-v71/yeongam-naju-house-heating-leak/02.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/yeongam-naju-house-heating-leak/index.html",
+    "src": "/assets/cases/leak-v71/yeongam-naju-house-heating-leak/03.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/yeongam-naju-house-heating-leak/index.html",
+    "src": "/assets/cases/leak-v71/yeongam-naju-house-heating-leak/04.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/leak/yeongam-naju-house-heating-leak/index.html",
+    "src": "/assets/cases/leak-v71/yeongam-naju-house-heating-leak/05.webp",
+    "count": 2
+  },
+  {
+    "page": "cases/suncheon-leak-detection/index.html",
+    "src": "/assets/cases/suncheon-leak-detection/01.webp",
+    "count": 2
+  },
+  {
+    "page": "index.html",
+    "src": "/assets/cases/boseong-drain-blockage/01.webp",
+    "count": 2
+  },
+  {
+    "page": "knowledge/patterns/apartment-heating-leak/index.html",
+    "src": "/assets/media/v82/leak-process/finish.webp",
+    "count": 2
+  }
+]
