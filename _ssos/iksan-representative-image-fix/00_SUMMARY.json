@@ -1,0 +1,15 @@
+{
+  "first_image": "/assets/brand-poster.png",
+  "kept_unique_work_photos": [
+    "/assets/cases/iksan-drain-blockage/01.webp",
+    "/assets/cases/iksan-drain-blockage/02.webp"
+  ],
+  "removed_near_duplicate_work_photos": [],
+  "final_figure_order": [
+    "/assets/brand-poster.png",
+    "/assets/cases/iksan-drain-blockage/01.webp",
+    "/assets/cases/iksan-drain-blockage/02.webp"
+  ],
+  "caption_rule": "익산 시공자료 N",
+  "og_image": "/assets/brand-poster.png"
+}
