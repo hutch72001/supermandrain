@@ -1,0 +1,50 @@
+Superman SEO V3 – SITE QUALITY FINAL V2.5 TECH SAFE FIX
+
+기준본: V2.4-P0-TRUST-CLEANUP
+목표: 검색 노출 텍스트/URL/Foundation을 보존한 상태에서 순수 기술 오류만 수정
+
+[수정]
+1) Open Graph 이미지 정책
+- 404 제외 실제 HTML 189페이지에 og:image 명시
+- 하수구 계열: og-drain-1200x630.webp
+- 누수 계열: og-leak-1200x630.webp
+- 혼합/일반 허브: og-default-1200x630.webp
+- og:image:width=1200 / og:image:height=630 / og:image:alt 추가
+- twitter:image도 동일 정책으로 통일
+- 기존 승인 Hero 1200x720 파일은 변경하지 않고 OG 전용 파일만 별도 생성
+
+2) 이미지 CLS 방지
+- width/height 누락 이미지 태그 76건에 실제 파일 자연 크기 기준 속성 보완
+
+3) Hero/LCP 우선순위
+- 각 페이지 <main>의 첫 이미지 전수검사
+- lazy 또는 fetchpriority 누락 11페이지를 loading=eager + fetchpriority=high로 교정
+
+4) 깨진 누수 이미지 경로
+- imports/leak-content/전남광주누수탐지2/ 실제 경로를 보완하여 9개 깨진 이미지 참조 해결
+
+5) Article Schema
+- cases/mokpo-drain-cleaning-2-2/는 noindex,follow 통합 안내 페이지임을 재확인
+- 일반 시공사례가 아니므로 Article Schema를 억지로 추가하지 않음
+
+[보존]
+- visible body text 변경 0페이지
+- <title> 변경 0페이지
+- H1 텍스트 변경 0페이지
+- URL/canonical 구조 변경 없음
+
+[최종 검증]
+- HTML: 190
+- canonical 누락: 0
+- canonical 비절대경로: 0
+- H1 개수 오류: 0
+- 잘못된 tel 링크: 0
+- JSON-LD 파싱 오류: 0
+- 실제 페이지 og:image 누락: 0
+- og:image 1200x630 메타 오류: 0
+- img width/height 누락: 0
+- 첫 main 이미지 eager/high 오류: 0
+- 깨진 로컬 이미지: 0
+- 사용자 노출 텍스트 변경: 0
+
+배포 버전: Superman SEO V3 SITE QUALITY FINAL V2.5-TECH-SAFE-FIX
