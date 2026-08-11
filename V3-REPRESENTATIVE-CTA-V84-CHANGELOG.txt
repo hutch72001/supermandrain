@@ -1,0 +1,7 @@
+Superman SEO V3 V84
+- All HTML og:image/twitter:image unified to /assets/brand-poster.png
+- Existing brand-youtube representative image references unified to /assets/brand-poster.png
+- Hero CTA redesigned: red phone button + yellow case button, larger touch targets, mobile full width
+- Region representative image ratio changed to 1:1 to prevent brand poster cropping
+- CSS cache version bumped ssos-v83 -> ssos-v84
+- Existing URL/canonical/title/description/content structure otherwise preserved

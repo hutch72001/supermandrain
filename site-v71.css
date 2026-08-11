@@ -686,3 +686,16 @@ url('/assets/hero-technician.jpg') right center/cover no-repeat;color:#fff}
 
 /* SITE-QUALITY-V2.3 REGION REPRESENTATIVE STANDALONE */
 .region-representative-section{padding:28px 0;background:#fff}.region-representative-wrap{max-width:760px;margin:0 auto;padding:0 20px}.region-representative-wrap figure{margin:0}.region-representative-wrap img{display:block;width:100%;height:auto;aspect-ratio:5/3;object-fit:contain;border-radius:18px;background:#fff}.region-representative-wrap figcaption{text-align:center;margin-top:10px;color:#526372;font-size:14px;font-weight:700}
+
+
+/* V3-CTA-V84 */
+.hero-buttons{margin-top:30px;gap:14px}
+.hero-buttons .btn{min-height:58px;padding:0 26px;border-radius:14px;text-decoration:none;font-size:18px;font-weight:1000;letter-spacing:-.02em;box-shadow:0 10px 24px rgba(0,0,0,.24);transition:transform .18s ease,box-shadow .18s ease,filter .18s ease;border:2px solid transparent}
+.hero-buttons .btn.primary{background:linear-gradient(135deg,#e51d2a,#b9000d);color:#fff!important;border-color:#ff6972}
+.hero-buttons .btn.primary:before{content:"☎";margin-right:9px;font-size:20px}
+.hero-buttons .btn.ghost{background:#ffd21c;color:#161616!important;border-color:#fff2a6}
+.hero-buttons .btn.ghost:before{content:"▶";margin-right:9px;font-size:16px}
+.hero-buttons .btn:hover,.hero-buttons .btn:focus-visible{transform:translateY(-2px);box-shadow:0 14px 30px rgba(0,0,0,.32);filter:brightness(1.04)}
+.hero-buttons .btn:focus-visible{outline:3px solid #fff;outline-offset:3px}
+.landing-hero-media img.region-representative{aspect-ratio:1/1;object-fit:contain;background:#ffd400}
+@media(max-width:560px){.hero-buttons{display:grid;grid-template-columns:1fr;gap:12px}.hero-buttons .btn{width:100%;min-height:60px;font-size:19px}.landing-hero-media img.region-representative{height:auto;max-height:none}}
