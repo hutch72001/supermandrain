@@ -1,0 +1,6 @@
+Superman SEO V3 V85
+Base: committed V84
+Change: major searchable landing pages now expose context-matched real case links.
+Drain: Gwangju Gwangsangu Hanam + Mokpo Yongdang
+Leak: Gwangju Seogu + Gwangju Gwangsangu
+SEO foundation / URLs / titles / descriptions unchanged.

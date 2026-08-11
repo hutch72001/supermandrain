@@ -1,0 +1,67 @@
+{
+  "equipment/index.html": {
+    "section": true,
+    "h1": true,
+    "canonical": true
+  },
+  "equipment/drain/index.html": {
+    "section": true,
+    "h1": true,
+    "canonical": true
+  },
+  "equipment/leak/index.html": {
+    "section": true,
+    "h1": true,
+    "canonical": true
+  },
+  "faq/index.html": {
+    "section": true,
+    "h1": true,
+    "canonical": true
+  },
+  "faq/drain/index.html": {
+    "section": true,
+    "h1": true,
+    "canonical": true
+  },
+  "faq/leak/index.html": {
+    "section": true,
+    "h1": true,
+    "canonical": true
+  },
+  "symptoms/index.html": {
+    "section": true,
+    "h1": true,
+    "canonical": true
+  },
+  "symptoms/drain/index.html": {
+    "section": true,
+    "h1": true,
+    "canonical": true
+  },
+  "symptoms/leak/index.html": {
+    "section": true,
+    "h1": true,
+    "canonical": true
+  },
+  "knowledge/index.html": {
+    "section": true,
+    "h1": true,
+    "canonical": true
+  },
+  "regions/index.html": {
+    "section": true,
+    "h1": true,
+    "canonical": true
+  },
+  "services/index.html": {
+    "section": true,
+    "h1": true,
+    "canonical": true
+  },
+  "services/leak/index.html": {
+    "section": true,
+    "h1": true,
+    "canonical": true
+  }
+}
