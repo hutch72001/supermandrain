@@ -1,0 +1,216 @@
+{
+  "case": "나주 빛가람동 상가 맨홀역류 및 배관 붕괴 복구",
+  "source_note": "사용자 직접 작성 사진번호별 설명",
+  "excluded": [
+    {
+      "photo_no": 0,
+      "reason": "메모 설명 없음"
+    },
+    {
+      "photo_no": 8,
+      "reason": "사용자 메모상 중복사진 삭제"
+    }
+  ],
+  "photos": [
+    {
+      "photo_no": 1,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/01.webp",
+      "original_description": "맨홀역류 현장사진",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 2,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/02.webp",
+      "original_description": "내시경검사중",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 3,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/03.webp",
+      "original_description": "내시경장비와 차량내 장착된 고압세척장비 사진",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 4,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/04.webp",
+      "original_description": "고압세척장비 집어넣기 직전모습",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 5,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/05.webp",
+      "original_description": "고압세척 실시 모습",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 6,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/06.webp",
+      "original_description": "고압세척후 시계가 확보된 배관내부 모습. 배관에 손상이 됐거나 실수로 부어진 시멘트로 보임.",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 7,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/07.webp",
+      "original_description": "내시경 두번째 컷.",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 9,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/09.webp",
+      "original_description": "배관관로탐지기, 위치탐지기를 통해 문제가 있는 지점 찾는모습",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 10,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/10.webp",
+      "original_description": "공사로 전환. 다음날 포크레인 불러 굴착하는 모습",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 11,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/11.webp",
+      "original_description": "굴착해본 땅속 모습. 배관이 아예 주저앉아 돌이 자리잡고 있었던 거임. 위에 보이는 얇은관은 수도배관",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 12,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/12.webp",
+      "original_description": "굴착된 땅속 정리. 포크레인으로 안되는 지점 직접 정리",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 13,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/13.webp",
+      "original_description": "굴착된 땅속 정리. 포크레인으로 안되는 지점 직접 정리",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 14,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/14.webp",
+      "original_description": "고압세척으로 배관내부 돌·각종 물질 제거",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 15,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/15.webp",
+      "original_description": "고압세척하는 사진1",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 16,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/16.webp",
+      "original_description": "고압세척하는 사진2",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 17,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/17.webp",
+      "original_description": "내부에 들어가 내시경 검사",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 18,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/18.webp",
+      "original_description": "내시경모습 배관에 가득찬 기름이 보임.",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 19,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/19.webp",
+      "original_description": "무너진 배관을 연결하기 위해 끼울 배관을 만드는 모습",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 20,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/20.webp",
+      "original_description": "새로 만든 배관을 구 배관에 결합하는 모습",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 21,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/21.webp",
+      "original_description": "사이즈가 맞도록 배관 재정비하는 모습(배관 재단하는중)",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 22,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/22.webp",
+      "original_description": "재단된 배관을 끼우고 배관이 다시 무너지지 않도록 다지고 주변 돌로 고정하는 모습",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 23,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/23.webp",
+      "original_description": "땅을 채우고 마무리. 주변정리",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 24,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/24.webp",
+      "original_description": "고압세척차량 모습",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 25,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/25.webp",
+      "original_description": "고압세척장비 가까운 샷",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    },
+    {
+      "photo_no": 26,
+      "file": "/assets/cases/naju-bitgaram-manhole-pipe-collapse-repair/26.webp",
+      "original_description": "고압세척차량 좌측모습",
+      "actual_location": "나주 빛가람동",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역 실제 시공사례로 표기하지 않음."
+    }
+  ]
+}
