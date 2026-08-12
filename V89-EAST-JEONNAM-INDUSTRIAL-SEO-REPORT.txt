@@ -1,0 +1,18 @@
+Superman SEO V89 - 여수·순천·광양 산업시설 배관청소 클러스터
+
+기준: V88
+수정 대상:
+- regions/jeonnam/yeosu/drain/index.html
+- regions/jeonnam/suncheon/drain/index.html
+- regions/jeonnam/gwangyang/drain/index.html
+
+적용:
+1. 공장·상가·사업장 횡주관/공용 오수관/메인배관 검색 의도 보강
+2. 하수구막힘·횡주관막힘·배수구막힘·맨홀역류·오수관막힘·배관청소·고압세척 문맥 연결
+3. 여수 율촌면 실제 작업사진 3장 재활용
+4. 순천·광양에서는 '여수 율촌면 실제 작업자료'임을 명시해 허위 지역사례 방지
+5. 여수 실제 공장 사례 CTA + 지역별 전화상담 CTA
+6. 여수·순천·광양 상호 내부링크
+7. 순천 페이지에 남아 있던 '광주동구' 잘못된 지역 블록 제거
+8. 기존 H1/canonical/URL/Foundation 유지
+9. 전체 로컬 href/src 검사: 0 broken
