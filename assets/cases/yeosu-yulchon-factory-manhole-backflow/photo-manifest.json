@@ -1,0 +1,302 @@
+{
+  "case": "여수 율촌면 공장 반복 하수구막힘·배수구역류·맨홀역류",
+  "source_note": "사용자 직접 작성 사진번호별 설명 및 기존 블로그 원고",
+  "source_usage": "사진과 원고는 블로그에 한 차례 사용된 자료. 홈페이지에서는 새 구조와 문장으로 재작성하고 이미지는 웹 최적화함.",
+  "actual_location": "여수시 율촌면 공장",
+  "photos": [
+    {
+      "photo_no": "1",
+      "file": "/assets/cases/yeosu-yulchon-factory-manhole-backflow/01.webp",
+      "original_description": "배수가 되지 않아 오수가 가득 찬 맨홀 모습",
+      "actual_location": "여수시 율촌면 공장",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "stage": "증상확인",
+      "tags": [
+        "여수하수구막힘",
+        "공장하수구",
+        "배수구역류",
+        "맨홀역류",
+        "오수관",
+        "증상확인"
+      ],
+      "blog_previously_used": true,
+      "web_processing": "WebP 변환, 최대폭 1600px, 메타데이터 제거, 품질 최적화",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역의 실제 시공사례로 표기하지 않음.",
+      "width": 1200,
+      "height": 857
+    },
+    {
+      "photo_no": "2",
+      "file": "/assets/cases/yeosu-yulchon-factory-manhole-backflow/02.webp",
+      "original_description": "맨홀과 주변 작업 차량 모습",
+      "actual_location": "여수시 율촌면 공장",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "stage": "증상확인",
+      "tags": [
+        "여수하수구막힘",
+        "공장하수구",
+        "배수구역류",
+        "맨홀역류",
+        "오수관",
+        "증상확인"
+      ],
+      "blog_previously_used": true,
+      "web_processing": "WebP 변환, 최대폭 1600px, 메타데이터 제거, 품질 최적화",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역의 실제 시공사례로 표기하지 않음.",
+      "width": 714,
+      "height": 1000
+    },
+    {
+      "photo_no": "2-1",
+      "file": "/assets/cases/yeosu-yulchon-factory-manhole-backflow/03.webp",
+      "original_description": "관로탐지로 원인이 되는 맨홀과 문제 지점을 탐색하는 모습",
+      "actual_location": "여수시 율촌면 공장",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "stage": "관로탐지",
+      "tags": [
+        "여수하수구막힘",
+        "공장하수구",
+        "배수구역류",
+        "맨홀역류",
+        "오수관",
+        "관로탐지"
+      ],
+      "blog_previously_used": true,
+      "web_processing": "WebP 변환, 최대폭 1600px, 메타데이터 제거, 품질 최적화",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역의 실제 시공사례로 표기하지 않음.",
+      "width": 1200,
+      "height": 857
+    },
+    {
+      "photo_no": "3",
+      "file": "/assets/cases/yeosu-yulchon-factory-manhole-backflow/04.webp",
+      "original_description": "작업 차량과 함께 고압세척을 진행하는 모습",
+      "actual_location": "여수시 율촌면 공장",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "stage": "고압세척",
+      "tags": [
+        "여수하수구막힘",
+        "공장하수구",
+        "배수구역류",
+        "맨홀역류",
+        "오수관",
+        "고압세척"
+      ],
+      "blog_previously_used": true,
+      "web_processing": "WebP 변환, 최대폭 1600px, 메타데이터 제거, 품질 최적화",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역의 실제 시공사례로 표기하지 않음.",
+      "width": 1200,
+      "height": 857
+    },
+    {
+      "photo_no": "4",
+      "file": "/assets/cases/yeosu-yulchon-factory-manhole-backflow/05.webp",
+      "original_description": "고압세척 노즐이 맨홀 안에서 물을 분사하는 장면",
+      "actual_location": "여수시 율촌면 공장",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "stage": "고압세척",
+      "tags": [
+        "여수하수구막힘",
+        "공장하수구",
+        "배수구역류",
+        "맨홀역류",
+        "오수관",
+        "고압세척"
+      ],
+      "blog_previously_used": true,
+      "web_processing": "WebP 변환, 최대폭 1600px, 메타데이터 제거, 품질 최적화",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역의 실제 시공사례로 표기하지 않음.",
+      "width": 1200,
+      "height": 857
+    },
+    {
+      "photo_no": "5",
+      "file": "/assets/cases/yeosu-yulchon-factory-manhole-backflow/06.webp",
+      "original_description": "맨홀 내부에 쌓인 각종 물티슈와 유분 덩어리 모습",
+      "actual_location": "여수시 율촌면 공장",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "stage": "막힘원인",
+      "tags": [
+        "여수하수구막힘",
+        "공장하수구",
+        "배수구역류",
+        "맨홀역류",
+        "오수관",
+        "막힘원인"
+      ],
+      "blog_previously_used": true,
+      "web_processing": "WebP 변환, 최대폭 1600px, 메타데이터 제거, 품질 최적화",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역의 실제 시공사례로 표기하지 않음.",
+      "width": 1200,
+      "height": 857
+    },
+    {
+      "photo_no": "6",
+      "file": "/assets/cases/yeosu-yulchon-factory-manhole-backflow/07.webp",
+      "original_description": "고압세척으로 끌어낸 물티슈 덩어리",
+      "actual_location": "여수시 율촌면 공장",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "stage": "고압세척",
+      "tags": [
+        "여수하수구막힘",
+        "공장하수구",
+        "배수구역류",
+        "맨홀역류",
+        "오수관",
+        "고압세척"
+      ],
+      "blog_previously_used": true,
+      "web_processing": "WebP 변환, 최대폭 1600px, 메타데이터 제거, 품질 최적화",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역의 실제 시공사례로 표기하지 않음.",
+      "width": 1200,
+      "height": 857
+    },
+    {
+      "photo_no": "7",
+      "file": "/assets/cases/yeosu-yulchon-factory-manhole-backflow/08.webp",
+      "original_description": "고압세척으로 끌어낸 많은 양의 막힘 원인 물티슈",
+      "actual_location": "여수시 율촌면 공장",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "stage": "고압세척",
+      "tags": [
+        "여수하수구막힘",
+        "공장하수구",
+        "배수구역류",
+        "맨홀역류",
+        "오수관",
+        "고압세척"
+      ],
+      "blog_previously_used": true,
+      "web_processing": "WebP 변환, 최대폭 1600px, 메타데이터 제거, 품질 최적화",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역의 실제 시공사례로 표기하지 않음.",
+      "width": 1200,
+      "height": 857
+    },
+    {
+      "photo_no": "8",
+      "file": "/assets/cases/yeosu-yulchon-factory-manhole-backflow/09.webp",
+      "original_description": "꺼내놓은 많은 양의 물티슈·유분 덩어리 옆에서 고압세척하는 모습",
+      "actual_location": "여수시 율촌면 공장",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "stage": "고압세척",
+      "tags": [
+        "여수하수구막힘",
+        "공장하수구",
+        "배수구역류",
+        "맨홀역류",
+        "오수관",
+        "고압세척"
+      ],
+      "blog_previously_used": true,
+      "web_processing": "WebP 변환, 최대폭 1600px, 메타데이터 제거, 품질 최적화",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역의 실제 시공사례로 표기하지 않음.",
+      "width": 1200,
+      "height": 857
+    },
+    {
+      "photo_no": "9",
+      "file": "/assets/cases/yeosu-yulchon-factory-manhole-backflow/10.webp",
+      "original_description": "고압세척 후 맨홀 내부의 물이 빠지는 모습",
+      "actual_location": "여수시 율촌면 공장",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "stage": "배수확인",
+      "tags": [
+        "여수하수구막힘",
+        "공장하수구",
+        "배수구역류",
+        "맨홀역류",
+        "오수관",
+        "배수확인"
+      ],
+      "blog_previously_used": true,
+      "web_processing": "WebP 변환, 최대폭 1600px, 메타데이터 제거, 품질 최적화",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역의 실제 시공사례로 표기하지 않음.",
+      "width": 1200,
+      "height": 857
+    },
+    {
+      "photo_no": "10",
+      "file": "/assets/cases/yeosu-yulchon-factory-manhole-backflow/11.webp",
+      "original_description": "맨홀 바닥이 드러나 배수가 잘되는 상태에서 고압세척을 이어가는 모습",
+      "actual_location": "여수시 율촌면 공장",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "stage": "고압세척",
+      "tags": [
+        "여수하수구막힘",
+        "공장하수구",
+        "배수구역류",
+        "맨홀역류",
+        "오수관",
+        "고압세척"
+      ],
+      "blog_previously_used": true,
+      "web_processing": "WebP 변환, 최대폭 1600px, 메타데이터 제거, 품질 최적화",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역의 실제 시공사례로 표기하지 않음.",
+      "width": 714,
+      "height": 1000
+    },
+    {
+      "photo_no": "11",
+      "file": "/assets/cases/yeosu-yulchon-factory-manhole-backflow/12.webp",
+      "original_description": "맨홀에서 배관내시경으로 내부를 점검하는 모습",
+      "actual_location": "여수시 율촌면 공장",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "stage": "배관내시경",
+      "tags": [
+        "여수하수구막힘",
+        "공장하수구",
+        "배수구역류",
+        "맨홀역류",
+        "오수관",
+        "배관내시경"
+      ],
+      "blog_previously_used": true,
+      "web_processing": "WebP 변환, 최대폭 1600px, 메타데이터 제거, 품질 최적화",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역의 실제 시공사례로 표기하지 않음.",
+      "width": 1200,
+      "height": 857
+    },
+    {
+      "photo_no": "12",
+      "file": "/assets/cases/yeosu-yulchon-factory-manhole-backflow/13.webp",
+      "original_description": "배관내시경으로 확인한 세척 후 깨끗해진 배관 내부",
+      "actual_location": "여수시 율촌면 공장",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "stage": "배관내시경",
+      "tags": [
+        "여수하수구막힘",
+        "공장하수구",
+        "배수구역류",
+        "맨홀역류",
+        "오수관",
+        "배관내시경"
+      ],
+      "blog_previously_used": true,
+      "web_processing": "WebP 변환, 최대폭 1600px, 메타데이터 제거, 품질 최적화",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역의 실제 시공사례로 표기하지 않음.",
+      "width": 1200,
+      "height": 857
+    },
+    {
+      "photo_no": "13",
+      "file": "/assets/cases/yeosu-yulchon-factory-manhole-backflow/14.webp",
+      "original_description": "배관내시경으로 확인한 세척 후 깨끗해진 배관 내부 두 번째 사진",
+      "actual_location": "여수시 율촌면 공장",
+      "case_type": "하수구/배수구/맨홀/오수관",
+      "stage": "배관내시경",
+      "tags": [
+        "여수하수구막힘",
+        "공장하수구",
+        "배수구역류",
+        "맨홀역류",
+        "오수관",
+        "배관내시경"
+      ],
+      "blog_previously_used": true,
+      "web_processing": "WebP 변환, 최대폭 1600px, 메타데이터 제거, 품질 최적화",
+      "reuse_rule": "다른 페이지에서는 사진에서 확인되는 작업·장비·상태 설명용으로 재사용. 다른 지역의 실제 시공사례로 표기하지 않음.",
+      "width": 1200,
+      "height": 857
+    }
+  ]
+}
