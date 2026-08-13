@@ -1,0 +1,13 @@
+Superman SEO V94 - Jeongeup Genuine Leak Case
+Base: V93R
+
+- Added genuine Jeongeup 2-story house heating-pipe/heating-manifold leak case.
+- Yellow /assets/brand-poster.png remains the representative/OG image.
+- 17 supplied field photos converted to clean WebP without crop/flip/brightness manipulation.
+- Photo descriptions follow the supplied filenames and guide; template residue '장성누수탐지' was not used.
+- Softened unsupported/overbroad claims: phone consultation narrows possibilities; field testing confirms.
+- Reframed '부실공사' as observed fact: heating manifold was found embedded inside the wall.
+- Linked Jeongeup leak landing page -> genuine Jeongeup case.
+- Linked leak case hub -> genuine Jeongeup case.
+- Added genuine case URL to sitemap.
+- Existing URLs/Foundation/canonical structure retained.
