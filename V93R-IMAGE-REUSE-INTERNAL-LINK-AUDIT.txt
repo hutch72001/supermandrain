@@ -1,0 +1,12 @@
+Superman SEO V93R - Image Reuse & Internal Link Audit
+기준: V93 LEAK SEARCH STRENGTHENING
+
+- 기존 URL/폴더 구조/Foundation/canonical 유지
+- 남원 실제 시공사례는 남원 사례로 유지
+- 타지역 재활용 사진은 중립 경로 /assets/process/leak-detection/ 로 분리
+- 타지역 ALT/캡션에 허위 지역명 삽입 금지
+- 동일 사진 4장 반복을 줄이기 위해 3개 사진세트 순환
+- 각 보강 페이지에서 누수 서비스 / 누수 사례 허브 / 실제 남원 사례 내부링크 연결
+- 이미지 핑거프린트 회피 목적의 크롭·반전·밝기 조정은 적용하지 않음
+- 공유 WebP는 EXIF 없는 상태로 사용
+- 수정 대상: 전남 지역페이지 전체 + 전북 고창/정읍 누수페이지 = 24개

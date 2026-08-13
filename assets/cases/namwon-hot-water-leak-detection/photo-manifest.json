@@ -1,0 +1,121 @@
+{
+  "case": "남원 온수배관 누수탐지 및 배관 교체",
+  "actual_location": "남원",
+  "source_note": "사용자 제공 사진설명 및 상황설명 기준. 다른 지역에서는 남원 현장이라고 단정하지 않고 누수탐지 작업 과정 자료로만 사용.",
+  "workflow": {
+    "pressure_test": [
+      1,
+      2,
+      9
+    ],
+    "gas_detection": [
+      3,
+      6,
+      7
+    ],
+    "thermal": [
+      4,
+      5
+    ],
+    "acoustic": [
+      8,
+      9
+    ],
+    "excavation": [
+      10
+    ],
+    "leak_confirmation": [
+      11
+    ],
+    "pipe_repair": [
+      12,
+      13
+    ],
+    "restoration": [
+      14,
+      15
+    ]
+  },
+  "photos": [
+    {
+      "photo_no": 0,
+      "file": "/assets/cases/namwon-hot-water-leak-detection/00.webp",
+      "description": "대표사진"
+    },
+    {
+      "photo_no": 1,
+      "file": "/assets/cases/namwon-hot-water-leak-detection/01.webp",
+      "description": "압력검사하는 모습"
+    },
+    {
+      "photo_no": 2,
+      "file": "/assets/cases/namwon-hot-water-leak-detection/02.webp",
+      "description": "압력검사하는 모습"
+    },
+    {
+      "photo_no": 3,
+      "file": "/assets/cases/namwon-hot-water-leak-detection/03.webp",
+      "description": "가스탐지기 연결하는 모습"
+    },
+    {
+      "photo_no": 4,
+      "file": "/assets/cases/namwon-hot-water-leak-detection/04.webp",
+      "description": "화장실을 열화상탐지하는 모습"
+    },
+    {
+      "photo_no": 5,
+      "file": "/assets/cases/namwon-hot-water-leak-detection/05.webp",
+      "description": "침실을 열화상탐지하는 모습"
+    },
+    {
+      "photo_no": 6,
+      "file": "/assets/cases/namwon-hot-water-leak-detection/06.webp",
+      "description": "보일러실 가스탐지하는 모습"
+    },
+    {
+      "photo_no": 7,
+      "file": "/assets/cases/namwon-hot-water-leak-detection/07.webp",
+      "description": "보일러실 바닥 가스탐지하는 모습"
+    },
+    {
+      "photo_no": 8,
+      "file": "/assets/cases/namwon-hot-water-leak-detection/08.webp",
+      "description": "세탁실·보일러실 청음탐지하는 모습"
+    },
+    {
+      "photo_no": 9,
+      "file": "/assets/cases/namwon-hot-water-leak-detection/09.webp",
+      "description": "보일러실 압력검사와 청음탐지를 함께 하는 모습"
+    },
+    {
+      "photo_no": 10,
+      "file": "/assets/cases/namwon-hot-water-leak-detection/10.webp",
+      "description": "탐지 성공 후 보일러실을 굴설하는 모습"
+    },
+    {
+      "photo_no": 11,
+      "file": "/assets/cases/namwon-hot-water-leak-detection/11.webp",
+      "description": "비눗물 거품으로 온수배관 누수를 확인하는 모습"
+    },
+    {
+      "photo_no": 12,
+      "file": "/assets/cases/namwon-hot-water-leak-detection/12.webp",
+      "description": "누수배관을 새 배관으로 교체하는 모습"
+    },
+    {
+      "photo_no": 13,
+      "file": "/assets/cases/namwon-hot-water-leak-detection/13.webp",
+      "description": "교체 완료된 배관 모습"
+    },
+    {
+      "photo_no": 14,
+      "file": "/assets/cases/namwon-hot-water-leak-detection/14.webp",
+      "description": "굴설 지점 몰탈 및 타일 복구 작업 모습"
+    },
+    {
+      "photo_no": 15,
+      "file": "/assets/cases/namwon-hot-water-leak-detection/15.webp",
+      "description": "복원 완료된 보일러실 타일 바닥 모습"
+    }
+  ]
+}

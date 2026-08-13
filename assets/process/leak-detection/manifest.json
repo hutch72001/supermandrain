@@ -1,0 +1,23 @@
+{
+  "version": "V93R",
+  "source_case": "/cases/namwon-hot-water-leak-detection/",
+  "usage_rule": "남원 실제 누수 현장의 사진을 타지역에서는 누수탐지 작업 과정 설명용으로만 사용하며 해당 지역 실제 사례라고 표시하지 않는다.",
+  "alt_rule": "ALT에는 사진에 실제 보이는 작업만 설명하며 타겟 지역명은 넣지 않는다.",
+  "image_processing": "검색엔진 회피 목적의 미세 크롭·반전·밝기조절은 하지 않는다. 공유 WebP는 EXIF 없는 상태로 사용한다.",
+  "files": [
+    "pressure-test.webp",
+    "tracer-gas-setup.webp",
+    "thermal-camera-bathroom.webp",
+    "thermal-camera-bedroom.webp",
+    "tracer-gas-boiler-room.webp",
+    "tracer-gas-floor-check.webp",
+    "acoustic-leak-detection.webp",
+    "pressure-acoustic-crosscheck.webp",
+    "targeted-floor-opening.webp",
+    "hot-water-pipe-leak-confirmation.webp",
+    "pipe-repair-in-progress.webp",
+    "pipe-repair-complete.webp",
+    "mortar-tile-restoration.webp",
+    "floor-restoration-complete.webp"
+  ]
+}
