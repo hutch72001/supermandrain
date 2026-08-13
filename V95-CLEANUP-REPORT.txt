@@ -1,0 +1,12 @@
+Superman SEO V95-CLEANUP
+Base: V94-JEONGEUP-GENUINE-LEAK-CASE
+Date: 2026-08-13
+
+Changes
+- Cleaned one legacy Gwangju-Seogu template sentence from the genuine Namwon leak case.
+- Replaced four incorrect Gwangju-Seogu ALT/captions in the Namwon case with neutral, photo-accurate work-process descriptions.
+- Did not change or remove any historical cases that combine two regional names. Those remain pending review.
+- No URL changes.
+- No canonical/Foundation/JSON-LD structure changes intended.
+- Yellow unified representative image rule preserved.
+- Jeongeup V94 genuine leak case preserved.
