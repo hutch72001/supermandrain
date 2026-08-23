@@ -752,3 +752,11 @@ url('/assets/hero-technician.jpg') right center/cover no-repeat;color:#fff}
  .v102-symptom-grid{grid-template-columns:1fr}
  .v102-symptom-card img{max-height:250px;object-fit:contain}
 }
+
+
+/* V103 REPRESENTATIVE + DRAIN EQUIPMENT EVIDENCE */
+.v103-symptom-brand-poster{margin:14px 0 18px}
+.v103-symptom-brand-poster img{display:block;width:100%;height:auto;max-height:none;object-fit:contain;border-radius:14px}
+@media(max-width:720px){
+ .v103-symptom-brand-poster img{width:100%;height:auto;max-height:none;object-fit:contain}
+}
