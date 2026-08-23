@@ -711,3 +711,44 @@ url('/assets/hero-technician.jpg') right center/cover no-repeat;color:#fff}
 .v99-gwangju-field-media img{display:block;width:100%;height:auto;max-height:420px;object-fit:contain}
 .v99-gwangju-field-media figcaption{padding:12px 14px;line-height:1.5}
 @media(max-width:720px){.v97-entry-process .case-grid,.v96-process-section .case-grid,.v99-gwangju-field-media .case-grid{grid-template-columns:1fr}.v97-entry-process .case-card img,.v96-process-section .case-card img{max-height:260px;aspect-ratio:16/10}.v99-gwangju-field-media img{max-height:260px}}
+
+
+/* V100 PROCESS BRAND + MOBILE IMAGE NORMALIZATION */
+.process-brand-poster{margin:20px auto 26px;max-width:920px}
+.process-brand-poster img{display:block;width:100%;height:auto!important;max-height:none!important;aspect-ratio:1200/630!important;object-fit:contain!important;border-radius:18px;background:#ffd400}
+.v93-leak-strengthening .case-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.v93-leak-strengthening .case-card{margin:0;overflow:hidden;border:1px solid #e5e7eb;border-radius:18px;background:#fff}
+.v93-leak-strengthening .case-card img{display:block;width:100%;height:auto!important;aspect-ratio:16/10;object-fit:contain;max-height:420px;background:#f8fafc}
+.v93-leak-strengthening .case-card figcaption{padding:14px 16px;line-height:1.55}
+@media(max-width:720px){
+  .process-brand-poster{margin:16px auto 22px}
+  .process-brand-poster img{width:100%;height:auto!important;max-height:none!important}
+  .v97-entry-process .case-card img,.v96-process-section .case-card img,.v93-leak-strengthening .case-card img{width:100%;height:auto!important;max-height:260px!important;aspect-ratio:16/10;object-fit:contain!important}
+  .v93-leak-strengthening .case-grid{grid-template-columns:1fr}
+}
+
+/* V101 KNOWLEDGE FAQ VISUAL */
+.v101-search-entry-visual{padding:54px 0;background:#fff}
+.v101-search-entry-visual.leak{background:#f8fafc}
+.v101-search-entry-visual .case-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin-top:22px}
+.v101-search-entry-visual .case-card{margin:0;overflow:hidden;border:1px solid #e5e7eb;border-radius:18px;background:#fff}
+.v101-search-entry-visual .case-card img{display:block;width:100%;height:auto;aspect-ratio:16/10;object-fit:contain;max-height:380px;background:#f8fafc}
+.v101-search-entry-visual .case-card figcaption{padding:14px 16px;line-height:1.55}
+.v101-search-entry-visual .v101-visual-note{margin-top:20px}
+@media(max-width:720px){.v101-search-entry-visual{padding:38px 0}.v101-search-entry-visual .case-grid{grid-template-columns:1fr}.v101-search-entry-visual .case-card img{max-height:260px}}
+
+
+/* V102 REGIONAL DETAILED-SYMPTOM VISUALS */
+.v102-symptom-visuals{margin:28px 0 10px;padding:22px;border:1px solid #e5e7eb;border-radius:20px;background:#fff}
+.v102-symptom-visuals h3{margin:0 0 10px;font-size:1.35rem;line-height:1.35}
+.v102-symptom-visuals>p{margin:0 0 10px;line-height:1.65}
+.v102-photo-note{font-size:.94rem;color:#64748b}
+.v102-symptom-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:18px}
+.v102-symptom-card{margin:0;overflow:hidden;border:1px solid #e5e7eb;border-radius:16px;background:#fff}
+.v102-symptom-card img{display:block;width:100%;height:auto;aspect-ratio:16/10;object-fit:contain;max-height:360px;background:#f8fafc}
+.v102-symptom-card figcaption{padding:12px 14px;line-height:1.55}
+@media(max-width:720px){
+ .v102-symptom-visuals{padding:16px}
+ .v102-symptom-grid{grid-template-columns:1fr}
+ .v102-symptom-card img{max-height:250px;object-fit:contain}
+}

@@ -1,0 +1,10 @@
+V101 KNOWLEDGE + FAQ VISUAL COMPLETION
+기준: V100
+- 7개 주요 진입 섹션 재검토 결과 지식 허브와 FAQ 계열만 실제 작업 이미지 흐름이 부족함을 확인
+- knowledge/index.html: 하수구 4장 + 누수 4장 실제 작업자료 추가
+- faq/index.html: 하수구 4장 + 누수 4장 실제 작업자료 추가
+- faq/drain/index.html: 내시경 전/원인/고압세척/최종 내시경 4장 추가
+- faq/leak/index.html: 압력/열화상/청음/배관보수 4장 추가
+- 기존 FAQ 질문 100개 및 FAQPage JSON-LD 유지
+- 기존 URL/H1/canonical 변경 없음
+- 타지역 허위 ALT 없음
