@@ -1,0 +1,54 @@
+{
+  "version": "Superman-Seo-V3-V99-FIELD-CASES-GWANGJU-CTR",
+  "date": "2026-08-23",
+  "base": "V98-TEMPLATE-CLEANUP-WINDOWS-FIX",
+  "new_real_drain_cases": [
+    "고창 부안면 커피숍",
+    "광양 광영동 커피숍",
+    "구례 광의면 커피숍",
+    "남원 고죽동 정육공장",
+    "순창 적성면 식당",
+    "여수 율촌면 공장식당",
+    "화순 춘양면 식당"
+  ],
+  "gwangju_5gu": {
+    "pages": [
+      "광주북구",
+      "광주동구",
+      "광주서구",
+      "광주남구",
+      "광주광산구"
+    ],
+    "changes": [
+      "현재 노란 슈퍼맨하수구누수 대표이미지를 지역별 검색 대표 후보로 지정",
+      "og:image / twitter:image / image_src 대표 신호 통일",
+      "각 페이지에 해당 지역 실제 사례 사진 6장과 설명 보강",
+      "광산구 구형 유튜브 대표이미지를 새 통일 대표이미지로 교체"
+    ]
+  },
+  "mobile": [
+    "하수구/누수 PROCESS 사진이 휴대폰 화면을 과도하게 차지하지 않도록 공통 표시 크기 제한",
+    "사진 비율 왜곡 없이 object-fit contain 적용"
+  ],
+  "cleanup": [
+    "미완성 템플릿 문구 0건 확인",
+    "지역 오표기/허위 ALT 삽입 없음"
+  ],
+  "audit": {
+    "html": 205,
+    "h1_errors": 0,
+    "canonical_errors": 0,
+    "broken_internal_links": 0,
+    "broken_images": 0,
+    "jsonld_errors": 0,
+    "missing_alt": 0,
+    "existing_h1_changes": 0,
+    "existing_canonical_changes": 0
+  },
+  "principles": [
+    "신규 사례 대표사진은 /assets/brand-poster.png 사용",
+    "블로그 예약 원고를 그대로 복제하지 않고 홈페이지용 설명으로 재구성",
+    "사진 파일명/가이드 설명을 실제 단계 근거로 사용",
+    "다른 지역 사진을 해당 지역 실제 사례로 허위 표시하지 않음"
+  ]
+}

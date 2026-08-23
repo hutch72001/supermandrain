@@ -699,3 +699,15 @@ url('/assets/hero-technician.jpg') right center/cover no-repeat;color:#fff}
 .hero-buttons .btn:focus-visible{outline:3px solid #fff;outline-offset:3px}
 .landing-hero-media img.region-representative{aspect-ratio:1/1;object-fit:contain;background:#ffd400}
 @media(max-width:560px){.hero-buttons{display:grid;grid-template-columns:1fr;gap:12px}.hero-buttons .btn{width:100%;min-height:60px;font-size:19px}.landing-hero-media img.region-representative{height:auto;max-height:none}}
+
+
+/* V99 PROCESS IMAGE NORMALIZATION */
+.v97-entry-process .case-grid,.v96-process-section .case-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.v97-entry-process .case-card,.v96-process-section .case-card{margin:0;overflow:hidden;border:1px solid #e5e7eb;border-radius:18px;background:#fff}
+.v97-entry-process .case-card img,.v96-process-section .case-card img{display:block;width:100%;height:auto;aspect-ratio:16/10;object-fit:contain;max-height:420px}
+.v97-entry-process .case-card figcaption,.v96-process-section .case-card figcaption{padding:14px 16px;line-height:1.55}
+.v99-gwangju-field-media .case-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.v99-gwangju-field-media figure{margin:0;overflow:hidden;border-radius:18px;border:1px solid #e5e7eb;background:#fff}
+.v99-gwangju-field-media img{display:block;width:100%;height:auto;max-height:420px;object-fit:contain}
+.v99-gwangju-field-media figcaption{padding:12px 14px;line-height:1.5}
+@media(max-width:720px){.v97-entry-process .case-grid,.v96-process-section .case-grid,.v99-gwangju-field-media .case-grid{grid-template-columns:1fr}.v97-entry-process .case-card img,.v96-process-section .case-card img{max-height:260px;aspect-ratio:16/10}.v99-gwangju-field-media img{max-height:260px}}
