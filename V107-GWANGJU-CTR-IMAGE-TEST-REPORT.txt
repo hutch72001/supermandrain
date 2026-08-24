@@ -1,0 +1,15 @@
+Superman SEO V3 V107 - Gwangju CTR Image Test
+광주 5개구 drain/leak 총 10개 페이지에 노란 대표사진 바로 아래 CTR 후보 이미지 1장 삽입.
+H1/canonical/URL/기존 대표사진 변경 없음.
+이미지 원본 1254x1254, 중앙 핵심문구/전화번호 배치.
+
+gwangju-bukgu-drain-ctr.png
+gwangju-bukgu-leak-ctr.png
+gwangju-seogu-drain-ctr.png
+gwangju-seogu-leak-ctr.png
+gwangju-namgu-drain-ctr.png
+gwangju-namgu-leak-ctr.png
+gwangju-donggu-drain-ctr.png
+gwangju-donggu-leak-ctr.png
+gwangju-gwangsangu-drain-ctr.png
+gwangju-gwangsangu-leak-ctr.png
