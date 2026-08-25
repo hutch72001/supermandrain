@@ -1,0 +1,34 @@
+{
+  "html_total": 219,
+  "h1_errors": 0,
+  "canonical_errors": 0,
+  "jsonld_errors": 0,
+  "image_path_errors": 0,
+  "alt_missing": 0,
+  "internal_link_errors": 0,
+  "h1_changes_vs_v109": 0,
+  "canonical_changes_vs_v109": 0,
+  "cluster_crosslink_counts": {
+    "/regions/jeonnam/hwasun/leak/": 10,
+    "/regions/jeonnam/damyang/leak/": 10,
+    "/regions/jeonnam/yeosu/leak/": 10,
+    "/regions/jeonnam/suncheon/leak/": 10,
+    "/regions/jeonnam/gwangyang/leak/": 10,
+    "/regions/jeonbuk/namwon/leak/": 10,
+    "/regions/jeonnam/gurye/leak/": 10,
+    "/regions/jeonnam/naju/leak/": 10,
+    "/regions/jeonnam/jangseong/leak/": 10,
+    "/regions/jeonbuk/jeongeup/leak/": 10,
+    "/regions/jeonbuk/gochang/leak/": 10
+  },
+  "details": {
+    "h1": [],
+    "canonical": [],
+    "jsonld": [],
+    "img_path": [],
+    "alt": [],
+    "internal": []
+  },
+  "h1_changed_files": [],
+  "canonical_changed_files": []
+}
