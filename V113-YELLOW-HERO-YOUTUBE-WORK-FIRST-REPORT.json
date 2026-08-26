@@ -1,0 +1,26 @@
+{
+  "version": "V113",
+  "changed_html": 19,
+  "files": [
+    "regions/gwangju/gwangju-bukgu/pipe/index.html",
+    "regions/gwangju/gwangju-seogu/pipe/index.html",
+    "regions/gwangju/gwangju-namgu/pipe/index.html",
+    "regions/gwangju/gwangju-donggu/pipe/index.html",
+    "regions/gwangju/gwangju-gwangsangu/pipe/index.html",
+    "regions/gwangju/gwangju-bukgu/drain/index.html",
+    "regions/gwangju/gwangju-bukgu/leak/index.html",
+    "regions/gwangju/gwangju-seogu/drain/index.html",
+    "regions/gwangju/gwangju-seogu/leak/index.html",
+    "regions/gwangju/gwangju-namgu/drain/index.html",
+    "regions/gwangju/gwangju-namgu/leak/index.html",
+    "regions/gwangju/gwangju-donggu/drain/index.html",
+    "regions/gwangju/gwangju-donggu/leak/index.html",
+    "regions/gwangju/gwangju-gwangsangu/drain/index.html",
+    "regions/gwangju/gwangju-gwangsangu/leak/index.html",
+    "services/pipe/index.html",
+    "cases/pipe/index.html",
+    "cases/pipe/gwangju-factory-sewer-pipe-replacement/index.html",
+    "faq/pipe/index.html"
+  ],
+  "rule": "yellow representative at top; YouTuber Superman image immediately before actual work/case section; Gwangju 5-gu pipe/drain/leak pilot"
+}
