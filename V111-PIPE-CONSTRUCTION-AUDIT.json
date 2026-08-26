@@ -1,0 +1,104 @@
+{
+  "base_version": "V110",
+  "version": "V111",
+  "html_total": 231,
+  "html_added": 11,
+  "existing_h1_changes": [],
+  "existing_canonical_changes": [],
+  "errors": {
+    "h1": 0,
+    "canonical": 0,
+    "jsonld": 0,
+    "image": 0,
+    "alt": 0,
+    "link": 0
+  },
+  "error_samples": {
+    "h1": [],
+    "canonical": [],
+    "jsonld": [],
+    "image": [],
+    "alt": [],
+    "link": []
+  },
+  "new_urls": [
+    "https://supermandrain.co.kr/services/pipe/",
+    "https://supermandrain.co.kr/cases/pipe/",
+    "https://supermandrain.co.kr/cases/pipe/gwangju-factory-sewer-pipe-replacement/",
+    "https://supermandrain.co.kr/faq/pipe/",
+    "https://supermandrain.co.kr/symptoms/pipe/",
+    "https://supermandrain.co.kr/equipment/pipe/",
+    "https://supermandrain.co.kr/regions/gwangju/gwangju-bukgu/pipe/",
+    "https://supermandrain.co.kr/regions/gwangju/gwangju-seogu/pipe/",
+    "https://supermandrain.co.kr/regions/gwangju/gwangju-namgu/pipe/",
+    "https://supermandrain.co.kr/regions/gwangju/gwangju-donggu/pipe/",
+    "https://supermandrain.co.kr/regions/gwangju/gwangju-gwangsangu/pipe/"
+  ],
+  "pipe_pages_first_image_order": [
+    {
+      "page": "services/pipe/index.html",
+      "first_non_brand": "/assets/pipe/youtuber-superman-drain.webp",
+      "ok": true
+    },
+    {
+      "page": "cases/pipe/index.html",
+      "first_non_brand": "/assets/pipe/youtuber-superman-drain.webp",
+      "ok": true
+    },
+    {
+      "page": "cases/pipe/gwangju-factory-sewer-pipe-replacement/index.html",
+      "first_non_brand": "/assets/pipe/youtuber-superman-drain.webp",
+      "ok": true
+    },
+    {
+      "page": "faq/pipe/index.html",
+      "first_non_brand": "/assets/pipe/youtuber-superman-drain.webp",
+      "ok": true
+    },
+    {
+      "page": "symptoms/pipe/index.html",
+      "first_non_brand": "/assets/pipe/youtuber-superman-drain.webp",
+      "ok": true
+    },
+    {
+      "page": "equipment/pipe/index.html",
+      "first_non_brand": "/assets/pipe/youtuber-superman-drain.webp",
+      "ok": true
+    },
+    {
+      "page": "regions/gwangju/gwangju-bukgu/pipe/index.html",
+      "first_non_brand": "/assets/pipe/youtuber-superman-drain.webp",
+      "ok": true
+    },
+    {
+      "page": "regions/gwangju/gwangju-seogu/pipe/index.html",
+      "first_non_brand": "/assets/pipe/youtuber-superman-drain.webp",
+      "ok": true
+    },
+    {
+      "page": "regions/gwangju/gwangju-namgu/pipe/index.html",
+      "first_non_brand": "/assets/pipe/youtuber-superman-drain.webp",
+      "ok": true
+    },
+    {
+      "page": "regions/gwangju/gwangju-donggu/pipe/index.html",
+      "first_non_brand": "/assets/pipe/youtuber-superman-drain.webp",
+      "ok": true
+    },
+    {
+      "page": "regions/gwangju/gwangju-gwangsangu/pipe/index.html",
+      "first_non_brand": "/assets/pipe/youtuber-superman-drain.webp",
+      "ok": true
+    }
+  ],
+  "pipe_assets_count": 37,
+  "notes": [
+    "기존 V110 URL/H1/canonical 보존",
+    "배관공사 이미지를 사용하는 신규 페이지/섹션에서 유튜버 슈퍼맨하수구 이미지를 실제 배관공사 사진보다 먼저 배치",
+    "실제 CASE는 광주지역 실제 사례로 표기하고 광주 5구 개별 현장으로 허위 표기하지 않음"
+  ],
+  "zip_test_bad": null,
+  "zip_duplicate_entries": 0,
+  "zip_files": 2024,
+  "zip_size_bytes": 197116742
+}
